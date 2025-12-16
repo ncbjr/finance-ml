@@ -1,1630 +1,1630 @@
-data,descricao,valor,categoria,subcategoria,tags
-,1000 OPÇÕES,18.39,Moradia,FERRAMENTAS,custos fixos
-,1000 Opcoes,37.96,Moradia,FERRAMENTAS,custos fixos
-,1000 Opcoes - Parcela 1/2,32.0,Moradia,FERRAMENTAS,custos fixos
-,1000 Opcoes - Parcela 2/2,44.98,Moradia,FERRAMENTAS,custos fixos
-,1000 Opcoes - Parcela 3/3,33.64,Moradia,HABITAÇÃO,custos fixos
-,215 - Rj Niteroi Plaza - Parcela 2/2,49.95,Moradia,ROUPAS,conforto
-,215 - Rj Niteroi Plaza - Parcela 2/3,39.96,Moradia,ROUPAS,conforto
-,215 - Rj Niteroi Plaza - Parcela 3/3,39.96,Moradia,ROUPAS,conforto
-,28544988renatade,14.0,Outros,DESCONHECIDO,categorizar
-,36768889 Bruno Henriqu,124.3,Outros,DESCONHECIDO,categorizar
-,49780392caroline,12.0,Outros,DESCONHECIDO,categorizar
-,49780392caroline,10.0,Outros,DESCONHECIDO,categorizar
-,50475484fabianade,69.9,Outros,DESCONHECIDO,categorizar
-,A P C Dutra Mundo Do,30.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,A Sua Farmacia E Voc,6.49,Outros,DESCONHECIDO,categorizar
-,AJUSTE FATURA,238.28,Moradia,CARTÃO DE CREDITO,conforto
-,AJUSTE FATURA,1420.0,Outros,CARTÃO DE CREDITO,categorizar
-,ANTONIO CARLOS DE OLI,31.7,Outros,DESCONHECIDO,categorizar
-,Abbraccio Niteroi,91.61,Lazer,RESTAURANTE,prazeres
-,Abbraccio Niteroi,91.62,Lazer,RESTAURANTE,prazeres
-,Abreu E Gutierres Baz,8.99,Outros,DESCONHECIDO,categorizar
-,Ac Padaria,26.07,Alimentação,ALIMENTAÇÃO,custos fixos
-,Academia Mãe,120.0,Lazer,DOAÇÃO,prazeres
-,Adaltoalves - Parcela 1/2,70.0,Outros,DESCONHECIDO,categorizar
-,Adaltoalves - Parcela 2/2,70.0,Outros,DESCONHECIDO,categorizar
-,Ahoradogelo,30.0,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Ahoradogelo,23.0,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Ajuste,130.18,Outros,CARTÃO DE CREDITO,categorizar
-,Ajuste Fatura,3102.0,Outros,CARTÃO DE CREDITO,categorizar
-,Ajuste Fatura,171.76,Outros,DESCONHECIDO,categorizar
-,Ajuste Saldo,147.0,Outros,DESCONHECIDO,categorizar
-,Ajuste de Fatura,339.71,Outros,DESCONHECIDO,categorizar
-,Ajuste de fatura temporário,1887.24,Outros,CARTÃO DE CREDITO,categorizar
-,Ajuste fatura nubank,1100.0,Outros,CARTÃO DE CREDITO,categorizar
-,Aleixo Bar Restauran,156.93,Lazer,RESTAURANTE,prazeres
-,Aleixo Bar Restauran1,293.15,Lazer,RESTAURANTE,prazeres
-,Aleixo Bar Restauran2,143.55,Lazer,RESTAURANTE,prazeres
-,Aleixo Bar Restauran3,6.72,Lazer,RESTAURANTE,prazeres
-,Aleixo Bar Restaurante,231.44,Lazer,RESTAURANTE,prazeres
-,Alimentação,1200.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Amalfi,25.0,Lazer,VIAGEM,prazeres
-,Amazon,23.49,Outros,DESCONHECIDO,categorizar
-,Amazon Aws Servicos Br,45.36,Moradia,FERRAMENTAS,custos fixos
-,Amazon Aws Servicos Br,45.44,Moradia,FERRAMENTAS,custos fixos
-,Amazon Br,40.39,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br,152.91,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br,139.41,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br,42.59,Lazer,SUPLEMENTAÇÃO,prazeres
-,Amazon Br,24.54,Alimentação,ALIMENTAÇÃO,prazeres
-,Amazon Br,47.09,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br,53.91,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br,44.05,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br,100.0,Lazer,SUPLEMENTAÇÃO,prazeres
-,Amazon Br,56.09,Lazer,SUPLEMENTAÇÃO,prazeres
-,Amazon Br,30.64,Educação,EDUCAÇÃO,conhecimento
-,Amazon Br1,39.2,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br1,79.99,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br2,152.91,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br2,31.44,Educação,EDUCAÇÃO,conhecimento
-,Amazon Br3,37.54,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Br3,31.17,Alimentação,ALIMENTAÇÃO,custos fixos
-,Amazon Br4,24.54,Alimentação,ALIMENTAÇÃO,custos fixos
-,Amazon Br5,170.1,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Digital,23.65,Outros,DESCONHECIDO,categorizar
-,Amazon Marketplace,53.9,Outros,DESCONHECIDO,categorizar
-,Amazon Marketplace,37.58,Outros,DESCONHECIDO,categorizar
-,Amazon Marketplace,90.9,Moradia,HABITAÇÃO,custos fixos
-,Amazon Marketplace,109.0,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Marketplace,129.98,Lazer,SUPLEMENTAÇÃO,prazeres
-,Amazon Marketplace - Parcela 1/2,69.93,Outros,DESCONHECIDO,categorizar
-,Amazon Marketplace - Parcela 2/2,69.92,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Marketplace - Parcela 4/5,54.3,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Marketplace - Parcela 5/5,54.3,Outros,DESCONHECIDO,categorizar
-,Amazon Marketplace B,78.95,Moradia,HABITAÇÃO,custos fixos
-,Amazon Marketplace B - Parcela 3/10,78.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Amazon Marketplace B - Parcela 4/10,78.95,Outros,DESCONHECIDO,categorizar
-,Amazon Marketplace Br  Sao Paulo     Bra,78.95,Moradia,HABITAÇÃO,custos fixos
-,Amazon Marketplace Br Sao Paulo Bra,78.95,Moradia,HABITAÇÃO,custos fixos
-,Amazon Marketplace Br Sao Paulo Bra - Parcela 5/10,78.95,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Marketplace1,59.9,Lazer,ANIMAIS,prazeres
-,Amazon Marketplace1,60.9,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Marketplace2,39.8,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Marketplace2,89.9,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Amazon Prime Aluguel,6.9,Outros,DESCONHECIDO,categorizar
-,Amazonprimebr,19.9,Lazer,LAZER,prazeres
-,Amazonprimebr1,19.9,Lazer,LAZER,prazeres
-,Amazonprimebr2,19.9,Lazer,LAZER,prazeres
-,Amazonprimebr3,19.9,Lazer,LAZER,prazeres
-,Andersontiago,125.0,Outros,DESCONHECIDO,categorizar
-,Andersontiago,170.0,Lazer,DESCONHECIDO,prazeres
-,Angelicafrancisca,20.0,Outros,DESCONHECIDO,categorizar
-,Antonio Carlos De Oli,24.5,Outros,DESCONHECIDO,categorizar
-,Antonio Carlos De Oli,19.9,Outros,DESCONHECIDO,categorizar
-,Antonio Carlos De Oli,29.9,Outros,DESCONHECIDO,categorizar
-,Appai,310.0,Saúde,SAUDE: ASSINATURA,custos fixos
-,Appai,327.9,Saúde,SAUDE: ASSINATURA,custos fixos
-,Apple.Com/Bill,35.0,Moradia,FERRAMENTAS,custos fixos
-,Apple.Com/Bill,29.9,Outros,ELETRÔNICOS,categorizar
-,Apple.Com/Bill,14.9,Moradia,FERRAMENTAS,custos fixos
-,Apple.Com/Bill1,16.9,Moradia,FERRAMENTAS,custos fixos
-,Apple.Com/Bill2,35.0,Moradia,FERRAMENTAS,custos fixos
-,Apple.Com/Bill3,14.9,Moradia,FERRAMENTAS,custos fixos
-,Apple.com/bill,35.0,Moradia,ELETRÔNICOS,conforto
-,Apple.com/bill,49.9,Moradia,ELETRÔNICOS,conforto
-,Apple.com/bill,1.9,Moradia,FERRAMENTAS,conforto
-,Araken Centro,49.07,Lazer,ANIMAIS,prazeres
-,Araken Centro,59.22,Lazer,ANIMAIS,prazeres
-,Araken Centro,104.93,Lazer,ANIMAIS,prazeres
-,Arakenpetcenter,27.58,Lazer,ANIMAIS,prazeres
-,Arcafe,28.9,Lazer,RESTAURANTE: CAFETERIA,prazeres
-,Arcafe,23.49,Lazer,RESTAURANTE: CAFETERIA,prazeres
-,Arcafe Cafeteria e Cow1,34.89,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Arcafe Cafeteria e Cow2,22.99,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Arcopleno,9.9,Outros,DESCONHECIDO,categorizar
-,Art Cafe Lapa,20.0,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Art Do Cafe,48.0,Lazer,RESTAURANTE: CAFETERIA,prazeres
-,Assb Comercio Vareji,30.97,Moradia,HABITAÇÃO,custos fixos
-,Assb Comercio Varejist,45.36,Alimentação,ALIMENTAÇÃO,custos fixos
-,Assb Comercio Varejist,74.99,Alimentação,ALIMENTAÇÃO,custos fixos
-,Assb Comercio Varejist,19.96,Alimentação,ALIMENTAÇÃO,custos fixos
-,Assb Comercio Varejist,35.98,Outros,DESCONHECIDO,categorizar
-,Atrativa,39.0,Moradia,ROUPAS,conforto
-,Atrativa          01/06,21.35,Moradia,ROUPAS,conforto
-,Atrativa          02/06,21.35,Moradia,ROUPAS,conforto
-,Atrativa          03/06,21.35,Moradia,ROUPAS,conforto
-,Atrativa          04/06,21.35,Moradia,ROUPAS,conforto
-,Atrativa          05/06,21.35,Moradia,ROUPAS,conforto
-,Atrativa          06/06,21.35,Moradia,ROUPAS,conforto
-,Auto Posto Margui 2,106.75,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Auto Posto Nossa Sen,20.0,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Autoviacao1001*aut01/03,178.26,Educação,EDUCAÇÃO,conhecimento
-,Autoviacao1001*aut02/03,178.26,Educação,EDUCAÇÃO,conhecimento
-,Autoviacao1001*aut03/03,178.26,Educação,EDUCAÇÃO,conhecimento
-,Autoviacao1001*autovia,-0.02,Outros,,
-,BERLINF FAMILIA PALUDO,266.2,Lazer,RESTAURANTE,prazeres
-,Bacio Di Latte-lj002,45.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Bacio Di Latte-lj002,41.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Bacio Di Latte-lj0024,43.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Banca Cultura,60.0,Lazer,VIAGEM,prazeres
-,Bar Dos Ouriveis,27.9,Lazer,RESTAURANTE,prazeres
-,Bar E Restaurante Casa,64.02,Lazer,RESTAURANTE,prazeres
-,Bar E Restaurante Casa,23.26,Lazer,RESTAURANTE,prazeres
-,Bar E Restaurante Casa,44.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Barcas S.A,7.7,Transporte,TRANSPORTE,prazeres
-,Bay Market,15.0,Lazer,LAZER,prazeres
-,Bazar Quase Dois,26.97,Moradia,FERRAMENTAS,custos fixos
-,Bazar Quase Dois,18.99,Moradia,HABITAÇÃO,conforto
-,Bazar Quase Dois,21.99,Moradia,HABITAÇÃO,custos fixos
-,Bazar Quase Dois,16.98,Moradia,FERRAMENTAS,custos fixos
-,Bazar Ribeiro Sao Go,54.3,Moradia,FERRAMENTAS,custos fixos
-,Beach Farma de Marica,23.85,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Bebidasmaresias,58.0,Lazer,DOAÇÃO,prazeres
-,Beira Mar Estacionam,25.0,Transporte,TRANSPORTE,prazeres
-,Bel Cosmeticos,23.9,Moradia,ESTÉTICA,conforto
-,Bel Cosmeticos (02/06),23.35,Moradia,ESTÉTICA,conforto
-,Bel Cosmeticos (03/06),23.35,Moradia,ESTÉTICA,conforto
-,Bel Cosmeticos (04/06),23.35,Moradia,ESTÉTICA,conforto
-,Bel Cosmeticos (05/06),23.35,Moradia,ESTÉTICA,conforto
-,Bel Cosmeticos (06/06),23.35,Moradia,ESTÉTICA,conforto
-,Bel Cosmeticos 01/06,23.35,Moradia,ESTÉTICA,conforto
-,Bela Ferraz Marica,55.99,Moradia,ESTÉTICA,conforto
-,Bela Ferraz Marica,33.98,Moradia,ESTÉTICA,conforto
-,Bela Ferraz Marica,37.98,Moradia,ESTÉTICA,conforto
-,Bela Ferraz Marica - Parcela 1/2,61.71,Moradia,ROUPAS,conforto
-,Bela Ferraz Marica - Parcela 2/2,61.71,Moradia,ESTÉTICA,conforto
-,Beng,61.94,Moradia,HABITAÇÃO,custos fixos
-,Betterpb - Parcela 1/3,41.45,Alimentação,ALIMENTAÇÃO,custos fixos
-,Betterpb - Parcela 1/4,90.67,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Betterpb - Parcela 2/3,41.44,Alimentação,ALIMENTAÇÃO,custos fixos
-,Betterpb - Parcela 2/4,90.67,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Betterpb - Parcela 3/3,41.44,Alimentação,ALIMENTAÇÃO,custos fixos
-,Betterpb - Parcela 3/4,90.67,Lazer,SUPLEMENTAÇÃO,prazeres
-,Betterpb - Parcela 4/4,90.67,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bh Park,45.0,Lazer,LAZER,prazeres
-,Bikemarica,25.0,Lazer,LAZER,prazeres
-,Bio Magistral     01/06,143.65,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bio Magistral     02/06,143.65,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bio Magistral     03/06,143.65,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bio Magistral     04/06,143.65,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bio Magistral     05/06,143.65,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bio Magistral     06/06,143.65,Lazer,SUPLEMENTAÇÃO,prazeres
-,Bio Magistral - Parcela 1/2,98.2,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Bio Magistral - Parcela 2/2,98.2,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Bio Magistral - Parcela 2/3,112.66,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Bio Magistral - Parcela 3/3,112.66,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Bitwarden,64.3,Moradia,FERRAMENTAS,conforto
-,Blackmachine,5.0,Lazer,ELETRÔNICOS,prazeres
-,Blackmachine,10.0,Lazer,ELETRÔNICOS,prazeres
-,Bobs,16.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Bobs Nit Plaza,16.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Bobs Nit Plaza,9.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Bobs Nit Plaza,19.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Br *br1foodtosav,82.09,Alimentação,ALIMENTAÇÃO,prazeres
-,Br *foodtosav,79.96,Lazer,RESTAURANTE: LANCHE,prazeres
-,Brandt E Moura Padar,8.92,Lazer,RESTAURANTE: LANCHE,prazeres
-,Brandt E Moura Padaria,8.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Brandt E Moura Padaria,6.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Brandt E Moura Padaria,10.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,Brandt E Moura Padaria,15.23,Alimentação,ALIMENTAÇÃO,custos fixos
-,Brandt E Moura Padaria,7.13,Lazer,RESTAURANTE: LANCHE,prazeres
-,Brandt E Moura Padaria,1.15,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Brodao Brasil,6.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Brodao Brasil,15.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,CC PÃO DE AÇÚCAR,238.66,Outros,CARTÃO DE CREDITO,categorizar
-,CC PÃO DE AÇÚCAR,18.15,Outros,CARTÃO DE CREDITO,categorizar
-,CC Pão de Açúcar,238.66,Outros,CARTÃO DE CREDITO,categorizar
-,Cabelo,130.0,Moradia,ESTÉTICA,conforto
-,Cafe Ao Cubo 1,83.05,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Cafe Com Pao,10.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Camelo Distribuidora D,51.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Camicado - Parcela 1/2,84.99,Moradia,HABITAÇÃO,custos fixos
-,Camicado - Parcela 2/2,84.98,Moradia,HABITAÇÃO,custos fixos
-,Camila Abreu De Souz,283.8,Lazer,RESTAURANTE,prazeres
-,Camilapereirada,41.0,Outros,DESCONHECIDO,categorizar
-,Cantinho Do Acai Ja,11.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Cappta *brodao,13.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Cappta *celia Goulart,36.0,Outros,DESCONHECIDO,categorizar
-,Cappta *central Lanc,10.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Cappta *central Lanche,19.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Cappta *central Lanche,18.5,Lazer,RESTAURANTE: LANCHE,conforto
-,Cappta *central Lanche,9.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Carel Produtos de Bel,49.3,Moradia,ESTÉTICA,conforto
-,Carlosmiguel,34.93,Outros,DESCONHECIDO,categorizar
-,Carrefour Paulista 1,19.64,Educação,EDUCAÇÃO,conhecimento
-,Cartão Zilá,650.0,Outros,DESCONHECIDO,categorizar
-,Cartão Zilá,973.98,Outros,DESCONHECIDO,categorizar
-,Casa Do Biscoito,17.99,Alimentação,ALIMENTAÇÃO,custos fixos
-,Casa Do Eucalipto,84.0,Outros,OBRAS,metas
-,Casa Do Eucalipto - Parcela 3/6,84.0,Outros,OBRAS,metas
-,Casa Do Eucalipto - Parcela 4/6,84.0,Outros,OBRAS,metas
-,Casa Do Eucalipto - Parcela 5/6,84.0,Outros,OBRAS,metas
-,Casa Limpeza,33.98,Moradia,HABITAÇÃO,custos fixos
-,Casa Limpeza,11.98,Moradia,HABITAÇÃO,custos fixos
-,Casa Limpeza,5.99,Moradia,HABITAÇÃO,custos fixos
-,Casa Limpeza,59.99,Moradia,HABITAÇÃO,custos fixos
-,Casa e Video,9.98,Moradia,FERRAMENTAS,custos fixos
-,Casas Bahia - Parcela 1/2,128.69,Moradia,HABITAÇÃO,custos fixos
-,Casas Pernambucanas,111.96,Lazer,PRESENTES,prazeres
-,Casas Pernambucanas - Parcela 1/2,37.99,Moradia,FERRAMENTAS,custos fixos
-,Casas Pernambucanas - Parcela 1/3,30.98,Moradia,FERRAMENTAS,custos fixos
-,Casas Pernambucanas - Parcela 2/2,37.99,Moradia,FERRAMENTAS,custos fixos
-,Casas Pernambucanas - Parcela 2/2,89.98,Moradia,ROUPAS,conforto
-,Casas Pernambucanas - Parcela 2/3,30.98,Moradia,ROUPAS,conforto
-,Casas Pernambucanas - Parcela 2/3,39.99,Moradia,ROUPAS,conforto
-,Casas Pernambucanas - Parcela 3/3,39.99,Moradia,ROUPAS,conforto
-,Casas Pernambucanas - Parcela 3/3,30.98,Moradia,ROUPAS,conforto
-,Castração do Paçoca,1200.0,Lazer,ANIMAIS,prazeres
-,Castração dos gatos,160.0,Lazer,ANIMAIS,prazeres
-,Catiapradopeixoto,276.1,Lazer,RESTAURANTE,prazeres
-,Cea Nit 560 Ecpc - Parcela 1/3,89.99,Moradia,ROUPAS,conforto
-,Cea Nit 560 Ecpc - Parcela 2/3,65.32,Moradia,ROUPAS,conforto
-,Cea Nit 560 Ecpc - Parcela 2/3,89.99,Moradia,ROUPAS,conforto
-,Cea Nit 560 Ecpc - Parcela 3/3,89.99,Moradia,ROUPAS,conforto
-,Cea Nit 560 Ecpc - Parcela 3/3,65.32,Moradia,ROUPAS,conforto
-,Celular,120.0,Moradia,TELEFONE,custos fixos
-,Cencosud Brasil Come,64.1,Alimentação,ALIMENTAÇÃO,custos fixos
-,Cencosud Brasil Come,163.13,Alimentação,ALIMENTAÇÃO,custos fixos
-,Cencosud Brasil Come,121.24,Alimentação,ALIMENTAÇÃO,custos fixos
-,Cencosud Brasil Come,58.15,Alimentação,ALIMENTAÇÃO,custos fixos
-,Cencosud Brasil Comerc,117.51,Alimentação,ALIMENTAÇÃO,custos fixos
-,Cencosud Brasil Comerc,86.21,Alimentação,ALIMENTAÇÃO,custos fixos
-,Cencosud Brasil Comerc,16.63,Alimentação,ALIMENTAÇÃO,custos fixos
-,Central Lanches,19.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Centrocell Informati - Parcela 2/3,73.3,Outros,DESCONHECIDO,categorizar
-,Centrocell Informati - Parcela 3/3,73.3,Outros,DESCONHECIDO,categorizar
-,Charque 500 Industri,54.36,Lazer,LAZER,prazeres
-,Charque 500 Industria,93.8,Alimentação,ALIMENTAÇÃO,prazeres
-,Charque 500 Industria,68.41,Alimentação,ALIMENTAÇÃO,prazeres
-,Cheff Gourmet,40.62,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Cheff Gourmet,33.7,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Cheff Gourmet,40.11,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Cheff Gourmet,3.0,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Cheff Gourmet,78.2,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Cheff Gourmet,84.6,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Cheirin Bao,44.58,Moradia,DESCONHECIDO,conforto
-,Chocomarica,73.5,Alimentação,ALIMENTAÇÃO,prazeres
-,Chocomarica,57.37,Alimentação,ALIMENTAÇÃO,prazeres
-,Chocomarica,76.58,Alimentação,ALIMENTAÇÃO,prazeres
-,Chocomarica,51.8,Alimentação,ALIMENTAÇÃO,prazeres
-,Churrascodosamuca,56.0,Lazer,RESTAURANTE,prazeres
-,Churrascodosamuca,63.0,Lazer,RESTAURANTE,prazeres
-,Citycol,22.99,Moradia,ROUPAS,conforto
-,Claudioluizda,35.0,Lazer,RESTAURANTE,prazeres
-,Claudioluizda,25.0,Outros,DESCONHECIDO,categorizar
-,Clinica Vet Popula01/04,87.75,Lazer,ANIMAIS,prazeres
-,Clinica Vet Popula03/04,87.75,Lazer,ANIMAIS,prazeres
-,Clinica Vet Popula04/04,87.75,Lazer,ANIMAIS,prazeres
-,Clinica Vet Popular(02/04),87.75,Lazer,ANIMAIS,prazeres
-,Coffee Break Gourmet,13.0,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Comercial Oceanica,44.0,Moradia,FERRAMENTAS,custos fixos
-,Comercio De Calcados,109.9,Moradia,ROUPAS,conforto
-,Comercio De Produtos,85.18,Alimentação,ALIMENTAÇÃO,conforto
-,Comercio De Produtos,96.18,Outros,DESCONHECIDO,categorizar
-,Comercio De Produtos,76.23,Alimentação,ALIMENTAÇÃO,conforto
-,Comercio de Produtos,38.6,Alimentação,ALIMENTAÇÃO,custos fixos
-,Comercio de Produtos,54.08,Outros,DESCONHECIDO,categorizar
-,Comercio de Produtos,50.0,Outros,DESCONHECIDO,categorizar
-,Compras Débora,300.0,Lazer,ELETRÔNICOS,prazeres
-,Compras Débora,500.0,Lazer,ELETRÔNICOS,prazeres
-,Compras Débora,577.0,Moradia,ESTÉTICA,conforto
-,Compras Mercado Livre,372.0,Alimentação,DESPESAS PESSOAIS,custos fixos
-,Compras Thiago,600.0,Moradia,HABITAÇÃO,custos fixos
-,Consorcio Estacionam,30.0,Transporte,TRANSPORTE,prazeres
-,Consorcio Estacionamen,11.0,Transporte,TRANSPORTE,conforto
-,Consorcio Estacionament,11.0,Transporte,TRANSPORTE,prazeres
-,Conta Vivo,57.34,Moradia,TELEFONE,custos fixos
-,Conta Vivo,57.44,Lazer,DOAÇÃO,prazeres
-,Conta Vivo,57.27,Moradia,TELEFONE,custos fixos
-,Conta Vivo,57.31,Moradia,TELEFONE,custos fixos
-,Conta Vivo,57.23,Moradia,TELEFONE,custos fixos
-,Conta61d9d2481003494,52.8,Moradia,FERRAMENTAS,custos fixos
-,Contabo Com,35.26,Moradia,FERRAMENTAS,conforto
-,Copel,23.85,Alimentação,ALIMENTAÇÃO,custos fixos
-,Copel 455,91.3,Alimentação,ALIMENTAÇÃO,custos fixos
-,Coxinha No Copo,15.0,Lazer,RESTAURANTE,prazeres
-,Credpay*38 - Amigao,7.99,Moradia,HABITAÇÃO,custos fixos
-,Credpay*38 - Amigao de,67.97,Outros,DESCONHECIDO,categorizar
-,Ctyongpastelaria,38.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ctyongpastelaria,8.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Cultura Japonesa,14.0,Lazer,VIAGEM,prazeres
-,Cumani Marica,33.94,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Cílios,70.0,Moradia,ESTÉTICA,conforto
-,Cílios,120.0,Moradia,ESTÉTICA,conforto
-,Cílios,260.0,Moradia,ESTÉTICA,conforto
-,D Goulart Cafeteria,41.0,Lazer,RESTAURANTE: CAFETERIA,conforto
-,DAS/MEI,81.97,Alimentação,TAXAS,custos fixos
-,DAS/MEI,230.0,Alimentação,TAXAS,custos fixos
-,DAS/MEI Atrasadas M,170.0,Alimentação,TAXAS,custos fixos
-,DAS/MEI Atrasadas N,354.72,Alimentação,TAXAS,custos fixos
-,DELL,493.25,Moradia,ELETRÔNICOS,conforto
-,DELL 09/12,493.25,Lazer,LAZER,prazeres
-,DELL 10/12,493.25,Lazer,LAZER,prazeres
-,DELL 11/12,493.25,Lazer,LAZER,prazeres
-,DORIS ALIMENTOS,22.88,Alimentação,ALIMENTAÇÃO,custos fixos
-,DROGARIA NOSSA SENHORA1,26.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,DROGARIA NOSSA SENHORA2,20.48,Saúde,SAUDE: FARMÁCIA,custos fixos
-,DROGARIA NOSSA SENHORA3,20.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,DROGRARIA TAMOIO1,61.77,Saúde,SAUDE: FARMÁCIA,custos fixos
-,De Coracao E Prese01/03,53.97,Lazer,PRESENTES,prazeres
-,De Coracao E Prese02/03,53.97,Lazer,PRESENTES,prazeres
-,De Coracao E Prese03/03,53.97,Lazer,PRESENTES,prazeres
-,De Coracao E Present,17.21,Lazer,PRESENTES,prazeres
-,Decathlon,29.98,Moradia,ROUPAS,conforto
-,Decathlon - Parcela 1/2,72.49,Moradia,ROUPAS,conforto
-,Decathlon - Parcela 2/2,72.49,Moradia,ROUPAS,conforto
-,Delicias Da Val,73.7,Lazer,RESTAURANTE,prazeres
-,Delicias Da Val,75.9,Lazer,RESTAURANTE,prazeres
-,Delivery Alimentos Moc,42.07,Lazer,VIAGEM,prazeres
-,Distribuidora De Rac,51.8,Lazer,ANIMAIS,prazeres
-,Distribuidora De Rac,211.72,Lazer,ANIMAIS,prazeres
-,Distribuidora De Rac,75.36,Lazer,ANIMAIS,prazeres
-,Distribuidora De Rac - Parcela 1/6,75.37,Lazer,ANIMAIS,prazeres
-,Distribuidora De Rac - Parcela 2/6,75.36,Lazer,ANIMAIS,prazeres
-,Distribuidora De Racoe Marica Bra,75.36,Lazer,ANIMAIS,prazeres
-,Distribuidora de Racoe - Parcela 2/6,40.09,Lazer,ANIMAIS,prazeres
-,Distribuidora de Racoe - Parcela 3/6,40.09,Lazer,ANIMAIS,prazeres
-,Distribuidora de Racoe - Parcela 5/6,40.09,Lazer,ANIMAIS,prazeres
-,Distribuidora de Racoe - Parcela 6/6,40.09,Lazer,ANIMAIS,prazeres
-,Divino Pao,50.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Divino Pao,13.5,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Divino Pao,52.51,Lazer,RESTAURANTE: LANCHE,prazeres
-,Divino Pao,36.91,Lazer,RESTAURANTE,conforto
-,Divino Pao,15.4,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Divino Pao,18.56,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Divino Pao,22.0,Lazer,RESTAURANTE: DIA A DIA,prazeres
-,Divino Pao,32.98,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Dl *google Steel And F,23.99,Lazer,ELETRÔNICOS,prazeres
-,Doce Brigaderia,29.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Doce Brigaderia,37.0,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Doce Brigaderia,34.0,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Doris Alimenticios,84.22,Lazer,RESTAURANTE,prazeres
-,Doris Alimenticios,27.57,Alimentação,ALIMENTAÇÃO,custos fixos
-,Drinks & Cia,35.15,Lazer,RESTAURANTE: LANCHE,prazeres
-,Drogaria Bonito,5.45,Lazer,VIAGEM,prazeres
-,Drogaria Max Ii,100.91,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Max Ii,18.75,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Max Ii,48.46,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Max Ii,104.08,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Max Ii - Parcela 1/3,104.08,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Max Ii - Parcela 2/3,104.08,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Max Ii 01/02,257.99,Saúde,SAUDE: FARMÁCIA,prazeres
-,Drogaria Max Ii 02/02,257.99,Saúde,SAUDE: FARMÁCIA,prazeres
-,Drogaria Nossa Senho,36.37,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,97.93,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,8.28,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,39.97,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,65.46,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,77.35,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,36.47,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,13.9,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,99.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,85.97,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,28.79,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,112.41,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,43.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,20.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,150.92,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,27.98,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,22.98,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,44.98,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,46.44,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,4.49,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Nossa Senho,27.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,29.99,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,34.97,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,54.34,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,87.27,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,74.55,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,15.98,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,19.68,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio,75.37,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 1/3,47.43,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 1/4,50.34,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 2/3,47.41,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 2/4,50.32,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 3/3,47.41,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 3/4,50.32,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 3/5,73.49,Saúde,SAUDE: FARMÁCIA,prazeres
-,Drogaria Tamoio - Parcela 4/4,50.32,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogaria Tamoio - Parcela 4/5,73.49,Saúde,SAUDE: FARMÁCIA,prazeres
-,Drogaria Tamoio - Parcela 5/5,73.49,Saúde,SAUDE: FARMÁCIA,prazeres
-,Drogaria Via Marica,9.39,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogarias Max,19.97,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogarias Pacheco,39.96,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogarias Pacheco Sa,25.98,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogarias Pacheco Sa,38.96,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogarias Pacheco Sa,54.98,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Drogarias Ultra Popula,46.0,Saúde,SAUDE: FARMÁCIA,custos fixos
-,Dízimo,2100.0,Alimentação,DÍZIMO,custos fixos
-,Dízimo,1600.0,Alimentação,DÍZIMO,custos fixos
-,Dízimo,1500.0,Alimentação,DÍZIMO,custos fixos
-,Dízimo,2400.0,Alimentação,DÍZIMO,custos fixos
-,Dízimo,1800.0,Alimentação,DÍZIMO,custos fixos
-,ENCARGOS DE ATRASO,5.01,Alimentação,TAXAS,custos fixos
-,Ebn *Sonyplaystatn,5.02,Lazer,LAZER,prazeres
-,Ebn *Sonyplaystatn,53.1,Lazer,LAZER,prazeres
-,Ebn *Sonyplaystatn - Parcela 1/4,43.91,Lazer,LAZER,prazeres
-,Ebn *Sonyplaystatn - Parcela 2/4,43.91,Lazer,LAZER,prazeres
-,Ebn*Sonyplaystatn,53.1,Lazer,LAZER,prazeres
-,Ecoponte Fpay,3.1,Transporte,TRANSPORTE,prazeres
-,Edzr - Parcela  01/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 02/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 03/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 04/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 05/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 06/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 07/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 08/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 09/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 10/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 11/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzr - Parcela 12/12,59.7,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 1/12,46.06,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 10/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 11/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 12/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 2/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 3/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 4/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 5/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 6/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 7/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 8/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Edzrnutrihubanual - Parcela 9/12,46.04,Educação,EDUCAÇÃO,conhecimento
-,Elainemedauarde,19.0,Outros,DESCONHECIDO,categorizar
-,Elainemedauarde,5.5,Lazer,RESTAURANTE: DIA A DIA,custos fixos
-,Elainemedauarde,18.0,Outros,DESCONHECIDO,categorizar
-,Elainemedauarde,13.5,Outros,DESCONHECIDO,categorizar
-,Elainemedauarde,8.0,Outros,DESCONHECIDO,categorizar
-,Elainemedauarde,7.0,Outros,DESCONHECIDO,categorizar
-,Elainemedauarde,9.14,Outros,DESCONHECIDO,categorizar
-,Elainemedauarde,23.2,Outros,DESCONHECIDO,categorizar
-,Encargos Rotativo,90.84,Alimentação,TAXAS,custos fixos
-,Endócrino,500.0,Saúde,SAUDE: CONSULTAS,prazeres
-,Energia,200.0,Moradia,HABITAÇÃO,custos fixos
-,Erickfernandes,50.0,Outros,DESCONHECIDO,categorizar
-,Esquina Da Praia Bar,48.16,Lazer,RESTAURANTE,prazeres
-,Estacaolanches,23.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Estok Distribuidora,171.5,Moradia,HABITAÇÃO,custos fixos
-,Estrela Da Ana Rosa,100.87,Lazer,VIAGEM,prazeres
-,Evo*boaventura,166.0,Lazer,ANIMAIS,prazeres
-,F A Dos Santos Palhete,69.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,F A Dos Santos Palhete,175.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,F A Dos Santos Palhete,70.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,FRETE,200.0,Transporte,TRANSPORTE,prazeres
-,Faculdade,224.0,Educação,EDUCAÇÃO,conhecimento
-,Fenix Motos,35.0,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Fenix Motos,210.0,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Fenix Motos 01/02,187.5,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Fenix Motos 02/02,187.5,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Fenix Motos Marica Bra,210.0,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Festa da virada,120.0,Lazer,LAZER,prazeres
-,Figueiredo Aranha Clin - Parcela 10/12,18.5,Saúde,SAUDE: EXAMES,custos fixos
-,Figueiredo Aranha Clin - Parcela 11/12,18.5,Saúde,SAUDE: EXAMES,custos fixos
-,Figueiredo Aranha Clin - Parcela 12/12,18.5,Saúde,SAUDE: EXAMES,custos fixos
-,Figueiredo Aranha Clin - Parcela 5/10,25.2,Outros,DESCONHECIDO,categorizar
-,Figueiredo Aranha Clin - Parcela 6/10,25.2,Outros,DESCONHECIDO,categorizar
-,Figueiredo Aranha Clin - Parcela 8/10,25.2,Saúde,SAUDE: EXAMES,custos fixos
-,Figueiredo Aranha Clin - Parcela 9/10,25.2,Saúde,SAUDE: EXAMES,custos fixos
-,Finpet,100.0,Lazer,ANIMAIS,prazeres
-,Fisia Nike Ecommer,99.99,Moradia,ROUPAS,conforto
-,Fisia Nike Ecommer     Extrema       Bra,99.99,Moradia,ROUPAS,conforto
-,Fisia Nike Ecommer - Parcela 2/9,99.99,Moradia,ROUPAS,conforto
-,Fisia Nike Ecommer - Parcela 3/9,99.99,Moradia,ROUPAS,conforto
-,Fisia Nike Ecommer - Parcela 4/9,99.99,Moradia,ROUPAS,conforto
-,Fisia Nike Ecommer Extrema Bra,99.99,Moradia,ROUPAS,conforto
-,Fmracoes,79.9,Lazer,ANIMAIS,prazeres
-,Fome Zero Lanches,78.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Fome Zero Lanches,61.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Franciscoelisario,24.33,Outros,DESCONHECIDO,categorizar
-,Franciscoelisario,24.96,Outros,DESCONHECIDO,categorizar
-,Freezer 3/3,266.67,Moradia,HABITAÇÃO,custos fixos
-,G.M.A.P Supermercados,221.43,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.M.A.P Supermercados,337.06,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.M.A.P Supermercados,119.26,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.M.A.P Supermercados,353.75,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.M.A.P Supermercados,134.35,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercado,52.46,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercado,333.06,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercado,73.38,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercado,8.79,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercado,132.58,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,305.63,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,353.28,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,95.39,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,29.37,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,91.24,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,320.29,Alimentação,ALIMENTAÇÃO,custos fixos
-,G.m.a.p Supermercados,23.97,Alimentação,ALIMENTAÇÃO,custos fixos
-,GMAP SUPERMERCADOS,28.33,Alimentação,ALIMENTAÇÃO,custos fixos
-,GRAO DA TERRA1,19.98,Alimentação,ALIMENTAÇÃO,custos fixos
-,GRAO DA TERRA2,38.11,Alimentação,ALIMENTAÇÃO,custos fixos
-,GRT 2025,281.0,Transporte,TRANSPORTE,custos fixos
-,Gda Mini Mercado Ponta,111.73,Alimentação,ALIMENTAÇÃO,custos fixos
-,Gda Mini Mercado Ponta,30.02,Alimentação,ALIMENTAÇÃO,custos fixos
-,Gildete Alves Da Silva,115.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Gildete Alves da Silva,18.7,Moradia,HABITAÇÃO,custos fixos
-,Ginecologista,250.0,Saúde,SAUDE: CONSULTAS,custos fixos
-,"Github, Inc.",63.06,Moradia,FERRAMENTAS,conforto
-,"Github, Inc.",56.48,Moradia,FERRAMENTAS,conforto
-,Google GSUITE,33.6,Alimentação,TAXAS,custos fixos
-,Google Gsuite_techns,26.01,Moradia,FERRAMENTAS,custos fixos
-,Google Gsuite_techns,33.6,Moradia,FERRAMENTAS,custos fixos
-,Google Gsuite_technsol,33.6,Alimentação,TAXAS,custos fixos
-,Google Mob Control,3.29,Lazer,ELETRÔNICOS,prazeres
-,Google Mob Control,8.49,Lazer,ELETRÔNICOS,prazeres
-,Google One,79.9,Moradia,FERRAMENTAS,custos fixos
-,Google One,119.9,Moradia,FERRAMENTAS,custos fixos
-,Google We Are Warrior,34.53,Lazer,ELETRÔNICOS,prazeres
-,Google Youtube,13.9,Lazer,LAZER,prazeres
-,Google Youtube,4.99,Lazer,LAZER,prazeres
-,Google Youtube1,13.9,Lazer,LAZER,prazeres
-,Google Youtube2,4.99,Lazer,LAZER,prazeres
-,Grao Da Terra De Mar,50.15,Alimentação,ALIMENTAÇÃO,custos fixos
-,Grao da Terra de Maric,16.4,Alimentação,ALIMENTAÇÃO,custos fixos
-,Grao de Ouro Pedra Azu,28.59,Alimentação,ALIMENTAÇÃO,custos fixos
-,Grao de Ouro Pedra Azu,106.94,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hastel Aluguel    01/04,400.0,Outros,CASAMENTO,metas
-,Hastel Aluguel    02/04,400.0,Outros,CASAMENTO,metas
-,Havaianas,60.98,Moradia,ROUPAS,conforto
-,Hbepeixe,22.79,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hebertcarlos,45.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Hilaplast -ct,7.5,Moradia,HABITAÇÃO,custos fixos
-,Hna,62.78,Moradia,ESTÉTICA,conforto
-,Hna*Oboticario - Parcela 1/3,106.94,Moradia,ESTÉTICA,conforto
-,Hna*Oboticario - Parcela 2/3,106.93,Outros,DESCONHECIDO,categorizar
-,Hna*Oboticario - Parcela 3/3,106.93,Lazer,DESCONHECIDO,prazeres
-,Hna*oboticario,62.9,Moradia,ESTÉTICA,conforto
-,Hna*oboticario,39.6,Moradia,ESTÉTICA,conforto
-,Hnt Chicken,18.45,Lazer,RESTAURANTE: LANCHE,prazeres
-,Hortifrut Jvta De Ma,31.89,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta De Mari,101.52,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta De Mari,21.04,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta De Mari,23.61,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta De Maric,35.96,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta De Maric,39.46,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta de Mari,12.04,Alimentação,ALIMENTAÇÃO,custos fixos
-,Hortifrut Jvta de Mari,44.11,Alimentação,ALIMENTAÇÃO,custos fixos
-,Htm *cursotrafego,55.93,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 10/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 11/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 12/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 4/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 5/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 6/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 7/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 8/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Acjejum - Parcela 9/12,39.62,Educação,EDUCAÇÃO,conhecimento
-,Htm*Aryane Stein - Parcela 1/2,62.56,Outros,DESCONHECIDO,categorizar
-,Htm*Aryane Stein - Parcela 2/2,62.56,Educação,EDUCAÇÃO,conhecimento
-,Htm*cursos Luan Lis,97.0,Educação,EDUCAÇÃO,conhecimento
-,Htm*cursos Luan Lis,378.3,Educação,EDUCAÇÃO,conhecimento
-,Hungara Lanches Marica,11.5,Lazer,RESTAURANTE: LANCHE,conforto
-,Hungara Lanches Marica,19.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Hungara Lanches Marica,15.0,Lazer,RESTAURANTE: LANCHE,conforto
-,IFOOD1,98.94,Lazer,RESTAURANTE: LANCHE,prazeres
-,IFOOD2,50.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,IFOOD3,19.22,Lazer,RESTAURANTE: LANCHE,prazeres
-,INVESTIMENTO,300.0,Outros,INVESTIMENTOS,liberdade financeira
-,INVESTIMENTO,1000.0,Outros,INVESTIMENTOS,liberdade financeira
-,INVESTIMENTO,400.0,Outros,INVESTIMENTOS,liberdade financeira
-,INVESTIMENTO,500.0,Outros,INVESTIMENTOS,liberdade financeira
-,"IOF de ""Openai""",1.58,Moradia,ELETRÔNICOS,conforto
-,"IOF de ""Openai""",1.62,Moradia,ELETRÔNICOS,conforto
-,"IOF de ""Openai""",1.64,Moradia,ELETRÔNICOS,conforto
-,"IOF de ""Www_contabo_com""",3.73,Moradia,TAXAS,conforto
-,IOF de atraso,7.24,Alimentação,TAXAS,custos fixos
-,IPVA,234.29,Transporte,TRANSPORTE,custos fixos
-,IPVA 2024,300.0,Transporte,TRANSPORTE,custos fixos
-,IPVA 2025,200.0,Transporte,TRANSPORTE,custos fixos
-,IRMAOS MATARUNA,85.92,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Ifd*32.831.641 Claudia,27.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*49.138.003 Khell N,30.94,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*51.086.590 Michelle,30.97,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*51.086.590 Michelle,32.88,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*51.086.590 Michelle,38.87,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*55.319.258 Mair Vi,47.88,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*56.342.006 Matheus,145.93,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*56.342.006 Matheus,-10.79,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*56.342.006 Matheus,59.66,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*56.342.006 Matheus,43.49,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*56.342.006 Matheus,68.35,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*56.342.006 Matheus,61.26,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*58.415.436 Dayvid,11.97,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*Cencosud Brasil Co,92.38,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ifd*Cnz Restaurante e,107.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*Marcelo Inacio Lea,93.65,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva,93.48,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva,128.96,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva G,24.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva G,24.23,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva G,31.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva G,20.99,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva Go,37.96,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*adriana Da Silva Go,21.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*camilo E Gomes Lan,20.48,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*cencosud Brasil Co,81.66,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*cencosud Brasil Co,82.71,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*cencosud Brasil Co,90.01,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ifd*cencosud Brasil Co,86.11,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ifd*cnz Restaurante,158.97,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*comercio De Produt,53.0,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Ifd*comercio De Produt,55.01,Lazer,RESTAURANTE,conforto
-,Ifd*convem Marica Rest,24.42,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*dos3 Lanchonete E,32.4,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*dos3 Lanchonete E,80.68,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*dos3 Lanchonete E R,66.19,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*flavia Alcantara D,52.97,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*holy Crepe Comerci,60.79,Lazer,VIAGEM,prazeres
-,Ifd*ifood Club,12.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*ifood.com Agenci,12.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*japa Food Marica Re,52.46,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*jocilene Leite Alv,23.42,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*jocilene Leite Alv,20.89,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*jocilene Leite Alv,24.17,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*jocilene Leite Alv,28.92,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*jocilene Leite Alv,70.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*lahmajun Alimentos,50.63,Lazer,VIAGEM,prazeres
-,Ifd*nord Pizzaburger L,53.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*nord Pizzaburger L,67.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*nord Pizzaburger L,50.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*p S C Fontes Horti,32.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ifd*p S C Fontes Horti,55.4,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*pastel Da Cica,73.3,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*pizzaria Do Oliver,102.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*pizzaria Do Olivers,113.16,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*pizzaria Do Olivers,103.16,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*princesa Auto Serv,44.66,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ifd*robson Pinto Dos Sa,25.67,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*supermercados Alvo,158.55,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ifd*vera Lucia Garios,35.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifd*vera Lucia Garios X,27.82,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood  *ifd*convem Ma,76.4,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood  *ifd*divino Pa,35.54,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood  *ifd*jocilene,24.92,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood *ifd*adriana D,103.47,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood *ifd*jocilene,36.89,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood *ifd*veronica,47.49,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood *ifd*veronica,30.54,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ifood Club,12.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Igorsoarespinto,26.0,Outros,DESCONHECIDO,categorizar
-,Indigo,23.0,Outros,DESCONHECIDO,categorizar
-,Indigo,32.0,Outros,DESCONHECIDO,categorizar
-,Infojet,39.99,Moradia,ELETRÔNICOS,conforto
-,Ingresso.Com,72.6,Moradia,FERRAMENTAS,custos fixos
-,Inter,1000.0,Outros,CARTÃO DE CREDITO,categorizar
-,Internet,122.66,Moradia,HABITAÇÃO,custos fixos
-,Internet,120.0,Moradia,HABITAÇÃO,custos fixos
-,Iof Adicional Db Pf,3.91,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,2.17,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,1.22,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,1.15,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,0.98,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,1.54,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,1.24,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,1.14,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,2.16,Alimentação,TAXAS,custos fixos
-,Iof Compra Internaciona,2.83,Alimentação,TAXAS,custos fixos
-,Iof Diario Db Pf,1.42,Alimentação,TAXAS,custos fixos
-,Iof Internacional,3.73,Alimentação,TAXAS,custos fixos
-,Iof Internacional,5.26,Alimentação,TAXAS,custos fixos
-,Iof Internacional,2.76,Alimentação,TAXAS,custos fixos
-,Iof Internacional,3.74,Alimentação,TAXAS,custos fixos
-,Iof Internacional,2.47,Alimentação,TAXAS,custos fixos
-,Iof Internacional,3.87,Alimentação,TAXAS,custos fixos
-,Iof Internacional,0.79,Alimentação,TAXAS,custos fixos
-,Iof Internacional,2.78,Alimentação,TAXAS,custos fixos
-,Iof Internacional,3.95,Alimentação,TAXAS,custos fixos
-,Iof Internacional,2.87,Outros,TAXAS,categorizar
-,Irmaos Mataruna,51.52,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaos Mataruna,92.56,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaos Mataruna,85.55,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaos Mataruna,81.42,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaos Mataruna,83.35,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,75.28,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,80.33,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,78.39,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,84.43,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,60.15,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,70.05,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,81.67,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,66.93,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Irmaosmataruna,99.86,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,JOAO E JOAO,41.1,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Jadeteixeirasa,10.0,Outros,DESCONHECIDO,categorizar
-,Jadeteixeirasa,18.0,Outros,DESCONHECIDO,categorizar
-,Jadeteixeirasa,4.5,Outros,DESCONHECIDO,categorizar
-,Jappa Da Quitanda,302.18,Lazer,RESTAURANTE,prazeres
-,Jeferson Damazio Da,73.89,Outros,DESCONHECIDO,categorizar
-,Jeffersonsoares,48.0,Outros,DESCONHECIDO,categorizar
-,Jhonel Bravo Hamburgue,54.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Joao E Joao,114.51,Lazer,RESTAURANTE,conforto
-,Joao e Joao,30.54,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Joaoejoao,13.0,Lazer,RESTAURANTE,conforto
-,Joaoejoao,42.0,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Josevilqueleao,13.0,Outros,DESCONHECIDO,categorizar
-,Jp Freire Maraka Expre,14.35,Lazer,RESTAURANTE,prazeres
-,Juros Projetados,0.4,Outros,TAXAS,categorizar
-,Juros de atraso,36.12,Alimentação,TAXAS,custos fixos
-,Juros de dívida encerrada,78.48,Alimentação,TAXAS,custos fixos
-,Jusbrasil,29.9,Moradia,FERRAMENTAS,conforto
-,Jusbrasil,1.9,Moradia,FERRAMENTAS,conforto
-,Kaciquetxtilea,24.39,Outros,DESCONHECIDO,categorizar
-,Kfc Niteroi Plaza,46.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Kfc Niteroi Plaza,42.7,Lazer,RESTAURANTE,prazeres
-,Kfc Shopping Bay Marke,32.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Koa Food Aclimacao,251.1,Lazer,VIAGEM,prazeres
-,Koni Store,114.95,Lazer,RESTAURANTE,prazeres
-,Kopenhagen Plaza Nit,106.33,Lazer,RESTAURANTE: LANCHE,prazeres
-,Kubo Sushi,289.85,Lazer,RESTAURANTE,prazeres
-,LADY DAY,39.9,Alimentação,ALIMENTAÇÃO,custos fixos
-,LEVI  COSTA DOS SANTOS Coxa,291.0,Lazer,ANIMAIS,prazeres
-,LEVI  COSTA DOS SANTOS Pescoço,121.0,Lazer,ANIMAIS,prazeres
-,Laborat Dom Bosco,242.4,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco - Parcela 1/6,82.82,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco - Parcela 2/6,82.78,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco - Parcela 3/6,82.78,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco - Parcela 4/6,82.78,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco - Parcela 5/6,82.78,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco - Parcela 6/6,82.78,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco 01/06,119.46,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco 02/06,119.46,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco 03/06,119.46,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco 04/06,119.46,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco 05/06,119.46,Saúde,SAUDE: EXAMES,prazeres
-,Laborat Dom Bosco 06/06,119.46,Saúde,SAUDE: EXAMES,prazeres
-,Laboratorioblessi,130.01,Saúde,SAUDE: EXAMES,prazeres
-,Lady Day,16.64,Lazer,RESTAURANTE: LANCHE,prazeres
-,Lady Day,26.4,Alimentação,ALIMENTAÇÃO,custos fixos
-,Lady Day,10.5,Lazer,RESTAURANTE: LANCHE,conforto
-,Lady Day,18.08,Lazer,RESTAURANTE: LANCHE,conforto
-,Lady Day,55.76,Lazer,RESTAURANTE: LANCHE,prazeres
-,Lady Day,21.41,Lazer,RESTAURANTE: LANCHE,conforto
-,Lady Day,37.56,Lazer,RESTAURANTE: LANCHE,conforto
-,Lanchonetemarina,19.9,Lazer,VIAGEM,prazeres
-,Lanchonetemarina,60.5,Lazer,VIAGEM,prazeres
-,Largo Do Pao,36.26,Lazer,RESTAURANTE: LANCHE,prazeres
-,Ledir Ferreira Da Sil,55.03,Outros,DESCONHECIDO,categorizar
-,Leopoldo Nascimento,6.0,Lazer,LAZER,prazeres
-,Lets Lanches,15.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Levi Costa Dos Santo,27.0,Lazer,ANIMAIS,prazeres
-,Levi Costa Dos Santo,74.0,Lazer,ANIMAIS,prazeres
-,Levi Costa Dos Santo,41.9,Lazer,ANIMAIS,prazeres
-,Levi Costa Dos Santo,49.0,Lazer,ANIMAIS,prazeres
-,Levis Plaza Shoppi01/06,198.3,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppi01/06,205.24,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppi02/06,205.24,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(02/06),198.3,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(03/06),198.3,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(03/06),205.24,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(04/06),205.24,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(04/06),198.3,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(05/06),205.24,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(05/06),198.3,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(06/06),205.24,Moradia,ROUPAS,conforto
-,Levis Plaza Shoppin(06/06),198.3,Moradia,ROUPAS,conforto
-,Levis Plaza Shopping,-0.25,Outros,,
-,Lianadantasde,123.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Lilou F Modas - Parcela 2/2,70.0,Moradia,ROUPAS,conforto
-,Linkedin,34.99,Moradia,FERRAMENTAS,conforto
-,Linkedinpre *50901684,37.33,Moradia,FERRAMENTAS,conforto
-,Lj38 Marica - Parcela 5/5,48.95,Outros,DESCONHECIDO,categorizar
-,Lldecoraes - Parcela 1/2,15.97,Outros,DESCONHECIDO,categorizar
-,Loja Vidaecor Com - Parcela 10/10,21.98,Moradia,DESCONHECIDO,conforto
-,Loja Vidaecor Com - Parcela 4/10,21.98,Moradia,ROUPAS,conforto
-,Loja Vidaecor Com - Parcela 5/10,21.98,Moradia,ROUPAS,conforto
-,Loja Vidaecor Com - Parcela 6/10,21.98,Moradia,FERRAMENTAS,custos fixos
-,Loja Vidaecor Com - Parcela 7/10,21.98,Outros,DESCONHECIDO,categorizar
-,Loja Vidaecor Com - Parcela 8/10,21.98,Moradia,DESCONHECIDO,conforto
-,Loja Vidaecor Com - Parcela 9/10,21.98,Moradia,DESCONHECIDO,conforto
-,Lojas Americanas1,14.98,Outros,DESCONHECIDO,categorizar
-,Lojas Americanas2,17.97,Outros,DESCONHECIDO,categorizar
-,Lojas Nalin,99.9,Moradia,HABITAÇÃO,custos fixos
-,Lojas Nalin,44.97,Moradia,ROUPAS,conforto
-,Lojas Renner S.A. - Parcela 1/2,55.4,Moradia,ROUPAS,conforto
-,Lojas Renner S.A. - Parcela 2/2,55.4,Moradia,ROUPAS,conforto
-,Lojas Renner S.A. - Parcela 2/3,80.43,Moradia,ROUPAS,conforto
-,Lojas Renner S.A. - Parcela 3/3,80.43,Moradia,ROUPAS,conforto
-,Lojas Renner S.a.,129.8,Lazer,PRESENTES,prazeres
-,Lojas Renner S.a.,79.9,Moradia,ROUPAS,conforto
-,Lojas Renner S.a. - Parcela 2/3,69.9,Moradia,ROUPAS,conforto
-,Lojas Renner S.a. - Parcela 3/3,69.9,Moradia,ROUPAS,conforto
-,Luiz Henrique Barbosa - Parcela 1/3,69.98,Outros,DESCONHECIDO,categorizar
-,Luiz Henrique Barbosa - Parcela 2/3,69.96,Outros,DESCONHECIDO,categorizar
-,Luiz Henrique Barbosa - Parcela 3/3,69.96,Outros,DESCONHECIDO,categorizar
-,Luizapereirade,26.5,Outros,DESCONHECIDO,categorizar
-,Luzianepinto,23.5,Outros,DESCONHECIDO,categorizar
-,M&f Lanches,50.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,MARCUSCOSTACONDE,40.0,Outros,DESCONHECIDO,categorizar
-,MARIA FOTOS,510.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN,2625.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN,3125.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN,2500.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN,1500.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN,3000.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN,4125.0,Outros,CASAMENTO,metas
-,MARICÁ GARDEN ENTRADA,1500.0,Outros,CASAMENTO,metas
-,MARY E MARY JOLUMAR,104.27,Alimentação,ALIMENTAÇÃO,custos fixos
-,MINI MERCADINHO DA VERA,10.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,MP*13PRODUTOS 09/10,76.52,Outros,OBRAS,metas
-,MP*13PRODUTOS 09/10,578.05,Lazer,LAZER,prazeres
-,MP*13PRODUTOS 10/10,76.52,Outros,OBRAS,metas
-,MP*13PRODUTOS 10/10,578.05,Lazer,LAZER,prazeres
-,Macdonalds,4.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Magalu Com*Listasmagal - Parcela 5/6,67.65,Lazer,DESPESAS PESSOAIS,prazeres
-,Magalu Com*Listasmagal - Parcela 6/6,67.65,Outros,DESCONHECIDO,categorizar
-,Magic Moments,35.0,Lazer,LAZER,prazeres
-,Major Grill,142.78,Lazer,RESTAURANTE,prazeres
-,Mania Niteroi Refeicoe,55.6,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Maraka,6.5,Lazer,RESTAURANTE: CAFETERIA,prazeres
-,Maraka Expre-ct,18.8,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Maraka Expresso,17.8,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Maraka Expresso,31.7,Lazer,RESTAURANTE: CAFETERIA,conforto
-,Marcelogomes,25.9,Outros,DESCONHECIDO,categorizar
-,Marcelogomes,189.09,Outros,DESCONHECIDO,categorizar
-,Marcuscostaconde,20.48,Outros,DESCONHECIDO,categorizar
-,Marica Drive,18.9,Lazer,RESTAURANTE,prazeres
-,Marica Drive,118.7,Lazer,RESTAURANTE,prazeres
-,Marica Drive,48.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Mary E Mary Jolumar,73.37,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,24.98,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,59.96,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,171.17,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,28.28,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,38.06,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,37.96,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,31.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,235.83,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,54.94,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,46.2,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,52.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary E Mary Jolumar,11.11,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mary e Mary Jolumar,77.19,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mcdonalds,14.9,Lazer,RESTAURANTE,prazeres
-,Meli+,9.9,Alimentação,TAXAS,custos fixos
-,Mercado Casa e Mar Min,50.8,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mercado Extra,36.51,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mercadolivre*10produt,186.39,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*10produt,155.05,Lazer,ANIMAIS,prazeres
-,Mercadolivre*12produt,102.57,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mercadolivre*12produt,112.25,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*12produt,180.75,Alimentação,ALIMENTAÇÃO,prazeres
-,Mercadolivre*12produt,222.99,Lazer,ANIMAIS,prazeres
-,Mercadolivre*16produt,75.9,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mercadolivre*23produt,306.81,Lazer,ANIMAIS,prazeres
-,Mercadolivre*23produt,14.9,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*2produt - Parcela 10/10,37.37,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*2produto,208.5,Lazer,ANIMAIS,prazeres
-,Mercadolivre*2produtos,284.74,Moradia,ELETRÔNICOS,conforto
-,Mercadolivre*3prod01/03,18.17,Moradia,ROUPAS,conforto
-,Mercadolivre*3produ(02/03),18.17,Moradia,ROUPAS,conforto
-,Mercadolivre*3produ(03/03),18.17,Moradia,ROUPAS,conforto
-,Mercadolivre*3produto - Parcela 5/10,58.14,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*3produto - Parcela 6/10,58.14,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*3produto - Parcela 7/10,58.14,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*3produto - Parcela 8/10,58.14,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*3produto - Parcela 9/10,58.14,Lazer,DESCONHECIDO,prazeres
-,Mercadolivre*3produtos,72.2,Lazer,ANIMAIS,prazeres
-,Mercadolivre*4produto,39.59,Lazer,ESTÉTICA,prazeres
-,Mercadolivre*4produto,29.9,Lazer,ELETRÔNICOS,prazeres
-,Mercadolivre*5137185 - Parcela 3/3,27.0,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*5prod01/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5prod02/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5prod03/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5prod04/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5prod05/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5prod06/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5prod07/07,56.78,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produt,38.26,Lazer,ANIMAIS,prazeres
-,Mercadolivre*5produt,216.32,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produt,28.33,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*5produt - Parcela 1/3,28.33,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produt - Parcela 2/3,28.33,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produt - Parcela 4/10,38.26,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produt - Parcela 5/10,38.26,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produt - Parcela 6/10,38.26,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*5produto,278.29,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*5produto,346.64,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*5produto,-0.12,Outros,,
-,Mercadolivre*5produto Osasco Bra,38.26,Lazer,ANIMAIS,prazeres
-,Mercadolivre*7produto,75.26,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mercadolivre*7produto,131.58,Moradia,HABITAÇÃO,prazeres
-,Mercadolivre*9produt,30.18,Lazer,ANIMAIS,prazeres
-,Mercadolivre*9produt - Parcela 5/10,30.18,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*9produt - Parcela 6/10,30.18,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*9produt - Parcela 7/10,30.18,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*9produto,370.23,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*9produto Osasco Bra,30.18,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*autoline,127.5,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Mercadolivre*belezac,83.76,Moradia,ESTÉTICA,conforto
-,Mercadolivre*centers,34.25,Lazer,ANIMAIS,prazeres
-,Mercadolivre*centers - Parcela 1/7,34.31,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*centers - Parcela 2/7,34.25,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*centersp Osasco Bra,34.25,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*ciahe01/04,36.02,Moradia,ROUPAS,conforto
-,Mercadolivre*ciaher(02/04),36.02,Moradia,ROUPAS,conforto
-,Mercadolivre*ciaher(03/04),36.02,Moradia,ROUPAS,conforto
-,Mercadolivre*ciaher(04/04),36.02,Moradia,ROUPAS,conforto
-,Mercadolivre*ciahering,-0.09,Moradia,ROUPAS,conforto
-,Mercadolivre*ciahering,-143.99,Moradia,ROUPAS,conforto
-,Mercadolivre*ehssoluc,90.11,Moradia,HABITAÇÃO,custos fixos
-,Mercadolivre*hookahri,159.92,Lazer,ANIMAIS,prazeres
-,Mercadolivre*lagosdi - Parcela 12/12,16.18,Outros,DESCONHECIDO,categorizar
-,Mercadolivre*microof,65.9,Outros,LOJA,metas
-,Mercadolivre*petshop,55.41,Lazer,ANIMAIS,prazeres
-,Mercadolivre*petshop - Parcela 1/3,55.41,Lazer,ANIMAIS,prazeres
-,Mercadolivre*petshop - Parcela 2/3,55.41,Lazer,ANIMAIS,prazeres
-,Mercadolivre*produto - Parcela 10/10,58.14,Lazer,DESCONHECIDO,prazeres
-,Mini Mercadinho Da V,13.2,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,6.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,13.6,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,18.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,11.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,22.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,46.3,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,45.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mini Mercadinho Da Ver,26.0,Alimentação,ALIMENTAÇÃO,prazeres
-,Mini Mercadinho da Ver,12.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mister Monaco Mercear,27.45,Lazer,ANIMAIS,prazeres
-,Mja,47.84,Outros,DESCONHECIDO,categorizar
-,Mja,25.51,Outros,DESCONHECIDO,categorizar
-,Mjp Plaza Niteroi Rest,240.79,Lazer,RESTAURANTE,prazeres
-,Mlp         *zattini,50.72,Moradia,ROUPAS,conforto
-,Mlp    *clubenetshoes  Sao Paulo     Bra,50.84,Moradia,ROUPAS,conforto
-,Mlp *clubenetshoe,50.84,Moradia,ROUPAS,conforto
-,Mlp *clubenetshoes Sao Paulo Bra,50.84,Moradia,ROUPAS,conforto
-,Mlp *zattini,50.72,Moradia,ROUPAS,conforto
-,Mlp *zattini - Parcela 1/8,50.78,Moradia,ROUPAS,conforto
-,Mlp *zattini - Parcela 2/8,50.72,Moradia,ROUPAS,conforto
-,Mlp *zattini Sao Paulo Bra,50.72,Moradia,ROUPAS,conforto
-,Mlp Zattini,50.72,Moradia,ROUPAS,conforto
-,Mlp Zattini - Parcela 1/8,50.78,Moradia,ROUPAS,conforto
-,Mlp Zattini - Parcela 2/8,50.72,Moradia,ROUPAS,conforto
-,Mlp Zattini Sao Paulo Bra,50.72,Moradia,ROUPAS,conforto
-,Moca Paulista,15.9,Lazer,VIAGEM,prazeres
-,Moonlight Coffee Cafet,50.0,Lazer,VIAGEM,prazeres
-,Mp *Betterpbcomerciov - Parcela 3/4,30.9,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *Betterpbcomerciov - Parcela 4/4,30.9,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *Correioscelular,20.0,Moradia,TELEFONE,custos fixos
-,Mp *Correioscelular,25.0,Moradia,TELEFONE,custos fixos
-,Mp *Formuladossucos,12.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Mp *Growthsupplements - Parcela 1/4,26.34,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *Growthsupplements - Parcela 2/4,26.31,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Mp *Growthsupplements - Parcela 3/4,26.31,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *Lurilar,52.0,Outros,DESCONHECIDO,categorizar
-,Mp *Mariacereja - Parcela 3/6,167.6,Moradia,ROUPAS,conforto
-,Mp *Mariacereja - Parcela 4/6,167.6,Moradia,ROUPAS,conforto
-,Mp *Mariacereja - Parcela 5/6,167.6,Moradia,ROUPAS,conforto
-,Mp *Mariacereja - Parcela 6/6,167.6,Outros,LOJA,metas
-,Mp *Nanabilita,68.0,Outros,DESCONHECIDO,categorizar
-,Mp *Padariaravidocaju,15.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *Russo,19.0,Outros,DESCONHECIDO,categorizar
-,Mp *Vivo,40.0,Moradia,TELEFONE,custos fixos
-,Mp *angelica2b,4.0,Lazer,VIAGEM,prazeres
-,Mp *carteiraholde,49.99,Moradia,FERRAMENTAS,custos fixos
-,Mp *casaolivas,8.0,Outros,DESCONHECIDO,categorizar
-,Mp *formuladossucos,10.0,Lazer,RESTAURANTE: LANCHE,conforto
-,Mp *growthsuppleme01/02,130.34,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsuppleme01/06,26.91,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsuppleme02/02,130.34,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsuppleme02/06,26.91,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsuppleme03/06,26.91,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsupplemen(04/06),26.91,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsupplemen(05/06),26.91,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsupplemen(06/06),26.91,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *growthsupplements,-0.2,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp *itarodas,160.0,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Mp *jireh,280.0,Moradia,ROUPAS,conforto
-,Mp *jireh,198.0,Moradia,ROUPAS,conforto
-,Mp *melimais,9.9,Outros,TAXAS,categorizar
-,Mp *padariaravidocaj,12.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Mp *padariaravidocaj,12.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Mp *padariaravidocaj,13.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Mp *padariaravidocaj,12.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Mp *padariaravidocaju,7.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *padariaravidocaju,16.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *padariaravidocaju,21.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *padariaravidocaju,9.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *padariaravidocaju,12.8,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *padariaravidocaju,10.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp *padariaravidocaju,2.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mp* Growthsupplements - Parcela 4/4,26.31,Lazer,SUPLEMENTAÇÃO,prazeres
-,Mp*fazticket,33.54,Outros,DESCONHECIDO,categorizar
-,Mp*padariaravidocaju,19.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Multa velocidade,78.0,Transporte,TRANSPORTE,custos fixos
-,Multa velocidade,130.0,Transporte,TRANSPORTE,custos fixos
-,Mundo Das Embalagens,59.99,Alimentação,ALIMENTAÇÃO,custos fixos
-,Mundo Petmil,95.99,Lazer,ANIMAIS,prazeres
-,Mundo Petmil,34.0,Lazer,ANIMAIS,prazeres
-,Mundo Petmil,30.0,Lazer,ANIMAIS,prazeres
-,Mundo Petmil,32.0,Lazer,ANIMAIS,prazeres
-,Na Na Ya Food Service,15.0,Lazer,VIAGEM,prazeres
-,Nerone Gelato,24.9,Lazer,RESTAURANTE: LANCHE,prazeres
-,Netflix Entretenimen,44.9,Lazer,LAZER,prazeres
-,Netflix.com,44.9,Lazer,LAZER,prazeres
-,New Light,39.99,Outros,DESCONHECIDO,categorizar
-,New Light - Parcela 1/2,68.98,Outros,DESCONHECIDO,categorizar
-,New Light - Parcela 2/2,68.97,Outros,DESCONHECIDO,categorizar
-,Nextel/Claro,90.0,Moradia,TELEFONE,custos fixos
-,Nextel/Claro,100.0,Moradia,TELEFONE,custos fixos
-,Nilza Andrade     01/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     02/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     03/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     04/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     05/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     06/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     07/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     08/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     09/10,780.0,Outros,CASAMENTO,metas
-,Nilza Andrade     10/10,780.0,Outros,CASAMENTO,metas
-,Nord Pizzaburger,90.4,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,44.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,58.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,30.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,39.93,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,42.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,62.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,124.1,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,38.28,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,89.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,39.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,62.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,45.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,47.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,64.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,64.6,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger,97.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger1,73.26,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger2,41.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nord Pizzaburger3,17.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Nossa Senhora Do Ampa,99.63,Alimentação,ALIMENTAÇÃO,custos fixos
-,Nova Vereda Restaurant,9.6,Lazer,RESTAURANTE,prazeres
-,Nutricionista,470.0,Saúde,SAUDE: CONSULTAS,prazeres
-,Nutricionista,100.0,Saúde,SAUDE: CONSULTAS,prazeres
-,O Espetto,11.2,Lazer,RESTAURANTE: LANCHE,prazeres
-,O Queijao Inoa,131.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Objetiva,19.98,Moradia,HABITAÇÃO,custos fixos
-,Ocean Farma,32.83,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Odara Roupas Ltda 01/05,86.38,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda 02/05,86.38,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda E(03/05),86.38,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda E(04/05),86.38,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda E(05/05),86.38,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda Ep,78.3,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda Ep - Parcela 2/6,78.3,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda Ep - Parcela 3/6,78.3,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda Ep - Parcela 4/6,78.3,Moradia,ROUPAS,conforto
-,Odara Roupas Ltda Epp,-0.08,Outros,,
-,Openai,36.19,Moradia,ELETRÔNICOS,conforto
-,Openai,37.46,Moradia,ELETRÔNICOS,conforto
-,Openai,37.18,Moradia,ELETRÔNICOS,conforto
-,Openai,37.06,Moradia,ELETRÔNICOS,conforto
-,PADARIARAVICAJU,8.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,PES E PATAS,78.9,Lazer,ANIMAIS,prazeres
-,PG *YOU YOUROBERT 07/12,155.18,Educação,EDUCAÇÃO,conhecimento
-,PG *YOU YOUROBERT 08/12,155.18,Educação,EDUCAÇÃO,conhecimento
-,POUPANÇA,700.0,Outros,INVESTIMENTOS,liberdade financeira
-,POUPANÇA CASAMENTO,2000.0,Outros,CASAMENTO,metas
-,POUPANÇA CASAMENTO,1000.0,Outros,CASAMENTO,metas
-,POUPANÇA CASAMENTO,1500.0,Outros,CASAMENTO,metas
-,POUPANÇA CASAMENTO,1200.0,Outros,CASAMENTO,metas
-,POUPANÇA PESSOAL,1000.0,Outros,POUPANÇA,liberdade financeira
-,POUPANÇA PESSOAL,4000.0,Outros,POUPANÇA,liberdade financeira
-,PREZUNIC1,64.52,Alimentação,ALIMENTAÇÃO,custos fixos
-,PREZUNIC2,82.54,Alimentação,ALIMENTAÇÃO,custos fixos
-,PREZUNIC3,89.91,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pac Paulista Casarao,128.2,Lazer,VIAGEM,prazeres
-,Padaria Confeitaria,4.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria,6.42,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria,8.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria,9.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria E,9.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria E,17.98,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria E,18.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria E,22.37,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Confeitaria E,5.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Padaria Ravi,12.5,Alimentação,ALIMENTAÇÃO,custos fixos
-,Padaria Ravi,9.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,"Padaria, Confeitaria",28.53,Lazer,RESTAURANTE: CAFETERIA,conforto
-,"Padaria, Confeitaria e",8.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pag*Studiomatheus - Parcela 2/4,187.5,Moradia,ESTÉTICA,conforto
-,Pag*Studiomatheus - Parcela 3/4,187.5,Moradia,ESTÉTICA,conforto
-,Pag*Studiomatheus - Parcela 4/4,187.5,Moradia,ESTÉTICA,conforto
-,Pag*Tvexpress - Parcela 11/12,21.58,Lazer,LAZER,prazeres
-,Pag*Tvexpress - Parcela 12/12,21.58,Lazer,LAZER,prazeres
-,Pag*Tvexpress - Parcela 8/12,21.58,Lazer,LAZER,prazeres
-,Pag*Tvexpress - Parcela 9/12,21.58,Lazer,LAZER,prazeres
-,Pag*laboratoriobless - Parcela 2/3,181.66,Saúde,SAUDE: EXAMES,prazeres
-,Pag*laboratoriobless - Parcela 3/3,181.66,Saúde,SAUDE: EXAMES,prazeres
-,Pag*produtosuol,29.9,Outros,LOJA,metas
-,Pag*tiexamesprodutos,10.69,Educação,EDUCAÇÃO,conhecimento
-,Pag*tiexamesprodutos - Parcela 6/10,10.69,Educação,EDUCAÇÃO,conhecimento
-,Pag*tiexamesprodutos - Parcela 7/10,10.69,Educação,EDUCAÇÃO,conhecimento
-,Pag*tiexamesprodutos - Parcela 8/10,10.69,Educação,EDUCAÇÃO,conhecimento
-,Palhete Pizzaria Ltda,208.78,Lazer,RESTAURANTE,prazeres
-,Panela Furada,70.51,Lazer,RESTAURANTE,prazeres
-,Pao E Etc 24h,73.86,Lazer,RESTAURANTE: LANCHE,prazeres
-,Parada Gospel De Mar,40.48,Lazer,RESTAURANTE: LANCHE,prazeres
-,Parada Gospel De Mar IFOOD,119.5,Lazer,RESTAURANTE: LANCHE,prazeres
-,Paraiso Tropical,6.99,Lazer,RESTAURANTE: LANCHE,prazeres
-,Paraiso Tropical,7.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Parc103mister Mona(03/03),92.97,Lazer,ANIMAIS,prazeres
-,Parc=103mister Mon01/03,92.97,Lazer,ANIMAIS,prazeres
-,Parc=103mister Mon02/03,92.97,Lazer,ANIMAIS,prazeres
-,Parc=103mister Monaco M,-0.02,Lazer,ANIMAIS,prazeres
-,Passaportes,514.5,Outros,VIAGEM,metas
-,Pastelariado,37.0,Lazer,RESTAURANTE: DIA A DIA,conforto
-,Pastore Niteroi,21.0,Saúde,SAUDE: EXAMES,custos fixos
-,Pastore Niteroi - Parcela 1/12,21.0,Saúde,SAUDE: EXAMES,custos fixos
-,Pastore Niteroi - Parcela 2/12,21.0,Saúde,SAUDE: EXAMES,custos fixos
-,Pastore Niteroi Niteroi Bra,21.0,Saúde,SAUDE: EXAMES,custos fixos
-,Paulo,80.0,Moradia,HABITAÇÃO,conforto
-,Paulorenato,24.0,Outros,DESCONHECIDO,categorizar
-,Paulorenato,8.0,Outros,DESCONHECIDO,categorizar
-,Pb*Bold Snacks - Parcela 10/11,20.7,Lazer,SUPLEMENTAÇÃO,prazeres
-,Pb*Bold Snacks - Parcela 11/11,20.7,Lazer,SUPLEMENTAÇÃO,prazeres
-,Pb*Bold Snacks - Parcela 3/11,20.7,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pb*Bold Snacks - Parcela 4/11,20.7,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pb*Bold Snacks - Parcela 5/11,20.7,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pb*Bold Snacks - Parcela 6/11,20.7,Alimentação,SUPLEMENTAÇÃO,custos fixos
-,Pb*Bold Snacks - Parcela 7/11,20.7,Lazer,SUPLEMENTAÇÃO,prazeres
-,Pb*Bold Snacks - Parcela 8/11,20.7,Lazer,SUPLEMENTAÇÃO,prazeres
-,Pb*Bold Snacks - Parcela 9/11,20.7,Lazer,SUPLEMENTAÇÃO,prazeres
-,Peixaria Menor Preco,28.89,Alimentação,ALIMENTAÇÃO,custos fixos
-,Peixaria Menor Preco,23.4,Alimentação,ALIMENTAÇÃO,custos fixos
-,Perola Icarai,72.03,Outros,DESCONHECIDO,categorizar
-,Perola Icarai,57.26,Outros,DESCONHECIDO,categorizar
-,Perola Icarai,25.88,Outros,DESCONHECIDO,categorizar
-,Pes E Patas,56.86,Lazer,ANIMAIS,prazeres
-,Pes E Patas,5.78,Lazer,ANIMAIS,prazeres
-,Pes E Patas,15.6,Lazer,ANIMAIS,prazeres
-,Pes E Patas,70.63,Lazer,ANIMAIS,prazeres
-,Pes E Patas,37.0,Lazer,ANIMAIS,prazeres
-,Pes E Patas,83.95,Lazer,ANIMAIS,prazeres
-,Petala - Parcela 10/12,251.8,Outros,OBRAS,metas
-,Petala - Parcela 11/12,251.8,Outros,OBRAS,metas
-,Petala - Parcela 12/12,251.8,Outros,OBRAS,metas
-,Pg *Beleza Na Web Ma - Parcela 2/7,52.3,Outros,LOJA,metas
-,Pg *Beleza Na Web Ma - Parcela 3/7,52.3,Outros,LOJA,metas
-,Pg *Beleza Na Web Ma - Parcela 4/7,52.3,Outros,LOJA,metas
-,Pg *Beleza Na Web Ma - Parcela 5/7,52.3,Outros,LOJA,metas
-,Pg *Beleza Na Web Ma - Parcela 6/7,52.3,Lazer,ESTÉTICA,prazeres
-,Pg *Beleza Na Web Ma - Parcela 7/7,52.3,Lazer,ESTÉTICA,prazeres
-,Pg *Juliana Santana - Parcela 1/3,76.59,Outros,DESCONHECIDO,categorizar
-,Pg *Juliana Santana - Parcela 2/3,76.59,Outros,LOJA,metas
-,Pg *Juliana Santana - Parcela 3/3,76.59,Outros,DESCONHECIDO,categorizar
-,Pg *Nuvem Atacadodebri - Parcela 3/3,43.5,Outros,LOJA,metas
-,Pg *Nuvem Lizbijoux - Parcela 2/3,79.44,Outros,LOJA,metas
-,Pg *Nuvem Lizbijoux - Parcela 3/3,79.44,Moradia,ROUPAS,conforto
-,Pg *Nuvem Sapatosebols - Parcela 2/2,89.95,Outros,LOJA,metas
-,Pg *Ton Nanabilit'A,57.0,Outros,DESCONHECIDO,categorizar
-,Pg *Ton Patrick Semi,22.0,Outros,DESCONHECIDO,categorizar
-,Pg *Ton Ton.Com.Br - Parcela 5/12,26.3,Outros,LOJA,metas
-,Pg *Ton Ton.Com.Br - Parcela 6/12,26.3,Outros,LOJA,metas
-,Pg *Ton Ton.Com.Br - Parcela 8/12,26.3,Outros,LOJA,metas
-,Pg *Ton Ton.Com.Br - Parcela 9/12,26.3,Outros,LOJA,metas
-,Pg *Ton Zuzu Fitness - Parcela 1/2,105.0,Moradia,ROUPAS,conforto
-,Pg *Ton Zuzu Fitness - Parcela 2/2,105.0,Moradia,ROUPAS,conforto
-,Pg *auvp Escola,249.75,Educação,EDUCAÇÃO,conhecimento
-,Pg *auvp Escola Goiania Bra,249.75,Educação,EDUCAÇÃO,conhecimento
-,Pg *nuvem Pwrdbyc (02/04),60.43,Moradia,ROUPAS,conforto
-,Pg *nuvem Pwrdbyc (03/04),60.43,Moradia,ROUPAS,conforto
-,Pg *nuvem Pwrdbyc (04/04),60.43,Moradia,ROUPAS,conforto
-,Pg *nuvem Pwrdbyc 01/04,60.43,Moradia,ROUPAS,conforto
-,Pg *ton Doce Loucura,99.5,Lazer,RESTAURANTE,prazeres
-,Pg *you Yourobert (12/12),155.18,Educação,EDUCAÇÃO,conhecimento
-,Pg *you Yourobert 11/12,155.18,Educação,EDUCAÇÃO,conhecimento
-,Pharmactive Farmacia - Parcela 1/3,174.0,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Pharmactive Farmacia - Parcela 3/3,174.0,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Pilares De Marica Su,20.08,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares De Marica Supe,12.06,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares De Marica Supe,25.69,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares De Marica Supe,20.42,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares De Marica Supe,45.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares De Marica Supe,25.01,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares de Marica Supe,23.82,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pilares de Marica Supe,56.33,Alimentação,ALIMENTAÇÃO,custos fixos
-,Pizzaria Do Oliver S,165.77,Lazer,RESTAURANTE,prazeres
-,Pizzaria do Oliver S,85.19,Lazer,RESTAURANTE: LANCHE,prazeres
-,Pl Distribuidora,10.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Planilha (Cross),100.0,Saúde,SAUDE,conforto
-,Popeyes,50.8,Lazer,RESTAURANTE: LANCHE,prazeres
-,Popeyes,97.6,Lazer,RESTAURANTE,prazeres
-,Popeyes,84.7,Lazer,RESTAURANTE: LANCHE,prazeres
-,Portal das Flores,48.0,Moradia,HABITAÇÃO,custos fixos
-,Portal das Flores - Parcela 1/2,110.0,Moradia,HABITAÇÃO,custos fixos
-,Portal das Flores - Parcela 2/2,110.0,Moradia,HABITAÇÃO,custos fixos
-,Pousada Bonita,360.0,Educação,EDUCAÇÃO,conhecimento
-,Pousada Bonita,8.0,Lazer,VIAGEM,prazeres
-,Pp *Gk Semijoia - Parcela 5/6,84.77,Outros,LOJA,metas
-,Pp *Gk Semijoia - Parcela 6/6,84.77,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 10/10,60.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 3/6,113.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 4/6,113.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 5/6,100.98,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 5/6,113.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 6/6,100.98,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 6/6,113.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 7/10,60.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 8/10,60.45,Outros,LOJA,metas
-,Pp *Oh My Gold - Parcela 9/10,60.45,Outros,LOJA,metas
-,Pratos Débora,80.0,Moradia,HABITAÇÃO,custos fixos
-,Produtosuol,33.49,Outros,LOJA,metas
-,Produtosuol,22.73,Outros,,
-,Produtosuol,29.9,Outros,LOJA,metas
-,Progressiva,130.0,Moradia,ESTÉTICA,conforto
-,Ps Pet Shop E Servico,31.8,Lazer,ANIMAIS,prazeres
-,Psp Construcao,22.0,Outros,OBRAS,metas
-,Quero2pay *infoal (02/03),41.64,Educação,ELETRÔNICOS,conhecimento
-,Quero2pay *infoal01/03,41.64,Educação,ELETRÔNICOS,conhecimento
-,Quero2pay *infoal03/03,41.64,Educação,ELETRÔNICOS,conhecimento
-,Quiosque Bay Market C,19.9,Lazer,LAZER,prazeres
-,RAPHAELABORBADE ESFIRRA RUSTICA,147.18,Lazer,RESTAURANTE,prazeres
-,REDE VAREJAO1,212.06,Alimentação,ALIMENTAÇÃO,custos fixos
-,REDE VAREJAO2,217.43,Alimentação,ALIMENTAÇÃO,custos fixos
-,RESTAURANTE EL ASSADOR,64.9,Lazer,RESTAURANTE,prazeres
-,Ra Deposito,8.0,Outros,DESCONHECIDO,categorizar
-,Ra Deposito,14.5,Outros,DESCONHECIDO,categorizar
-,Ra Deposito,21.0,Lazer,DESCONHECIDO,prazeres
-,Ra Deposito,9.0,Outros,DESCONHECIDO,categorizar
-,Ra Deposito,15.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Ração dos cachorros,200.0,Lazer,ANIMAIS,prazeres
-,Ração dos gatos,160.0,Lazer,ANIMAIS,prazeres
-,Real Farma,31.95,Saúde,SAUDE: MANIPULAÇÃO,prazeres
-,Rede Rio Campos Adminis,78.99,Transporte,TRANSPORTE: COMBUSTÍVEL,custos fixos
-,Rede Varejao,48.47,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,179.06,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,111.91,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,72.67,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,125.28,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,142.24,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,160.98,Alimentação,ALIMENTAÇÃO,custos fixos
-,Rede Varejao,149.36,Alimentação,ALIMENTAÇÃO,custos fixos
-,Registrobr 43116147,40.0,Moradia,FERRAMENTAS,custos fixos
-,Renner (02/05),30.58,Moradia,ROUPAS,conforto
-,Renner (03/05),30.58,Moradia,ROUPAS,conforto
-,Renner (04/05),30.58,Moradia,ROUPAS,conforto
-,Renner (05/05),30.58,Moradia,ROUPAS,conforto
-,Renner 01/05,30.58,Moradia,ROUPAS,conforto
-,Responde Ai,16.9,Educação,EDUCAÇÃO,conhecimento
-,Responde Ai - Parcela 3/12,16.9,Educação,EDUCAÇÃO,conhecimento
-,Responde Ai - Parcela 4/12,16.9,Educação,EDUCAÇÃO,conhecimento
-,Responde Ai - Parcela 5/12,16.9,Educação,EDUCAÇÃO,conhecimento
-,Responde Ai Rio De Janeir Bra,16.9,Educação,EDUCAÇÃO,conhecimento
-,Restaurajeans,338.97,Moradia,ROUPAS,conforto
-,Restaurajeans,30.0,Moradia,ROUPAS,conforto
-,Restaurajeans,14.5,Moradia,ROUPAS,conforto
-,Restaurajeans,75.8,Moradia,ROUPAS,conforto
-,Restaurante Do Alexa,145.75,Lazer,RESTAURANTE,prazeres
-,Restaurante Frutos Do,160.67,Lazer,RESTAURANTE,prazeres
-,Revisão da moto,300.0,Transporte,TRANSPORTE: MANUTENÇÃO,custos fixos
-,Riahcuelo 215 Niteroi,39.8,Moradia,ROUPAS,conforto
-,Riopar Participacoes,20.0,Outros,DESCONHECIDO,categorizar
-,Riopar Participacoes,18.65,Outros,DESCONHECIDO,categorizar
-,Rj Niteroi Plaza S01/06,90.95,Lazer,LAZER,prazeres
-,Rj Niteroi Plaza S02/06,90.95,Lazer,LAZER,prazeres
-,Rj Niteroi Plaza Sh Ca,-0.1,Lazer,LAZER,prazeres
-,Rj Niteroi Plaza Sh(03/06),90.95,Lazer,PRESENTES,prazeres
-,Rj Niteroi Plaza Sh(04/06),90.95,Lazer,PRESENTES,prazeres
-,Rj Niteroi Plaza Sh(05/06),90.95,Lazer,PRESENTES,prazeres
-,Rj Niteroi Plaza Sh(06/06),90.95,Lazer,PRESENTES,prazeres
-,Runware.ai,120.04,Moradia,FERRAMENTAS,conforto
-,SEGURO DE VIDA,115.0,Moradia,DESPESAS PESSOAIS,conforto
-,Scribd Inc *656381205,29.52,Moradia,FERRAMENTAS,conforto
-,Scribd Inc *656381205,29.57,Moradia,FERRAMENTAS,conforto
-,Seu Antonio,174.67,Lazer,RESTAURANTE,prazeres
-,Sheilarodriguesda,28.0,Outros,DESCONHECIDO,categorizar
-,Sheilarodriguesda,35.8,Outros,DESCONHECIDO,categorizar
-,Shopee *Ablstorerj,20.0,Outros,DESCONHECIDO,categorizar
-,Shopee *Arc,85.24,Outros,DESCONHECIDO,categorizar
-,Shopee *Azhomepanodepr - Parcela 1/3,77.85,Moradia,FERRAMENTAS,custos fixos
-,Shopee *Azhomepanodepr - Parcela 2/3,77.84,Moradia,FERRAMENTAS,custos fixos
-,Shopee *Azhomepanodepr - Parcela 3/3,77.84,Outros,DESCONHECIDO,categorizar
-,Shopee *Basegeek - Parcela 1/4,78.06,Outros,DESCONHECIDO,categorizar
-,Shopee *Basegeek - Parcela 2/4,78.06,Outros,DESCONHECIDO,categorizar
-,Shopee *Basegeek - Parcela 3/4,78.06,Outros,DESCONHECIDO,categorizar
-,Shopee *Basegeek - Parcela 4/4,78.06,Moradia,DESCONHECIDO,conforto
-,Shopee *Jobeatelie - Parcela 1/2,40.9,Moradia,ROUPAS,conforto
-,Shopee *Jobeatelie - Parcela 1/7,64.43,Outros,DESCONHECIDO,categorizar
-,Shopee *Jobeatelie - Parcela 2/2,40.9,Outros,DESCONHECIDO,categorizar
-,Shopee *Jobeatelie - Parcela 2/7,64.37,Outros,DESCONHECIDO,categorizar
-,Shopee *Jobeatelie - Parcela 3/7,64.37,Outros,DESCONHECIDO,categorizar
-,Shopee *Jobeatelie - Parcela 4/7,64.37,Outros,DESCONHECIDO,categorizar
-,Shopee *Jobeatelie - Parcela 5/7,64.37,Moradia,DESCONHECIDO,conforto
-,Shopee *Jobeatelie - Parcela 6/7,64.37,Moradia,DESCONHECIDO,conforto
-,Shopee *Jobeatelie - Parcela 7/7,64.37,Moradia,DESCONHECIDO,conforto
-,Shopee *Lilicacosmetic,44.9,Moradia,ESTÉTICA,conforto
-,Shopee *Tokdecor - Parcela 1/3,75.02,Moradia,HABITAÇÃO,custos fixos
-,Shopee *Tokdecor - Parcela 2/3,75.01,Outros,DESCONHECIDO,categorizar
-,Shopee *Tokdecor - Parcela 3/3,75.01,Moradia,DESCONHECIDO,conforto
-,Shopee *hmastonofficia,88.99,Moradia,DESCONHECIDO,conforto
-,Shopee *jobeatelie,75.96,Outros,DESCONHECIDO,categorizar
-,Shopee *mh1store,89.9,Outros,DESCONHECIDO,categorizar
-,Shopee*Shopee Lldecora,19.9,Moradia,HABITAÇÃO,custos fixos
-,Soneda Perfumaria,41.98,Lazer,VIAGEM,prazeres
-,Sorveteria Sol Neve,18.59,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sorveteria Sol Neve,5.45,Lazer,RESTAURANTE: LANCHE,prazeres
-,Sorveteria Sol Neve,32.72,Lazer,RESTAURANTE: LANCHE,prazeres
-,Sorveteria Sol Neve,29.36,Lazer,RESTAURANTE: LANCHE,prazeres
-,Sorveteria Sol Neve,18.87,Alimentação,ALIMENTAÇÃO,custos fixos
-,South,139.99,Moradia,ROUPAS,conforto
-,South - Parcela 2/3,49.99,Moradia,ROUPAS,conforto
-,South - Parcela 2/3,56.66,Moradia,ROUPAS,conforto
-,South - Parcela 2/4,127.49,Moradia,ROUPAS,conforto
-,South - Parcela 3/3,49.99,Moradia,ROUPAS,conforto
-,South - Parcela 3/3,56.66,Moradia,ROUPAS,conforto
-,South - Parcela 3/4,127.49,Moradia,ROUPAS,conforto
-,South - Parcela 4/4,127.49,Moradia,ROUPAS,conforto
-,Sprezunic,69.54,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic,12.12,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic,134.01,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic,76.34,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic,239.48,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 74-ct,9.62,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,38.35,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,267.58,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,131.93,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,158.1,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,63.21,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,336.13,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,103.91,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,24.56,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,66.6,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,107.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,219.3,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,84.57,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,68.96,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,42.66,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,38.36,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,147.02,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,21.98,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,28.55,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,258.64,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,268.23,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 745,111.86,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 7451,7.18,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic 7452,128.28,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic1,57.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic2,134.08,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sprezunic3,68.18,Alimentação,ALIMENTAÇÃO,custos fixos
-,Suenlendasilvafau,33.0,Outros,DESCONHECIDO,categorizar
-,Suenlendasilvafau,50.0,Outros,DESCONHECIDO,categorizar
-,Sup Princesa Marica,192.6,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,170.78,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,40.49,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,57.37,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,48.93,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,172.12,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,64.53,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,69.4,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica,160.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica 1,44.65,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica 1,27.93,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica 1,36.95,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica 2,64.74,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica 2,55.89,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica 2,87.68,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica1,44.87,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica2,29.74,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica3,79.74,Alimentação,ALIMENTAÇÃO,custos fixos
-,Sup Princesa Marica4,86.8,Alimentação,ALIMENTAÇÃO,custos fixos
-,Supermarket,90.62,Alimentação,ALIMENTAÇÃO,custos fixos
-,Supermarket,157.72,Alimentação,ALIMENTAÇÃO,custos fixos
-,Supermercado Guanaba,25.53,Alimentação,ALIMENTAÇÃO,custos fixos
-,Supermercado Padrao,26.77,Alimentação,ALIMENTAÇÃO,custos fixos
-,TIO antônio roçar frente do terreno,270.0,Moradia,HABITAÇÃO,conforto
-,TIO antônio roçar frente do terreno,300.0,Moradia,HABITAÇÃO,conforto
-,TOTALPASS,240.0,Saúde,SAUDE: ASSINATURA,custos fixos
-,Tapioca Baiana,21.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Tatamix,70.0,Moradia,ROUPAS,conforto
-,Tatianadasilva,110.0,Moradia,ROUPAS,conforto
-,Tenisrace,18.0,Outros,DESCONHECIDO,categorizar
-,Terapia,350.0,Saúde,SAUDE: CONSULTAS,custos fixos
-,Termius Corporation,85.09,Moradia,FERRAMENTAS,conforto
-,Termius Corporation,88.41,Moradia,FERRAMENTAS,conforto
-,Termius Corporation,85.45,Moradia,FERRAMENTAS,conforto
-,Termius Corporation,90.08,Moradia,FERRAMENTAS,conforto
-,Thamyres,126.0,Outros,DESCONHECIDO,categorizar
-,Tiexamesprodutos  04/12,123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (05/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (06/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (07/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (08/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (09/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (10/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (11/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos (12/12),123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos 01/12,123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos 02/12,123.8,Educação,EDUCAÇÃO,conhecimento
-,Tiexamesprodutos 03/12,123.8,Educação,EDUCAÇÃO,conhecimento
-,Tio antônio roçar frente do terreno,60.0,Moradia,HABITAÇÃO,conforto
-,Tiuze Mini Mercado,13.53,Alimentação,ALIMENTAÇÃO,custos fixos
-,Toka Dos Lanches,12.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Toka Dos Lanches,26.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Toka Dos Lanches,24.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Toka Dos Lanches,32.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Toka Dos Lanches,36.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Toka Dos Lanches,49.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Toka Dos Lanches,69.0,Lazer,RESTAURANTE: LANCHE,prazeres
-,Totalpass,119.9,Saúde,SAUDE: ASSINATURA,custos fixos
-,Totalpass,240.0,Saúde,SAUDE: ASSINATURA,custos fixos
-,Transferência DISTRIBUIDORA F L M J A EIRELI,130.35,Outros,DESCONHECIDO,categorizar
-,Transferência ODAIR,200.0,Outros,DESCONHECIDO,categorizar
-,UBER,200.0,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.4,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,10.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,96.99,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,29.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.25,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,14.58,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.59,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,10.88,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,7.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,2.13,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.25,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.4,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.31,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,9.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,24.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.75,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.36,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,28.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.04,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,7.5,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.46,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,23.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.53,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.86,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,17.99,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,57.66,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,28.14,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,4.8,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,5.57,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.41,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.42,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.48,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.53,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,6.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,16.94,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,12.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,10.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,8.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,8.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber *Uber *Trip,14.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,4.89,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,5.85,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,24.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,20.51,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,6.71,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,9.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,9.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,7.42,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,12.94,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,19.02,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,23.3,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,14.88,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,13.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,8.2,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip,5.25,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip1,18.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip10,11.32,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip11,25.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip12,6.74,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip13,25.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip14,13.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip15,11.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip16,11.53,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip17,39.07,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip18,31.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip19,26.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip2,22.49,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip20,14.5,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip21,10.06,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip22,17.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip23,5.25,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip24,13.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip3,5.86,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip4,9.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip5,12.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip6,11.04,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip7,5.57,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip8,11.06,Transporte,TRANSPORTE: UBER,conforto
-,Uber *uber *trip9,10.9,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *Trip Help.U,5.51,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *Trip Help.U,11.53,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *Trip Help.U,10.94,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *Trip Help.U,6.17,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *Trip Help.U,15.9,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help,5.76,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help,12.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help,4.36,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,8.56,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,21.1,Transporte,TRANSPORTE,conforto
-,Uber Uber *trip Help.u,6.13,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,6.09,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,4.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,10.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,11.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,6.3,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,8.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,21.77,Lazer,VIAGEM,prazeres
-,Uber Uber *trip Help.u,14.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,9.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,16.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,17.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,10.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,28.04,Lazer,VIAGEM,prazeres
-,Uber Uber *trip Help.u,8.94,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,8.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,8.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,6.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,12.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,6.27,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,5.43,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,42.45,Educação,EDUCAÇÃO,conhecimento
-,Uber Uber *trip Help.u,20.94,Transporte,TRANSPORTE,conforto
-,Uber Uber *trip Help.u,28.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,28.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,22.26,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,12.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,5.68,Transporte,TRANSPORTE: UBER,conforto
-,Uber Uber *trip Help.u,13.95,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,8.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,10.97,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,16.06,Lazer,VIAGEM,prazeres
-,Uber* Trip,25.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,15.21,Lazer,VIAGEM,prazeres
-,Uber* Trip,6.32,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,4.23,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,12.05,Lazer,VIAGEM,prazeres
-,Uber* Trip,19.37,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,9.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,8.96,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,8.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,13.94,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.15,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.27,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.47,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,6.14,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,29.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,16.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,21.38,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,30.31,Educação,EDUCAÇÃO,conhecimento
-,Uber* Trip,9.98,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,8.99,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,9.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.83,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,7.73,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.01,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,25.91,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,7.44,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,7.1,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,6.35,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,6.11,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,5.85,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,24.79,Transporte,TRANSPORTE,conforto
-,Uber* Trip,18.4,Transporte,TRANSPORTE,conforto
-,Uber* Trip,7.18,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,11.92,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,10.93,Transporte,TRANSPORTE: UBER,conforto
-,Uber* Trip,12.95,Transporte,TRANSPORTE: UBER,conforto
-,Udemy Subscription,32.0,Educação,EDUCAÇÃO,conhecimento
-,Udemy Subscription,63.24,Educação,EDUCAÇÃO,conhecimento
-,Udemy Subscription,63.39,Educação,EDUCAÇÃO,conhecimento
-,Unha,110.0,Moradia,ESTÉTICA,conforto
-,Unha,100.0,Moradia,ESTÉTICA,conforto
-,Unha,120.0,Moradia,ESTÉTICA,conforto
-,Urbia Gestao De Parque,5.0,Lazer,VIAGEM,prazeres
-,Urbia Gestao De Parque,42.0,Lazer,VIAGEM,prazeres
-,VANESSAANDRADE,43.48,Outros,DESCONHECIDO,categorizar
-,VERONICA ANDRADE,110.0,Lazer,LAZER,prazeres
-,Varejao Hortfruit,119.89,Alimentação,ALIMENTAÇÃO,custos fixos
-,Verdanna Grill,309.32,Lazer,RESTAURANTE,prazeres
-,Vo  Alzira Marica,34.0,Lazer,PRESENTES,prazeres
-,Www.make.com,65.43,Moradia,FERRAMENTAS,conforto
-,Www.make.com,63.54,Moradia,FERRAMENTAS,custos fixos
-,Www.perplexity.ai,18.0,Moradia,FERRAMENTAS,conforto
-,Www/contabo-com,35.37,Moradia,FERRAMENTAS,conforto
-,Www/contabo/com,33.11,Moradia,FERRAMENTAS,conforto
-,Www_contabo_com,85.38,Moradia,FERRAMENTAS,conforto
-,Yamadabazare,28.8,Outros,DESCONHECIDO,categorizar
-,Youtube,18.69,Lazer,LAZER,prazeres
-,Zp*53.383.855 Angelo A,500.0,Saúde,SAUDE: CONSULTAS,prazeres
-,Zp*Isabela de Alcantar,25.0,Outros,DESCONHECIDO,categorizar
-,Zp*isabela De Alcantar,25.0,Outros,DESCONHECIDO,categorizar
-,Água,18.0,Alimentação,ALIMENTAÇÃO,custos fixos
-,Água,39.0,Alimentação,ALIMENTAÇÃO,custos fixos
+data,descricao,valor,tags,subcategoria,categoria
+,1000 OPÇÕES,18.39,custos fixos,FERRAMENTAS,Moradia
+,1000 Opcoes,37.96,custos fixos,FERRAMENTAS,Moradia
+,1000 Opcoes - Parcela 1/2,32.0,custos fixos,FERRAMENTAS,Moradia
+,1000 Opcoes - Parcela 2/2,44.98,custos fixos,FERRAMENTAS,Moradia
+,1000 Opcoes - Parcela 3/3,33.64,custos fixos,HABITAÇÃO,Moradia
+,215 - Rj Niteroi Plaza - Parcela 2/2,49.95,conforto,ROUPAS,Moradia
+,215 - Rj Niteroi Plaza - Parcela 2/3,39.96,conforto,ROUPAS,Moradia
+,215 - Rj Niteroi Plaza - Parcela 3/3,39.96,conforto,ROUPAS,Moradia
+,28544988renatade,14.0,categorizar,DESCONHECIDO,Outros
+,36768889 Bruno Henriqu,124.3,categorizar,DESCONHECIDO,Outros
+,49780392caroline,12.0,categorizar,DESCONHECIDO,Outros
+,49780392caroline,10.0,categorizar,DESCONHECIDO,Outros
+,50475484fabianade,69.9,categorizar,DESCONHECIDO,Outros
+,A P C Dutra Mundo Do,30.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,A Sua Farmacia E Voc,6.49,categorizar,DESCONHECIDO,Outros
+,AJUSTE FATURA,238.28,conforto,CARTÃO DE CREDITO,Moradia
+,AJUSTE FATURA,1420.0,categorizar,CARTÃO DE CREDITO,Outros
+,ANTONIO CARLOS DE OLI,31.7,categorizar,DESCONHECIDO,Outros
+,Abbraccio Niteroi,91.61,prazeres,RESTAURANTE,Lazer
+,Abbraccio Niteroi,91.62,prazeres,RESTAURANTE,Lazer
+,Abreu E Gutierres Baz,8.99,categorizar,DESCONHECIDO,Outros
+,Ac Padaria,26.07,custos fixos,ALIMENTAÇÃO,Alimentação
+,Academia Mãe,120.0,prazeres,DOAÇÃO,Lazer
+,Adaltoalves - Parcela 1/2,70.0,categorizar,DESCONHECIDO,Outros
+,Adaltoalves - Parcela 2/2,70.0,categorizar,DESCONHECIDO,Outros
+,Ahoradogelo,30.0,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Ahoradogelo,23.0,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Ajuste,130.18,categorizar,CARTÃO DE CREDITO,Outros
+,Ajuste Fatura,3102.0,categorizar,CARTÃO DE CREDITO,Outros
+,Ajuste Fatura,171.76,categorizar,DESCONHECIDO,Outros
+,Ajuste Saldo,147.0,categorizar,DESCONHECIDO,Outros
+,Ajuste de Fatura,339.71,categorizar,DESCONHECIDO,Outros
+,Ajuste de fatura temporário,1887.24,categorizar,CARTÃO DE CREDITO,Outros
+,Ajuste fatura nubank,1100.0,categorizar,CARTÃO DE CREDITO,Outros
+,Aleixo Bar Restauran,156.93,prazeres,RESTAURANTE,Lazer
+,Aleixo Bar Restauran1,293.15,prazeres,RESTAURANTE,Lazer
+,Aleixo Bar Restauran2,143.55,prazeres,RESTAURANTE,Lazer
+,Aleixo Bar Restauran3,6.72,prazeres,RESTAURANTE,Lazer
+,Aleixo Bar Restaurante,231.44,prazeres,RESTAURANTE,Lazer
+,Alimentação,1200.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Amalfi,25.0,prazeres,VIAGEM,Lazer
+,Amazon,23.49,categorizar,DESCONHECIDO,Outros
+,Amazon Aws Servicos Br,45.36,custos fixos,FERRAMENTAS,Moradia
+,Amazon Aws Servicos Br,45.44,custos fixos,FERRAMENTAS,Moradia
+,Amazon Br,40.39,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br,152.91,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br,139.41,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br,42.59,prazeres,SUPLEMENTAÇÃO,Lazer
+,Amazon Br,24.54,prazeres,ALIMENTAÇÃO,Alimentação
+,Amazon Br,47.09,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br,53.91,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br,44.05,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br,100.0,prazeres,SUPLEMENTAÇÃO,Lazer
+,Amazon Br,56.09,prazeres,SUPLEMENTAÇÃO,Lazer
+,Amazon Br,30.64,conhecimento,EDUCAÇÃO,Educação
+,Amazon Br1,39.2,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br1,79.99,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br2,152.91,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br2,31.44,conhecimento,EDUCAÇÃO,Educação
+,Amazon Br3,37.54,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Br3,31.17,custos fixos,ALIMENTAÇÃO,Alimentação
+,Amazon Br4,24.54,custos fixos,ALIMENTAÇÃO,Alimentação
+,Amazon Br5,170.1,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Digital,23.65,categorizar,DESCONHECIDO,Outros
+,Amazon Marketplace,53.9,categorizar,DESCONHECIDO,Outros
+,Amazon Marketplace,37.58,categorizar,DESCONHECIDO,Outros
+,Amazon Marketplace,90.9,custos fixos,HABITAÇÃO,Moradia
+,Amazon Marketplace,109.0,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Marketplace,129.98,prazeres,SUPLEMENTAÇÃO,Lazer
+,Amazon Marketplace - Parcela 1/2,69.93,categorizar,DESCONHECIDO,Outros
+,Amazon Marketplace - Parcela 2/2,69.92,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Marketplace - Parcela 4/5,54.3,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Marketplace - Parcela 5/5,54.3,categorizar,DESCONHECIDO,Outros
+,Amazon Marketplace B,78.95,custos fixos,HABITAÇÃO,Moradia
+,Amazon Marketplace B - Parcela 3/10,78.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Amazon Marketplace B - Parcela 4/10,78.95,categorizar,DESCONHECIDO,Outros
+,Amazon Marketplace Br  Sao Paulo     Bra,78.95,custos fixos,HABITAÇÃO,Moradia
+,Amazon Marketplace Br Sao Paulo Bra,78.95,custos fixos,HABITAÇÃO,Moradia
+,Amazon Marketplace Br Sao Paulo Bra - Parcela 5/10,78.95,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Marketplace1,59.9,prazeres,ANIMAIS,Lazer
+,Amazon Marketplace1,60.9,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Marketplace2,39.8,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Marketplace2,89.9,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Amazon Prime Aluguel,6.9,categorizar,DESCONHECIDO,Outros
+,Amazonprimebr,19.9,prazeres,LAZER,Lazer
+,Amazonprimebr1,19.9,prazeres,LAZER,Lazer
+,Amazonprimebr2,19.9,prazeres,LAZER,Lazer
+,Amazonprimebr3,19.9,prazeres,LAZER,Lazer
+,Andersontiago,125.0,categorizar,DESCONHECIDO,Outros
+,Andersontiago,170.0,prazeres,DESCONHECIDO,Lazer
+,Angelicafrancisca,20.0,categorizar,DESCONHECIDO,Outros
+,Antonio Carlos De Oli,24.5,categorizar,DESCONHECIDO,Outros
+,Antonio Carlos De Oli,19.9,categorizar,DESCONHECIDO,Outros
+,Antonio Carlos De Oli,29.9,categorizar,DESCONHECIDO,Outros
+,Appai,310.0,custos fixos,SAUDE: ASSINATURA,Saúde
+,Appai,327.9,custos fixos,SAUDE: ASSINATURA,Saúde
+,Apple.Com/Bill,35.0,custos fixos,FERRAMENTAS,Moradia
+,Apple.Com/Bill,29.9,categorizar,ELETRÔNICOS,Outros
+,Apple.Com/Bill,14.9,custos fixos,FERRAMENTAS,Moradia
+,Apple.Com/Bill1,16.9,custos fixos,FERRAMENTAS,Moradia
+,Apple.Com/Bill2,35.0,custos fixos,FERRAMENTAS,Moradia
+,Apple.Com/Bill3,14.9,custos fixos,FERRAMENTAS,Moradia
+,Apple.com/bill,35.0,conforto,ELETRÔNICOS,Moradia
+,Apple.com/bill,49.9,conforto,ELETRÔNICOS,Moradia
+,Apple.com/bill,1.9,conforto,FERRAMENTAS,Moradia
+,Araken Centro,49.07,prazeres,ANIMAIS,Lazer
+,Araken Centro,59.22,prazeres,ANIMAIS,Lazer
+,Araken Centro,104.93,prazeres,ANIMAIS,Lazer
+,Arakenpetcenter,27.58,prazeres,ANIMAIS,Lazer
+,Arcafe,28.9,prazeres,RESTAURANTE: CAFETERIA,Lazer
+,Arcafe,23.49,prazeres,RESTAURANTE: CAFETERIA,Lazer
+,Arcafe Cafeteria e Cow1,34.89,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Arcafe Cafeteria e Cow2,22.99,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Arcopleno,9.9,categorizar,DESCONHECIDO,Outros
+,Art Cafe Lapa,20.0,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Art Do Cafe,48.0,prazeres,RESTAURANTE: CAFETERIA,Lazer
+,Assb Comercio Vareji,30.97,custos fixos,HABITAÇÃO,Moradia
+,Assb Comercio Varejist,45.36,custos fixos,ALIMENTAÇÃO,Alimentação
+,Assb Comercio Varejist,74.99,custos fixos,ALIMENTAÇÃO,Alimentação
+,Assb Comercio Varejist,19.96,custos fixos,ALIMENTAÇÃO,Alimentação
+,Assb Comercio Varejist,35.98,categorizar,DESCONHECIDO,Outros
+,Atrativa,39.0,conforto,ROUPAS,Moradia
+,Atrativa          01/06,21.35,conforto,ROUPAS,Moradia
+,Atrativa          02/06,21.35,conforto,ROUPAS,Moradia
+,Atrativa          03/06,21.35,conforto,ROUPAS,Moradia
+,Atrativa          04/06,21.35,conforto,ROUPAS,Moradia
+,Atrativa          05/06,21.35,conforto,ROUPAS,Moradia
+,Atrativa          06/06,21.35,conforto,ROUPAS,Moradia
+,Auto Posto Margui 2,106.75,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Auto Posto Nossa Sen,20.0,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Autoviacao1001*aut01/03,178.26,conhecimento,EDUCAÇÃO,Educação
+,Autoviacao1001*aut02/03,178.26,conhecimento,EDUCAÇÃO,Educação
+,Autoviacao1001*aut03/03,178.26,conhecimento,EDUCAÇÃO,Educação
+,Autoviacao1001*autovia,-0.02,,,Outros
+,BERLINF FAMILIA PALUDO,266.2,prazeres,RESTAURANTE,Lazer
+,Bacio Di Latte-lj002,45.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Bacio Di Latte-lj002,41.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Bacio Di Latte-lj0024,43.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Banca Cultura,60.0,prazeres,VIAGEM,Lazer
+,Bar Dos Ouriveis,27.9,prazeres,RESTAURANTE,Lazer
+,Bar E Restaurante Casa,64.02,prazeres,RESTAURANTE,Lazer
+,Bar E Restaurante Casa,23.26,prazeres,RESTAURANTE,Lazer
+,Bar E Restaurante Casa,44.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Barcas S.A,7.7,prazeres,TRANSPORTE,Transporte
+,Bay Market,15.0,prazeres,LAZER,Lazer
+,Bazar Quase Dois,26.97,custos fixos,FERRAMENTAS,Moradia
+,Bazar Quase Dois,18.99,conforto,HABITAÇÃO,Moradia
+,Bazar Quase Dois,21.99,custos fixos,HABITAÇÃO,Moradia
+,Bazar Quase Dois,16.98,custos fixos,FERRAMENTAS,Moradia
+,Bazar Ribeiro Sao Go,54.3,custos fixos,FERRAMENTAS,Moradia
+,Beach Farma de Marica,23.85,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Bebidasmaresias,58.0,prazeres,DOAÇÃO,Lazer
+,Beira Mar Estacionam,25.0,prazeres,TRANSPORTE,Transporte
+,Bel Cosmeticos,23.9,conforto,ESTÉTICA,Moradia
+,Bel Cosmeticos (02/06),23.35,conforto,ESTÉTICA,Moradia
+,Bel Cosmeticos (03/06),23.35,conforto,ESTÉTICA,Moradia
+,Bel Cosmeticos (04/06),23.35,conforto,ESTÉTICA,Moradia
+,Bel Cosmeticos (05/06),23.35,conforto,ESTÉTICA,Moradia
+,Bel Cosmeticos (06/06),23.35,conforto,ESTÉTICA,Moradia
+,Bel Cosmeticos 01/06,23.35,conforto,ESTÉTICA,Moradia
+,Bela Ferraz Marica,55.99,conforto,ESTÉTICA,Moradia
+,Bela Ferraz Marica,33.98,conforto,ESTÉTICA,Moradia
+,Bela Ferraz Marica,37.98,conforto,ESTÉTICA,Moradia
+,Bela Ferraz Marica - Parcela 1/2,61.71,conforto,ROUPAS,Moradia
+,Bela Ferraz Marica - Parcela 2/2,61.71,conforto,ESTÉTICA,Moradia
+,Beng,61.94,custos fixos,HABITAÇÃO,Moradia
+,Betterpb - Parcela 1/3,41.45,custos fixos,ALIMENTAÇÃO,Alimentação
+,Betterpb - Parcela 1/4,90.67,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Betterpb - Parcela 2/3,41.44,custos fixos,ALIMENTAÇÃO,Alimentação
+,Betterpb - Parcela 2/4,90.67,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Betterpb - Parcela 3/3,41.44,custos fixos,ALIMENTAÇÃO,Alimentação
+,Betterpb - Parcela 3/4,90.67,prazeres,SUPLEMENTAÇÃO,Lazer
+,Betterpb - Parcela 4/4,90.67,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bh Park,45.0,prazeres,LAZER,Lazer
+,Bikemarica,25.0,prazeres,LAZER,Lazer
+,Bio Magistral     01/06,143.65,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bio Magistral     02/06,143.65,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bio Magistral     03/06,143.65,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bio Magistral     04/06,143.65,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bio Magistral     05/06,143.65,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bio Magistral     06/06,143.65,prazeres,SUPLEMENTAÇÃO,Lazer
+,Bio Magistral - Parcela 1/2,98.2,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Bio Magistral - Parcela 2/2,98.2,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Bio Magistral - Parcela 2/3,112.66,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Bio Magistral - Parcela 3/3,112.66,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Bitwarden,64.3,conforto,FERRAMENTAS,Moradia
+,Blackmachine,5.0,prazeres,ELETRÔNICOS,Lazer
+,Blackmachine,10.0,prazeres,ELETRÔNICOS,Lazer
+,Bobs,16.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Bobs Nit Plaza,16.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Bobs Nit Plaza,9.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Bobs Nit Plaza,19.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Br *br1foodtosav,82.09,prazeres,ALIMENTAÇÃO,Alimentação
+,Br *foodtosav,79.96,prazeres,RESTAURANTE: LANCHE,Lazer
+,Brandt E Moura Padar,8.92,prazeres,RESTAURANTE: LANCHE,Lazer
+,Brandt E Moura Padaria,8.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Brandt E Moura Padaria,6.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Brandt E Moura Padaria,10.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,Brandt E Moura Padaria,15.23,custos fixos,ALIMENTAÇÃO,Alimentação
+,Brandt E Moura Padaria,7.13,prazeres,RESTAURANTE: LANCHE,Lazer
+,Brandt E Moura Padaria,1.15,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Brodao Brasil,6.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Brodao Brasil,15.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,CC PÃO DE AÇÚCAR,238.66,categorizar,CARTÃO DE CREDITO,Outros
+,CC PÃO DE AÇÚCAR,18.15,categorizar,CARTÃO DE CREDITO,Outros
+,CC Pão de Açúcar,238.66,categorizar,CARTÃO DE CREDITO,Outros
+,Cabelo,130.0,conforto,ESTÉTICA,Moradia
+,Cafe Ao Cubo 1,83.05,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Cafe Com Pao,10.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Camelo Distribuidora D,51.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Camicado - Parcela 1/2,84.99,custos fixos,HABITAÇÃO,Moradia
+,Camicado - Parcela 2/2,84.98,custos fixos,HABITAÇÃO,Moradia
+,Camila Abreu De Souz,283.8,prazeres,RESTAURANTE,Lazer
+,Camilapereirada,41.0,categorizar,DESCONHECIDO,Outros
+,Cantinho Do Acai Ja,11.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Cappta *brodao,13.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Cappta *celia Goulart,36.0,categorizar,DESCONHECIDO,Outros
+,Cappta *central Lanc,10.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Cappta *central Lanche,19.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Cappta *central Lanche,18.5,conforto,RESTAURANTE: LANCHE,Lazer
+,Cappta *central Lanche,9.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Carel Produtos de Bel,49.3,conforto,ESTÉTICA,Moradia
+,Carlosmiguel,34.93,categorizar,DESCONHECIDO,Outros
+,Carrefour Paulista 1,19.64,conhecimento,EDUCAÇÃO,Educação
+,Cartão Zilá,650.0,categorizar,DESCONHECIDO,Outros
+,Cartão Zilá,973.98,categorizar,DESCONHECIDO,Outros
+,Casa Do Biscoito,17.99,custos fixos,ALIMENTAÇÃO,Alimentação
+,Casa Do Eucalipto,84.0,metas,OBRAS,Outros
+,Casa Do Eucalipto - Parcela 3/6,84.0,metas,OBRAS,Outros
+,Casa Do Eucalipto - Parcela 4/6,84.0,metas,OBRAS,Outros
+,Casa Do Eucalipto - Parcela 5/6,84.0,metas,OBRAS,Outros
+,Casa Limpeza,33.98,custos fixos,HABITAÇÃO,Moradia
+,Casa Limpeza,11.98,custos fixos,HABITAÇÃO,Moradia
+,Casa Limpeza,5.99,custos fixos,HABITAÇÃO,Moradia
+,Casa Limpeza,59.99,custos fixos,HABITAÇÃO,Moradia
+,Casa e Video,9.98,custos fixos,FERRAMENTAS,Moradia
+,Casas Bahia - Parcela 1/2,128.69,custos fixos,HABITAÇÃO,Moradia
+,Casas Pernambucanas,111.96,prazeres,PRESENTES,Lazer
+,Casas Pernambucanas - Parcela 1/2,37.99,custos fixos,FERRAMENTAS,Moradia
+,Casas Pernambucanas - Parcela 1/3,30.98,custos fixos,FERRAMENTAS,Moradia
+,Casas Pernambucanas - Parcela 2/2,37.99,custos fixos,FERRAMENTAS,Moradia
+,Casas Pernambucanas - Parcela 2/2,89.98,conforto,ROUPAS,Moradia
+,Casas Pernambucanas - Parcela 2/3,30.98,conforto,ROUPAS,Moradia
+,Casas Pernambucanas - Parcela 2/3,39.99,conforto,ROUPAS,Moradia
+,Casas Pernambucanas - Parcela 3/3,39.99,conforto,ROUPAS,Moradia
+,Casas Pernambucanas - Parcela 3/3,30.98,conforto,ROUPAS,Moradia
+,Castração do Paçoca,1200.0,prazeres,ANIMAIS,Lazer
+,Castração dos gatos,160.0,prazeres,ANIMAIS,Lazer
+,Catiapradopeixoto,276.1,prazeres,RESTAURANTE,Lazer
+,Cea Nit 560 Ecpc - Parcela 1/3,89.99,conforto,ROUPAS,Moradia
+,Cea Nit 560 Ecpc - Parcela 2/3,65.32,conforto,ROUPAS,Moradia
+,Cea Nit 560 Ecpc - Parcela 2/3,89.99,conforto,ROUPAS,Moradia
+,Cea Nit 560 Ecpc - Parcela 3/3,89.99,conforto,ROUPAS,Moradia
+,Cea Nit 560 Ecpc - Parcela 3/3,65.32,conforto,ROUPAS,Moradia
+,Celular,120.0,custos fixos,TELEFONE,Moradia
+,Cencosud Brasil Come,64.1,custos fixos,ALIMENTAÇÃO,Alimentação
+,Cencosud Brasil Come,163.13,custos fixos,ALIMENTAÇÃO,Alimentação
+,Cencosud Brasil Come,121.24,custos fixos,ALIMENTAÇÃO,Alimentação
+,Cencosud Brasil Come,58.15,custos fixos,ALIMENTAÇÃO,Alimentação
+,Cencosud Brasil Comerc,117.51,custos fixos,ALIMENTAÇÃO,Alimentação
+,Cencosud Brasil Comerc,86.21,custos fixos,ALIMENTAÇÃO,Alimentação
+,Cencosud Brasil Comerc,16.63,custos fixos,ALIMENTAÇÃO,Alimentação
+,Central Lanches,19.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Centrocell Informati - Parcela 2/3,73.3,categorizar,DESCONHECIDO,Outros
+,Centrocell Informati - Parcela 3/3,73.3,categorizar,DESCONHECIDO,Outros
+,Charque 500 Industri,54.36,prazeres,LAZER,Lazer
+,Charque 500 Industria,93.8,prazeres,ALIMENTAÇÃO,Alimentação
+,Charque 500 Industria,68.41,prazeres,ALIMENTAÇÃO,Alimentação
+,Cheff Gourmet,40.62,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Cheff Gourmet,33.7,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Cheff Gourmet,40.11,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Cheff Gourmet,3.0,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Cheff Gourmet,78.2,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Cheff Gourmet,84.6,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Cheirin Bao,44.58,conforto,DESCONHECIDO,Moradia
+,Chocomarica,73.5,prazeres,ALIMENTAÇÃO,Alimentação
+,Chocomarica,57.37,prazeres,ALIMENTAÇÃO,Alimentação
+,Chocomarica,76.58,prazeres,ALIMENTAÇÃO,Alimentação
+,Chocomarica,51.8,prazeres,ALIMENTAÇÃO,Alimentação
+,Churrascodosamuca,56.0,prazeres,RESTAURANTE,Lazer
+,Churrascodosamuca,63.0,prazeres,RESTAURANTE,Lazer
+,Citycol,22.99,conforto,ROUPAS,Moradia
+,Claudioluizda,35.0,prazeres,RESTAURANTE,Lazer
+,Claudioluizda,25.0,categorizar,DESCONHECIDO,Outros
+,Clinica Vet Popula01/04,87.75,prazeres,ANIMAIS,Lazer
+,Clinica Vet Popula03/04,87.75,prazeres,ANIMAIS,Lazer
+,Clinica Vet Popula04/04,87.75,prazeres,ANIMAIS,Lazer
+,Clinica Vet Popular(02/04),87.75,prazeres,ANIMAIS,Lazer
+,Coffee Break Gourmet,13.0,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Comercial Oceanica,44.0,custos fixos,FERRAMENTAS,Moradia
+,Comercio De Calcados,109.9,conforto,ROUPAS,Moradia
+,Comercio De Produtos,85.18,conforto,ALIMENTAÇÃO,Alimentação
+,Comercio De Produtos,96.18,categorizar,DESCONHECIDO,Outros
+,Comercio De Produtos,76.23,conforto,ALIMENTAÇÃO,Alimentação
+,Comercio de Produtos,38.6,custos fixos,ALIMENTAÇÃO,Alimentação
+,Comercio de Produtos,54.08,categorizar,DESCONHECIDO,Outros
+,Comercio de Produtos,50.0,categorizar,DESCONHECIDO,Outros
+,Compras Débora,300.0,prazeres,ELETRÔNICOS,Lazer
+,Compras Débora,500.0,prazeres,ELETRÔNICOS,Lazer
+,Compras Débora,577.0,conforto,ESTÉTICA,Moradia
+,Compras Mercado Livre,372.0,custos fixos,DESPESAS PESSOAIS,Alimentação
+,Compras Thiago,600.0,custos fixos,HABITAÇÃO,Moradia
+,Consorcio Estacionam,30.0,prazeres,TRANSPORTE,Transporte
+,Consorcio Estacionamen,11.0,conforto,TRANSPORTE,Transporte
+,Consorcio Estacionament,11.0,prazeres,TRANSPORTE,Transporte
+,Conta Vivo,57.34,custos fixos,TELEFONE,Moradia
+,Conta Vivo,57.44,prazeres,DOAÇÃO,Lazer
+,Conta Vivo,57.27,custos fixos,TELEFONE,Moradia
+,Conta Vivo,57.31,custos fixos,TELEFONE,Moradia
+,Conta Vivo,57.23,custos fixos,TELEFONE,Moradia
+,Conta61d9d2481003494,52.8,custos fixos,FERRAMENTAS,Moradia
+,Contabo Com,35.26,conforto,FERRAMENTAS,Moradia
+,Copel,23.85,custos fixos,ALIMENTAÇÃO,Alimentação
+,Copel 455,91.3,custos fixos,ALIMENTAÇÃO,Alimentação
+,Coxinha No Copo,15.0,prazeres,RESTAURANTE,Lazer
+,Credpay*38 - Amigao,7.99,custos fixos,HABITAÇÃO,Moradia
+,Credpay*38 - Amigao de,67.97,categorizar,DESCONHECIDO,Outros
+,Ctyongpastelaria,38.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ctyongpastelaria,8.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Cultura Japonesa,14.0,prazeres,VIAGEM,Lazer
+,Cumani Marica,33.94,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Cílios,70.0,conforto,ESTÉTICA,Moradia
+,Cílios,120.0,conforto,ESTÉTICA,Moradia
+,Cílios,260.0,conforto,ESTÉTICA,Moradia
+,D Goulart Cafeteria,41.0,conforto,RESTAURANTE: CAFETERIA,Lazer
+,DAS/MEI,81.97,custos fixos,TAXAS,Alimentação
+,DAS/MEI,230.0,custos fixos,TAXAS,Alimentação
+,DAS/MEI Atrasadas M,170.0,custos fixos,TAXAS,Alimentação
+,DAS/MEI Atrasadas N,354.72,custos fixos,TAXAS,Alimentação
+,DELL,493.25,conforto,ELETRÔNICOS,Moradia
+,DELL 09/12,493.25,prazeres,LAZER,Lazer
+,DELL 10/12,493.25,prazeres,LAZER,Lazer
+,DELL 11/12,493.25,prazeres,LAZER,Lazer
+,DORIS ALIMENTOS,22.88,custos fixos,ALIMENTAÇÃO,Alimentação
+,DROGARIA NOSSA SENHORA1,26.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,DROGARIA NOSSA SENHORA2,20.48,custos fixos,SAUDE: FARMÁCIA,Saúde
+,DROGARIA NOSSA SENHORA3,20.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,DROGRARIA TAMOIO1,61.77,custos fixos,SAUDE: FARMÁCIA,Saúde
+,De Coracao E Prese01/03,53.97,prazeres,PRESENTES,Lazer
+,De Coracao E Prese02/03,53.97,prazeres,PRESENTES,Lazer
+,De Coracao E Prese03/03,53.97,prazeres,PRESENTES,Lazer
+,De Coracao E Present,17.21,prazeres,PRESENTES,Lazer
+,Decathlon,29.98,conforto,ROUPAS,Moradia
+,Decathlon - Parcela 1/2,72.49,conforto,ROUPAS,Moradia
+,Decathlon - Parcela 2/2,72.49,conforto,ROUPAS,Moradia
+,Delicias Da Val,73.7,prazeres,RESTAURANTE,Lazer
+,Delicias Da Val,75.9,prazeres,RESTAURANTE,Lazer
+,Delivery Alimentos Moc,42.07,prazeres,VIAGEM,Lazer
+,Distribuidora De Rac,51.8,prazeres,ANIMAIS,Lazer
+,Distribuidora De Rac,211.72,prazeres,ANIMAIS,Lazer
+,Distribuidora De Rac,75.36,prazeres,ANIMAIS,Lazer
+,Distribuidora De Rac - Parcela 1/6,75.37,prazeres,ANIMAIS,Lazer
+,Distribuidora De Rac - Parcela 2/6,75.36,prazeres,ANIMAIS,Lazer
+,Distribuidora De Racoe Marica Bra,75.36,prazeres,ANIMAIS,Lazer
+,Distribuidora de Racoe - Parcela 2/6,40.09,prazeres,ANIMAIS,Lazer
+,Distribuidora de Racoe - Parcela 3/6,40.09,prazeres,ANIMAIS,Lazer
+,Distribuidora de Racoe - Parcela 5/6,40.09,prazeres,ANIMAIS,Lazer
+,Distribuidora de Racoe - Parcela 6/6,40.09,prazeres,ANIMAIS,Lazer
+,Divino Pao,50.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Divino Pao,13.5,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Divino Pao,52.51,prazeres,RESTAURANTE: LANCHE,Lazer
+,Divino Pao,36.91,conforto,RESTAURANTE,Lazer
+,Divino Pao,15.4,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Divino Pao,18.56,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Divino Pao,22.0,prazeres,RESTAURANTE: DIA A DIA,Lazer
+,Divino Pao,32.98,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Dl *google Steel And F,23.99,prazeres,ELETRÔNICOS,Lazer
+,Doce Brigaderia,29.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Doce Brigaderia,37.0,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Doce Brigaderia,34.0,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Doris Alimenticios,84.22,prazeres,RESTAURANTE,Lazer
+,Doris Alimenticios,27.57,custos fixos,ALIMENTAÇÃO,Alimentação
+,Drinks & Cia,35.15,prazeres,RESTAURANTE: LANCHE,Lazer
+,Drogaria Bonito,5.45,prazeres,VIAGEM,Lazer
+,Drogaria Max Ii,100.91,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii,18.75,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii,48.46,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii,104.08,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii - Parcela 1/3,104.08,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii - Parcela 2/3,104.08,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii 01/02,257.99,prazeres,SAUDE: FARMÁCIA,Saúde
+,Drogaria Max Ii 02/02,257.99,prazeres,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,36.37,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,97.93,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,8.28,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,39.97,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,65.46,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,77.35,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,36.47,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,13.9,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,99.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,85.97,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,28.79,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,112.41,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,43.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,20.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,150.92,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,27.98,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,22.98,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,44.98,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,46.44,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,4.49,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Nossa Senho,27.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,29.99,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,34.97,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,54.34,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,87.27,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,74.55,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,15.98,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,19.68,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio,75.37,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 1/3,47.43,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 1/4,50.34,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 2/3,47.41,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 2/4,50.32,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 3/3,47.41,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 3/4,50.32,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 3/5,73.49,prazeres,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 4/4,50.32,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 4/5,73.49,prazeres,SAUDE: FARMÁCIA,Saúde
+,Drogaria Tamoio - Parcela 5/5,73.49,prazeres,SAUDE: FARMÁCIA,Saúde
+,Drogaria Via Marica,9.39,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogarias Max,19.97,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogarias Pacheco,39.96,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogarias Pacheco Sa,25.98,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogarias Pacheco Sa,38.96,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogarias Pacheco Sa,54.98,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Drogarias Ultra Popula,46.0,custos fixos,SAUDE: FARMÁCIA,Saúde
+,Dízimo,2100.0,custos fixos,DÍZIMO,Alimentação
+,Dízimo,1600.0,custos fixos,DÍZIMO,Alimentação
+,Dízimo,1500.0,custos fixos,DÍZIMO,Alimentação
+,Dízimo,2400.0,custos fixos,DÍZIMO,Alimentação
+,Dízimo,1800.0,custos fixos,DÍZIMO,Alimentação
+,ENCARGOS DE ATRASO,5.01,custos fixos,TAXAS,Alimentação
+,Ebn *Sonyplaystatn,5.02,prazeres,LAZER,Lazer
+,Ebn *Sonyplaystatn,53.1,prazeres,LAZER,Lazer
+,Ebn *Sonyplaystatn - Parcela 1/4,43.91,prazeres,LAZER,Lazer
+,Ebn *Sonyplaystatn - Parcela 2/4,43.91,prazeres,LAZER,Lazer
+,Ebn*Sonyplaystatn,53.1,prazeres,LAZER,Lazer
+,Ecoponte Fpay,3.1,prazeres,TRANSPORTE,Transporte
+,Edzr - Parcela  01/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 02/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 03/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 04/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 05/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 06/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 07/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 08/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 09/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 10/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 11/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzr - Parcela 12/12,59.7,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 1/12,46.06,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 10/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 11/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 12/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 2/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 3/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 4/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 5/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 6/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 7/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 8/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Edzrnutrihubanual - Parcela 9/12,46.04,conhecimento,EDUCAÇÃO,Educação
+,Elainemedauarde,19.0,categorizar,DESCONHECIDO,Outros
+,Elainemedauarde,5.5,custos fixos,RESTAURANTE: DIA A DIA,Lazer
+,Elainemedauarde,18.0,categorizar,DESCONHECIDO,Outros
+,Elainemedauarde,13.5,categorizar,DESCONHECIDO,Outros
+,Elainemedauarde,8.0,categorizar,DESCONHECIDO,Outros
+,Elainemedauarde,7.0,categorizar,DESCONHECIDO,Outros
+,Elainemedauarde,9.14,categorizar,DESCONHECIDO,Outros
+,Elainemedauarde,23.2,categorizar,DESCONHECIDO,Outros
+,Encargos Rotativo,90.84,custos fixos,TAXAS,Alimentação
+,Endócrino,500.0,prazeres,SAUDE: CONSULTAS,Saúde
+,Energia,200.0,custos fixos,HABITAÇÃO,Moradia
+,Erickfernandes,50.0,categorizar,DESCONHECIDO,Outros
+,Esquina Da Praia Bar,48.16,prazeres,RESTAURANTE,Lazer
+,Estacaolanches,23.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Estok Distribuidora,171.5,custos fixos,HABITAÇÃO,Moradia
+,Estrela Da Ana Rosa,100.87,prazeres,VIAGEM,Lazer
+,Evo*boaventura,166.0,prazeres,ANIMAIS,Lazer
+,F A Dos Santos Palhete,69.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,F A Dos Santos Palhete,175.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,F A Dos Santos Palhete,70.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,FRETE,200.0,prazeres,TRANSPORTE,Transporte
+,Faculdade,224.0,conhecimento,EDUCAÇÃO,Educação
+,Fenix Motos,35.0,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Fenix Motos,210.0,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Fenix Motos 01/02,187.5,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Fenix Motos 02/02,187.5,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Fenix Motos Marica Bra,210.0,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Festa da virada,120.0,prazeres,LAZER,Lazer
+,Figueiredo Aranha Clin - Parcela 10/12,18.5,custos fixos,SAUDE: EXAMES,Saúde
+,Figueiredo Aranha Clin - Parcela 11/12,18.5,custos fixos,SAUDE: EXAMES,Saúde
+,Figueiredo Aranha Clin - Parcela 12/12,18.5,custos fixos,SAUDE: EXAMES,Saúde
+,Figueiredo Aranha Clin - Parcela 5/10,25.2,categorizar,DESCONHECIDO,Outros
+,Figueiredo Aranha Clin - Parcela 6/10,25.2,categorizar,DESCONHECIDO,Outros
+,Figueiredo Aranha Clin - Parcela 8/10,25.2,custos fixos,SAUDE: EXAMES,Saúde
+,Figueiredo Aranha Clin - Parcela 9/10,25.2,custos fixos,SAUDE: EXAMES,Saúde
+,Finpet,100.0,prazeres,ANIMAIS,Lazer
+,Fisia Nike Ecommer,99.99,conforto,ROUPAS,Moradia
+,Fisia Nike Ecommer     Extrema       Bra,99.99,conforto,ROUPAS,Moradia
+,Fisia Nike Ecommer - Parcela 2/9,99.99,conforto,ROUPAS,Moradia
+,Fisia Nike Ecommer - Parcela 3/9,99.99,conforto,ROUPAS,Moradia
+,Fisia Nike Ecommer - Parcela 4/9,99.99,conforto,ROUPAS,Moradia
+,Fisia Nike Ecommer Extrema Bra,99.99,conforto,ROUPAS,Moradia
+,Fmracoes,79.9,prazeres,ANIMAIS,Lazer
+,Fome Zero Lanches,78.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Fome Zero Lanches,61.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Franciscoelisario,24.33,categorizar,DESCONHECIDO,Outros
+,Franciscoelisario,24.96,categorizar,DESCONHECIDO,Outros
+,Freezer 3/3,266.67,custos fixos,HABITAÇÃO,Moradia
+,G.M.A.P Supermercados,221.43,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.M.A.P Supermercados,337.06,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.M.A.P Supermercados,119.26,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.M.A.P Supermercados,353.75,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.M.A.P Supermercados,134.35,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercado,52.46,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercado,333.06,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercado,73.38,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercado,8.79,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercado,132.58,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,305.63,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,353.28,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,95.39,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,29.37,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,91.24,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,320.29,custos fixos,ALIMENTAÇÃO,Alimentação
+,G.m.a.p Supermercados,23.97,custos fixos,ALIMENTAÇÃO,Alimentação
+,GMAP SUPERMERCADOS,28.33,custos fixos,ALIMENTAÇÃO,Alimentação
+,GRAO DA TERRA1,19.98,custos fixos,ALIMENTAÇÃO,Alimentação
+,GRAO DA TERRA2,38.11,custos fixos,ALIMENTAÇÃO,Alimentação
+,GRT 2025,281.0,custos fixos,TRANSPORTE,Transporte
+,Gda Mini Mercado Ponta,111.73,custos fixos,ALIMENTAÇÃO,Alimentação
+,Gda Mini Mercado Ponta,30.02,custos fixos,ALIMENTAÇÃO,Alimentação
+,Gildete Alves Da Silva,115.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Gildete Alves da Silva,18.7,custos fixos,HABITAÇÃO,Moradia
+,Ginecologista,250.0,custos fixos,SAUDE: CONSULTAS,Saúde
+,"Github, Inc.",63.06,conforto,FERRAMENTAS,Moradia
+,"Github, Inc.",56.48,conforto,FERRAMENTAS,Moradia
+,Google GSUITE,33.6,custos fixos,TAXAS,Alimentação
+,Google Gsuite_techns,26.01,custos fixos,FERRAMENTAS,Moradia
+,Google Gsuite_techns,33.6,custos fixos,FERRAMENTAS,Moradia
+,Google Gsuite_technsol,33.6,custos fixos,TAXAS,Alimentação
+,Google Mob Control,3.29,prazeres,ELETRÔNICOS,Lazer
+,Google Mob Control,8.49,prazeres,ELETRÔNICOS,Lazer
+,Google One,79.9,custos fixos,FERRAMENTAS,Moradia
+,Google One,119.9,custos fixos,FERRAMENTAS,Moradia
+,Google We Are Warrior,34.53,prazeres,ELETRÔNICOS,Lazer
+,Google Youtube,13.9,prazeres,LAZER,Lazer
+,Google Youtube,4.99,prazeres,LAZER,Lazer
+,Google Youtube1,13.9,prazeres,LAZER,Lazer
+,Google Youtube2,4.99,prazeres,LAZER,Lazer
+,Grao Da Terra De Mar,50.15,custos fixos,ALIMENTAÇÃO,Alimentação
+,Grao da Terra de Maric,16.4,custos fixos,ALIMENTAÇÃO,Alimentação
+,Grao de Ouro Pedra Azu,28.59,custos fixos,ALIMENTAÇÃO,Alimentação
+,Grao de Ouro Pedra Azu,106.94,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hastel Aluguel    01/04,400.0,metas,CASAMENTO,Outros
+,Hastel Aluguel    02/04,400.0,metas,CASAMENTO,Outros
+,Havaianas,60.98,conforto,ROUPAS,Moradia
+,Hbepeixe,22.79,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hebertcarlos,45.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Hilaplast -ct,7.5,custos fixos,HABITAÇÃO,Moradia
+,Hna,62.78,conforto,ESTÉTICA,Moradia
+,Hna*Oboticario - Parcela 1/3,106.94,conforto,ESTÉTICA,Moradia
+,Hna*Oboticario - Parcela 2/3,106.93,categorizar,DESCONHECIDO,Outros
+,Hna*Oboticario - Parcela 3/3,106.93,prazeres,DESCONHECIDO,Lazer
+,Hna*oboticario,62.9,conforto,ESTÉTICA,Moradia
+,Hna*oboticario,39.6,conforto,ESTÉTICA,Moradia
+,Hnt Chicken,18.45,prazeres,RESTAURANTE: LANCHE,Lazer
+,Hortifrut Jvta De Ma,31.89,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta De Mari,101.52,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta De Mari,21.04,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta De Mari,23.61,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta De Maric,35.96,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta De Maric,39.46,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta de Mari,12.04,custos fixos,ALIMENTAÇÃO,Alimentação
+,Hortifrut Jvta de Mari,44.11,custos fixos,ALIMENTAÇÃO,Alimentação
+,Htm *cursotrafego,55.93,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 10/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 11/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 12/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 4/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 5/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 6/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 7/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 8/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Acjejum - Parcela 9/12,39.62,conhecimento,EDUCAÇÃO,Educação
+,Htm*Aryane Stein - Parcela 1/2,62.56,categorizar,DESCONHECIDO,Outros
+,Htm*Aryane Stein - Parcela 2/2,62.56,conhecimento,EDUCAÇÃO,Educação
+,Htm*cursos Luan Lis,97.0,conhecimento,EDUCAÇÃO,Educação
+,Htm*cursos Luan Lis,378.3,conhecimento,EDUCAÇÃO,Educação
+,Hungara Lanches Marica,11.5,conforto,RESTAURANTE: LANCHE,Lazer
+,Hungara Lanches Marica,19.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Hungara Lanches Marica,15.0,conforto,RESTAURANTE: LANCHE,Lazer
+,IFOOD1,98.94,prazeres,RESTAURANTE: LANCHE,Lazer
+,IFOOD2,50.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,IFOOD3,19.22,prazeres,RESTAURANTE: LANCHE,Lazer
+,INVESTIMENTO,300.0,liberdade financeira,INVESTIMENTOS,Outros
+,INVESTIMENTO,1000.0,liberdade financeira,INVESTIMENTOS,Outros
+,INVESTIMENTO,400.0,liberdade financeira,INVESTIMENTOS,Outros
+,INVESTIMENTO,500.0,liberdade financeira,INVESTIMENTOS,Outros
+,"IOF de ""Openai""",1.58,conforto,ELETRÔNICOS,Moradia
+,"IOF de ""Openai""",1.62,conforto,ELETRÔNICOS,Moradia
+,"IOF de ""Openai""",1.64,conforto,ELETRÔNICOS,Moradia
+,"IOF de ""Www_contabo_com""",3.73,conforto,TAXAS,Moradia
+,IOF de atraso,7.24,custos fixos,TAXAS,Alimentação
+,IPVA,234.29,custos fixos,TRANSPORTE,Transporte
+,IPVA 2024,300.0,custos fixos,TRANSPORTE,Transporte
+,IPVA 2025,200.0,custos fixos,TRANSPORTE,Transporte
+,IRMAOS MATARUNA,85.92,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Ifd*32.831.641 Claudia,27.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*49.138.003 Khell N,30.94,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*51.086.590 Michelle,30.97,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*51.086.590 Michelle,32.88,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*51.086.590 Michelle,38.87,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*55.319.258 Mair Vi,47.88,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*56.342.006 Matheus,145.93,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*56.342.006 Matheus,-10.79,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*56.342.006 Matheus,59.66,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*56.342.006 Matheus,43.49,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*56.342.006 Matheus,68.35,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*56.342.006 Matheus,61.26,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*58.415.436 Dayvid,11.97,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*Cencosud Brasil Co,92.38,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ifd*Cnz Restaurante e,107.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*Marcelo Inacio Lea,93.65,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva,93.48,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva,128.96,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva G,24.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva G,24.23,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva G,31.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva G,20.99,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva Go,37.96,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*adriana Da Silva Go,21.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*camilo E Gomes Lan,20.48,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*cencosud Brasil Co,81.66,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*cencosud Brasil Co,82.71,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*cencosud Brasil Co,90.01,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ifd*cencosud Brasil Co,86.11,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ifd*cnz Restaurante,158.97,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*comercio De Produt,53.0,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Ifd*comercio De Produt,55.01,conforto,RESTAURANTE,Lazer
+,Ifd*convem Marica Rest,24.42,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*dos3 Lanchonete E,32.4,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*dos3 Lanchonete E,80.68,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*dos3 Lanchonete E R,66.19,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*flavia Alcantara D,52.97,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*holy Crepe Comerci,60.79,prazeres,VIAGEM,Lazer
+,Ifd*ifood Club,12.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*ifood.com Agenci,12.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*japa Food Marica Re,52.46,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*jocilene Leite Alv,23.42,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*jocilene Leite Alv,20.89,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*jocilene Leite Alv,24.17,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*jocilene Leite Alv,28.92,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*jocilene Leite Alv,70.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*lahmajun Alimentos,50.63,prazeres,VIAGEM,Lazer
+,Ifd*nord Pizzaburger L,53.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*nord Pizzaburger L,67.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*nord Pizzaburger L,50.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*p S C Fontes Horti,32.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ifd*p S C Fontes Horti,55.4,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*pastel Da Cica,73.3,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*pizzaria Do Oliver,102.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*pizzaria Do Olivers,113.16,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*pizzaria Do Olivers,103.16,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*princesa Auto Serv,44.66,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ifd*robson Pinto Dos Sa,25.67,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*supermercados Alvo,158.55,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ifd*vera Lucia Garios,35.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifd*vera Lucia Garios X,27.82,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood  *ifd*convem Ma,76.4,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood  *ifd*divino Pa,35.54,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood  *ifd*jocilene,24.92,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood *ifd*adriana D,103.47,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood *ifd*jocilene,36.89,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood *ifd*veronica,47.49,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood *ifd*veronica,30.54,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ifood Club,12.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Igorsoarespinto,26.0,categorizar,DESCONHECIDO,Outros
+,Indigo,23.0,categorizar,DESCONHECIDO,Outros
+,Indigo,32.0,categorizar,DESCONHECIDO,Outros
+,Infojet,39.99,conforto,ELETRÔNICOS,Moradia
+,Ingresso.Com,72.6,custos fixos,FERRAMENTAS,Moradia
+,Inter,1000.0,categorizar,CARTÃO DE CREDITO,Outros
+,Internet,122.66,custos fixos,HABITAÇÃO,Moradia
+,Internet,120.0,custos fixos,HABITAÇÃO,Moradia
+,Iof Adicional Db Pf,3.91,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,2.17,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,1.22,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,1.15,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,0.98,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,1.54,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,1.24,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,1.14,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,2.16,custos fixos,TAXAS,Alimentação
+,Iof Compra Internaciona,2.83,custos fixos,TAXAS,Alimentação
+,Iof Diario Db Pf,1.42,custos fixos,TAXAS,Alimentação
+,Iof Internacional,3.73,custos fixos,TAXAS,Alimentação
+,Iof Internacional,5.26,custos fixos,TAXAS,Alimentação
+,Iof Internacional,2.76,custos fixos,TAXAS,Alimentação
+,Iof Internacional,3.74,custos fixos,TAXAS,Alimentação
+,Iof Internacional,2.47,custos fixos,TAXAS,Alimentação
+,Iof Internacional,3.87,custos fixos,TAXAS,Alimentação
+,Iof Internacional,0.79,custos fixos,TAXAS,Alimentação
+,Iof Internacional,2.78,custos fixos,TAXAS,Alimentação
+,Iof Internacional,3.95,custos fixos,TAXAS,Alimentação
+,Iof Internacional,2.87,categorizar,TAXAS,Outros
+,Irmaos Mataruna,51.52,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaos Mataruna,92.56,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaos Mataruna,85.55,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaos Mataruna,81.42,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaos Mataruna,83.35,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,75.28,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,80.33,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,78.39,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,84.43,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,60.15,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,70.05,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,81.67,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,66.93,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Irmaosmataruna,99.86,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,JOAO E JOAO,41.1,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Jadeteixeirasa,10.0,categorizar,DESCONHECIDO,Outros
+,Jadeteixeirasa,18.0,categorizar,DESCONHECIDO,Outros
+,Jadeteixeirasa,4.5,categorizar,DESCONHECIDO,Outros
+,Jappa Da Quitanda,302.18,prazeres,RESTAURANTE,Lazer
+,Jeferson Damazio Da,73.89,categorizar,DESCONHECIDO,Outros
+,Jeffersonsoares,48.0,categorizar,DESCONHECIDO,Outros
+,Jhonel Bravo Hamburgue,54.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Joao E Joao,114.51,conforto,RESTAURANTE,Lazer
+,Joao e Joao,30.54,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Joaoejoao,13.0,conforto,RESTAURANTE,Lazer
+,Joaoejoao,42.0,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Josevilqueleao,13.0,categorizar,DESCONHECIDO,Outros
+,Jp Freire Maraka Expre,14.35,prazeres,RESTAURANTE,Lazer
+,Juros Projetados,0.4,categorizar,TAXAS,Outros
+,Juros de atraso,36.12,custos fixos,TAXAS,Alimentação
+,Juros de dívida encerrada,78.48,custos fixos,TAXAS,Alimentação
+,Jusbrasil,29.9,conforto,FERRAMENTAS,Moradia
+,Jusbrasil,1.9,conforto,FERRAMENTAS,Moradia
+,Kaciquetxtilea,24.39,categorizar,DESCONHECIDO,Outros
+,Kfc Niteroi Plaza,46.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Kfc Niteroi Plaza,42.7,prazeres,RESTAURANTE,Lazer
+,Kfc Shopping Bay Marke,32.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Koa Food Aclimacao,251.1,prazeres,VIAGEM,Lazer
+,Koni Store,114.95,prazeres,RESTAURANTE,Lazer
+,Kopenhagen Plaza Nit,106.33,prazeres,RESTAURANTE: LANCHE,Lazer
+,Kubo Sushi,289.85,prazeres,RESTAURANTE,Lazer
+,LADY DAY,39.9,custos fixos,ALIMENTAÇÃO,Alimentação
+,LEVI  COSTA DOS SANTOS Coxa,291.0,prazeres,ANIMAIS,Lazer
+,LEVI  COSTA DOS SANTOS Pescoço,121.0,prazeres,ANIMAIS,Lazer
+,Laborat Dom Bosco,242.4,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco - Parcela 1/6,82.82,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco - Parcela 2/6,82.78,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco - Parcela 3/6,82.78,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco - Parcela 4/6,82.78,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco - Parcela 5/6,82.78,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco - Parcela 6/6,82.78,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco 01/06,119.46,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco 02/06,119.46,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco 03/06,119.46,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco 04/06,119.46,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco 05/06,119.46,prazeres,SAUDE: EXAMES,Saúde
+,Laborat Dom Bosco 06/06,119.46,prazeres,SAUDE: EXAMES,Saúde
+,Laboratorioblessi,130.01,prazeres,SAUDE: EXAMES,Saúde
+,Lady Day,16.64,prazeres,RESTAURANTE: LANCHE,Lazer
+,Lady Day,26.4,custos fixos,ALIMENTAÇÃO,Alimentação
+,Lady Day,10.5,conforto,RESTAURANTE: LANCHE,Lazer
+,Lady Day,18.08,conforto,RESTAURANTE: LANCHE,Lazer
+,Lady Day,55.76,prazeres,RESTAURANTE: LANCHE,Lazer
+,Lady Day,21.41,conforto,RESTAURANTE: LANCHE,Lazer
+,Lady Day,37.56,conforto,RESTAURANTE: LANCHE,Lazer
+,Lanchonetemarina,19.9,prazeres,VIAGEM,Lazer
+,Lanchonetemarina,60.5,prazeres,VIAGEM,Lazer
+,Largo Do Pao,36.26,prazeres,RESTAURANTE: LANCHE,Lazer
+,Ledir Ferreira Da Sil,55.03,categorizar,DESCONHECIDO,Outros
+,Leopoldo Nascimento,6.0,prazeres,LAZER,Lazer
+,Lets Lanches,15.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Levi Costa Dos Santo,27.0,prazeres,ANIMAIS,Lazer
+,Levi Costa Dos Santo,74.0,prazeres,ANIMAIS,Lazer
+,Levi Costa Dos Santo,41.9,prazeres,ANIMAIS,Lazer
+,Levi Costa Dos Santo,49.0,prazeres,ANIMAIS,Lazer
+,Levis Plaza Shoppi01/06,198.3,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppi01/06,205.24,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppi02/06,205.24,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(02/06),198.3,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(03/06),198.3,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(03/06),205.24,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(04/06),205.24,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(04/06),198.3,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(05/06),205.24,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(05/06),198.3,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(06/06),205.24,conforto,ROUPAS,Moradia
+,Levis Plaza Shoppin(06/06),198.3,conforto,ROUPAS,Moradia
+,Levis Plaza Shopping,-0.25,,,Outros
+,Lianadantasde,123.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Lilou F Modas - Parcela 2/2,70.0,conforto,ROUPAS,Moradia
+,Linkedin,34.99,conforto,FERRAMENTAS,Moradia
+,Linkedinpre *50901684,37.33,conforto,FERRAMENTAS,Moradia
+,Lj38 Marica - Parcela 5/5,48.95,categorizar,DESCONHECIDO,Outros
+,Lldecoraes - Parcela 1/2,15.97,categorizar,DESCONHECIDO,Outros
+,Loja Vidaecor Com - Parcela 10/10,21.98,conforto,DESCONHECIDO,Moradia
+,Loja Vidaecor Com - Parcela 4/10,21.98,conforto,ROUPAS,Moradia
+,Loja Vidaecor Com - Parcela 5/10,21.98,conforto,ROUPAS,Moradia
+,Loja Vidaecor Com - Parcela 6/10,21.98,custos fixos,FERRAMENTAS,Moradia
+,Loja Vidaecor Com - Parcela 7/10,21.98,categorizar,DESCONHECIDO,Outros
+,Loja Vidaecor Com - Parcela 8/10,21.98,conforto,DESCONHECIDO,Moradia
+,Loja Vidaecor Com - Parcela 9/10,21.98,conforto,DESCONHECIDO,Moradia
+,Lojas Americanas1,14.98,categorizar,DESCONHECIDO,Outros
+,Lojas Americanas2,17.97,categorizar,DESCONHECIDO,Outros
+,Lojas Nalin,99.9,custos fixos,HABITAÇÃO,Moradia
+,Lojas Nalin,44.97,conforto,ROUPAS,Moradia
+,Lojas Renner S.A. - Parcela 1/2,55.4,conforto,ROUPAS,Moradia
+,Lojas Renner S.A. - Parcela 2/2,55.4,conforto,ROUPAS,Moradia
+,Lojas Renner S.A. - Parcela 2/3,80.43,conforto,ROUPAS,Moradia
+,Lojas Renner S.A. - Parcela 3/3,80.43,conforto,ROUPAS,Moradia
+,Lojas Renner S.a.,129.8,prazeres,PRESENTES,Lazer
+,Lojas Renner S.a.,79.9,conforto,ROUPAS,Moradia
+,Lojas Renner S.a. - Parcela 2/3,69.9,conforto,ROUPAS,Moradia
+,Lojas Renner S.a. - Parcela 3/3,69.9,conforto,ROUPAS,Moradia
+,Luiz Henrique Barbosa - Parcela 1/3,69.98,categorizar,DESCONHECIDO,Outros
+,Luiz Henrique Barbosa - Parcela 2/3,69.96,categorizar,DESCONHECIDO,Outros
+,Luiz Henrique Barbosa - Parcela 3/3,69.96,categorizar,DESCONHECIDO,Outros
+,Luizapereirade,26.5,categorizar,DESCONHECIDO,Outros
+,Luzianepinto,23.5,categorizar,DESCONHECIDO,Outros
+,M&f Lanches,50.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,MARCUSCOSTACONDE,40.0,categorizar,DESCONHECIDO,Outros
+,MARIA FOTOS,510.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN,2625.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN,3125.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN,2500.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN,1500.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN,3000.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN,4125.0,metas,CASAMENTO,Outros
+,MARICÁ GARDEN ENTRADA,1500.0,metas,CASAMENTO,Outros
+,MARY E MARY JOLUMAR,104.27,custos fixos,ALIMENTAÇÃO,Alimentação
+,MINI MERCADINHO DA VERA,10.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,MP*13PRODUTOS 09/10,76.52,metas,OBRAS,Outros
+,MP*13PRODUTOS 09/10,578.05,prazeres,LAZER,Lazer
+,MP*13PRODUTOS 10/10,76.52,metas,OBRAS,Outros
+,MP*13PRODUTOS 10/10,578.05,prazeres,LAZER,Lazer
+,Macdonalds,4.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Magalu Com*Listasmagal - Parcela 5/6,67.65,prazeres,DESPESAS PESSOAIS,Lazer
+,Magalu Com*Listasmagal - Parcela 6/6,67.65,categorizar,DESCONHECIDO,Outros
+,Magic Moments,35.0,prazeres,LAZER,Lazer
+,Major Grill,142.78,prazeres,RESTAURANTE,Lazer
+,Mania Niteroi Refeicoe,55.6,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Maraka,6.5,prazeres,RESTAURANTE: CAFETERIA,Lazer
+,Maraka Expre-ct,18.8,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Maraka Expresso,17.8,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Maraka Expresso,31.7,conforto,RESTAURANTE: CAFETERIA,Lazer
+,Marcelogomes,25.9,categorizar,DESCONHECIDO,Outros
+,Marcelogomes,189.09,categorizar,DESCONHECIDO,Outros
+,Marcuscostaconde,20.48,categorizar,DESCONHECIDO,Outros
+,Marica Drive,18.9,prazeres,RESTAURANTE,Lazer
+,Marica Drive,118.7,prazeres,RESTAURANTE,Lazer
+,Marica Drive,48.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Mary E Mary Jolumar,73.37,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,24.98,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,59.96,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,171.17,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,28.28,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,38.06,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,37.96,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,31.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,235.83,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,54.94,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,46.2,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,52.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary E Mary Jolumar,11.11,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mary e Mary Jolumar,77.19,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mcdonalds,14.9,prazeres,RESTAURANTE,Lazer
+,Meli+,9.9,custos fixos,TAXAS,Alimentação
+,Mercado Casa e Mar Min,50.8,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mercado Extra,36.51,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mercadolivre*10produt,186.39,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*10produt,155.05,prazeres,ANIMAIS,Lazer
+,Mercadolivre*12produt,102.57,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mercadolivre*12produt,112.25,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*12produt,180.75,prazeres,ALIMENTAÇÃO,Alimentação
+,Mercadolivre*12produt,222.99,prazeres,ANIMAIS,Lazer
+,Mercadolivre*16produt,75.9,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mercadolivre*23produt,306.81,prazeres,ANIMAIS,Lazer
+,Mercadolivre*23produt,14.9,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*2produt - Parcela 10/10,37.37,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*2produto,208.5,prazeres,ANIMAIS,Lazer
+,Mercadolivre*2produtos,284.74,conforto,ELETRÔNICOS,Moradia
+,Mercadolivre*3prod01/03,18.17,conforto,ROUPAS,Moradia
+,Mercadolivre*3produ(02/03),18.17,conforto,ROUPAS,Moradia
+,Mercadolivre*3produ(03/03),18.17,conforto,ROUPAS,Moradia
+,Mercadolivre*3produto - Parcela 5/10,58.14,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*3produto - Parcela 6/10,58.14,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*3produto - Parcela 7/10,58.14,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*3produto - Parcela 8/10,58.14,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*3produto - Parcela 9/10,58.14,prazeres,DESCONHECIDO,Lazer
+,Mercadolivre*3produtos,72.2,prazeres,ANIMAIS,Lazer
+,Mercadolivre*4produto,39.59,prazeres,ESTÉTICA,Lazer
+,Mercadolivre*4produto,29.9,prazeres,ELETRÔNICOS,Lazer
+,Mercadolivre*5137185 - Parcela 3/3,27.0,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*5prod01/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5prod02/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5prod03/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5prod04/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5prod05/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5prod06/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5prod07/07,56.78,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produt,38.26,prazeres,ANIMAIS,Lazer
+,Mercadolivre*5produt,216.32,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produt,28.33,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*5produt - Parcela 1/3,28.33,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produt - Parcela 2/3,28.33,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produt - Parcela 4/10,38.26,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produt - Parcela 5/10,38.26,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produt - Parcela 6/10,38.26,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*5produto,278.29,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*5produto,346.64,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*5produto,-0.12,,,Outros
+,Mercadolivre*5produto Osasco Bra,38.26,prazeres,ANIMAIS,Lazer
+,Mercadolivre*7produto,75.26,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mercadolivre*7produto,131.58,prazeres,HABITAÇÃO,Moradia
+,Mercadolivre*9produt,30.18,prazeres,ANIMAIS,Lazer
+,Mercadolivre*9produt - Parcela 5/10,30.18,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*9produt - Parcela 6/10,30.18,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*9produt - Parcela 7/10,30.18,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*9produto,370.23,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*9produto Osasco Bra,30.18,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*autoline,127.5,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Mercadolivre*belezac,83.76,conforto,ESTÉTICA,Moradia
+,Mercadolivre*centers,34.25,prazeres,ANIMAIS,Lazer
+,Mercadolivre*centers - Parcela 1/7,34.31,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*centers - Parcela 2/7,34.25,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*centersp Osasco Bra,34.25,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*ciahe01/04,36.02,conforto,ROUPAS,Moradia
+,Mercadolivre*ciaher(02/04),36.02,conforto,ROUPAS,Moradia
+,Mercadolivre*ciaher(03/04),36.02,conforto,ROUPAS,Moradia
+,Mercadolivre*ciaher(04/04),36.02,conforto,ROUPAS,Moradia
+,Mercadolivre*ciahering,-0.09,conforto,ROUPAS,Moradia
+,Mercadolivre*ciahering,-143.99,conforto,ROUPAS,Moradia
+,Mercadolivre*ehssoluc,90.11,custos fixos,HABITAÇÃO,Moradia
+,Mercadolivre*hookahri,159.92,prazeres,ANIMAIS,Lazer
+,Mercadolivre*lagosdi - Parcela 12/12,16.18,categorizar,DESCONHECIDO,Outros
+,Mercadolivre*microof,65.9,metas,LOJA,Outros
+,Mercadolivre*petshop,55.41,prazeres,ANIMAIS,Lazer
+,Mercadolivre*petshop - Parcela 1/3,55.41,prazeres,ANIMAIS,Lazer
+,Mercadolivre*petshop - Parcela 2/3,55.41,prazeres,ANIMAIS,Lazer
+,Mercadolivre*produto - Parcela 10/10,58.14,prazeres,DESCONHECIDO,Lazer
+,Mini Mercadinho Da V,13.2,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,6.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,13.6,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,18.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,11.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,22.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,46.3,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,45.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho Da Ver,26.0,prazeres,ALIMENTAÇÃO,Alimentação
+,Mini Mercadinho da Ver,12.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mister Monaco Mercear,27.45,prazeres,ANIMAIS,Lazer
+,Mja,47.84,categorizar,DESCONHECIDO,Outros
+,Mja,25.51,categorizar,DESCONHECIDO,Outros
+,Mjp Plaza Niteroi Rest,240.79,prazeres,RESTAURANTE,Lazer
+,Mlp         *zattini,50.72,conforto,ROUPAS,Moradia
+,Mlp    *clubenetshoes  Sao Paulo     Bra,50.84,conforto,ROUPAS,Moradia
+,Mlp *clubenetshoe,50.84,conforto,ROUPAS,Moradia
+,Mlp *clubenetshoes Sao Paulo Bra,50.84,conforto,ROUPAS,Moradia
+,Mlp *zattini,50.72,conforto,ROUPAS,Moradia
+,Mlp *zattini - Parcela 1/8,50.78,conforto,ROUPAS,Moradia
+,Mlp *zattini - Parcela 2/8,50.72,conforto,ROUPAS,Moradia
+,Mlp *zattini Sao Paulo Bra,50.72,conforto,ROUPAS,Moradia
+,Mlp Zattini,50.72,conforto,ROUPAS,Moradia
+,Mlp Zattini - Parcela 1/8,50.78,conforto,ROUPAS,Moradia
+,Mlp Zattini - Parcela 2/8,50.72,conforto,ROUPAS,Moradia
+,Mlp Zattini Sao Paulo Bra,50.72,conforto,ROUPAS,Moradia
+,Moca Paulista,15.9,prazeres,VIAGEM,Lazer
+,Moonlight Coffee Cafet,50.0,prazeres,VIAGEM,Lazer
+,Mp *Betterpbcomerciov - Parcela 3/4,30.9,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *Betterpbcomerciov - Parcela 4/4,30.9,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *Correioscelular,20.0,custos fixos,TELEFONE,Moradia
+,Mp *Correioscelular,25.0,custos fixos,TELEFONE,Moradia
+,Mp *Formuladossucos,12.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Mp *Growthsupplements - Parcela 1/4,26.34,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *Growthsupplements - Parcela 2/4,26.31,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Mp *Growthsupplements - Parcela 3/4,26.31,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *Lurilar,52.0,categorizar,DESCONHECIDO,Outros
+,Mp *Mariacereja - Parcela 3/6,167.6,conforto,ROUPAS,Moradia
+,Mp *Mariacereja - Parcela 4/6,167.6,conforto,ROUPAS,Moradia
+,Mp *Mariacereja - Parcela 5/6,167.6,conforto,ROUPAS,Moradia
+,Mp *Mariacereja - Parcela 6/6,167.6,metas,LOJA,Outros
+,Mp *Nanabilita,68.0,categorizar,DESCONHECIDO,Outros
+,Mp *Padariaravidocaju,15.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *Russo,19.0,categorizar,DESCONHECIDO,Outros
+,Mp *Vivo,40.0,custos fixos,TELEFONE,Moradia
+,Mp *angelica2b,4.0,prazeres,VIAGEM,Lazer
+,Mp *carteiraholde,49.99,custos fixos,FERRAMENTAS,Moradia
+,Mp *casaolivas,8.0,categorizar,DESCONHECIDO,Outros
+,Mp *formuladossucos,10.0,conforto,RESTAURANTE: LANCHE,Lazer
+,Mp *growthsuppleme01/02,130.34,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsuppleme01/06,26.91,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsuppleme02/02,130.34,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsuppleme02/06,26.91,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsuppleme03/06,26.91,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsupplemen(04/06),26.91,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsupplemen(05/06),26.91,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsupplemen(06/06),26.91,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *growthsupplements,-0.2,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp *itarodas,160.0,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Mp *jireh,280.0,conforto,ROUPAS,Moradia
+,Mp *jireh,198.0,conforto,ROUPAS,Moradia
+,Mp *melimais,9.9,categorizar,TAXAS,Outros
+,Mp *padariaravidocaj,12.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Mp *padariaravidocaj,12.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Mp *padariaravidocaj,13.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Mp *padariaravidocaj,12.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Mp *padariaravidocaju,7.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *padariaravidocaju,16.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *padariaravidocaju,21.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *padariaravidocaju,9.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *padariaravidocaju,12.8,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *padariaravidocaju,10.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp *padariaravidocaju,2.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mp* Growthsupplements - Parcela 4/4,26.31,prazeres,SUPLEMENTAÇÃO,Lazer
+,Mp*fazticket,33.54,categorizar,DESCONHECIDO,Outros
+,Mp*padariaravidocaju,19.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Multa velocidade,78.0,custos fixos,TRANSPORTE,Transporte
+,Multa velocidade,130.0,custos fixos,TRANSPORTE,Transporte
+,Mundo Das Embalagens,59.99,custos fixos,ALIMENTAÇÃO,Alimentação
+,Mundo Petmil,95.99,prazeres,ANIMAIS,Lazer
+,Mundo Petmil,34.0,prazeres,ANIMAIS,Lazer
+,Mundo Petmil,30.0,prazeres,ANIMAIS,Lazer
+,Mundo Petmil,32.0,prazeres,ANIMAIS,Lazer
+,Na Na Ya Food Service,15.0,prazeres,VIAGEM,Lazer
+,Nerone Gelato,24.9,prazeres,RESTAURANTE: LANCHE,Lazer
+,Netflix Entretenimen,44.9,prazeres,LAZER,Lazer
+,Netflix.com,44.9,prazeres,LAZER,Lazer
+,New Light,39.99,categorizar,DESCONHECIDO,Outros
+,New Light - Parcela 1/2,68.98,categorizar,DESCONHECIDO,Outros
+,New Light - Parcela 2/2,68.97,categorizar,DESCONHECIDO,Outros
+,Nextel/Claro,90.0,custos fixos,TELEFONE,Moradia
+,Nextel/Claro,100.0,custos fixos,TELEFONE,Moradia
+,Nilza Andrade     01/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     02/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     03/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     04/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     05/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     06/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     07/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     08/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     09/10,780.0,metas,CASAMENTO,Outros
+,Nilza Andrade     10/10,780.0,metas,CASAMENTO,Outros
+,Nord Pizzaburger,90.4,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,44.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,58.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,30.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,39.93,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,42.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,62.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,124.1,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,38.28,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,89.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,39.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,62.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,45.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,47.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,64.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,64.6,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger,97.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger1,73.26,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger2,41.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nord Pizzaburger3,17.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Nossa Senhora Do Ampa,99.63,custos fixos,ALIMENTAÇÃO,Alimentação
+,Nova Vereda Restaurant,9.6,prazeres,RESTAURANTE,Lazer
+,Nutricionista,470.0,prazeres,SAUDE: CONSULTAS,Saúde
+,Nutricionista,100.0,prazeres,SAUDE: CONSULTAS,Saúde
+,O Espetto,11.2,prazeres,RESTAURANTE: LANCHE,Lazer
+,O Queijao Inoa,131.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Objetiva,19.98,custos fixos,HABITAÇÃO,Moradia
+,Ocean Farma,32.83,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Odara Roupas Ltda 01/05,86.38,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda 02/05,86.38,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda E(03/05),86.38,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda E(04/05),86.38,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda E(05/05),86.38,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda Ep,78.3,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda Ep - Parcela 2/6,78.3,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda Ep - Parcela 3/6,78.3,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda Ep - Parcela 4/6,78.3,conforto,ROUPAS,Moradia
+,Odara Roupas Ltda Epp,-0.08,,,Outros
+,Openai,36.19,conforto,ELETRÔNICOS,Moradia
+,Openai,37.46,conforto,ELETRÔNICOS,Moradia
+,Openai,37.18,conforto,ELETRÔNICOS,Moradia
+,Openai,37.06,conforto,ELETRÔNICOS,Moradia
+,PADARIARAVICAJU,8.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,PES E PATAS,78.9,prazeres,ANIMAIS,Lazer
+,PG *YOU YOUROBERT 07/12,155.18,conhecimento,EDUCAÇÃO,Educação
+,PG *YOU YOUROBERT 08/12,155.18,conhecimento,EDUCAÇÃO,Educação
+,POUPANÇA,700.0,liberdade financeira,INVESTIMENTOS,Outros
+,POUPANÇA CASAMENTO,2000.0,metas,CASAMENTO,Outros
+,POUPANÇA CASAMENTO,1000.0,metas,CASAMENTO,Outros
+,POUPANÇA CASAMENTO,1500.0,metas,CASAMENTO,Outros
+,POUPANÇA CASAMENTO,1200.0,metas,CASAMENTO,Outros
+,POUPANÇA PESSOAL,1000.0,liberdade financeira,POUPANÇA,Outros
+,POUPANÇA PESSOAL,4000.0,liberdade financeira,POUPANÇA,Outros
+,PREZUNIC1,64.52,custos fixos,ALIMENTAÇÃO,Alimentação
+,PREZUNIC2,82.54,custos fixos,ALIMENTAÇÃO,Alimentação
+,PREZUNIC3,89.91,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pac Paulista Casarao,128.2,prazeres,VIAGEM,Lazer
+,Padaria Confeitaria,4.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria,6.42,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria,8.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria,9.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria E,9.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria E,17.98,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria E,18.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria E,22.37,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Confeitaria E,5.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Padaria Ravi,12.5,custos fixos,ALIMENTAÇÃO,Alimentação
+,Padaria Ravi,9.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,"Padaria, Confeitaria",28.53,conforto,RESTAURANTE: CAFETERIA,Lazer
+,"Padaria, Confeitaria e",8.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pag*Studiomatheus - Parcela 2/4,187.5,conforto,ESTÉTICA,Moradia
+,Pag*Studiomatheus - Parcela 3/4,187.5,conforto,ESTÉTICA,Moradia
+,Pag*Studiomatheus - Parcela 4/4,187.5,conforto,ESTÉTICA,Moradia
+,Pag*Tvexpress - Parcela 11/12,21.58,prazeres,LAZER,Lazer
+,Pag*Tvexpress - Parcela 12/12,21.58,prazeres,LAZER,Lazer
+,Pag*Tvexpress - Parcela 8/12,21.58,prazeres,LAZER,Lazer
+,Pag*Tvexpress - Parcela 9/12,21.58,prazeres,LAZER,Lazer
+,Pag*laboratoriobless - Parcela 2/3,181.66,prazeres,SAUDE: EXAMES,Saúde
+,Pag*laboratoriobless - Parcela 3/3,181.66,prazeres,SAUDE: EXAMES,Saúde
+,Pag*produtosuol,29.9,metas,LOJA,Outros
+,Pag*tiexamesprodutos,10.69,conhecimento,EDUCAÇÃO,Educação
+,Pag*tiexamesprodutos - Parcela 6/10,10.69,conhecimento,EDUCAÇÃO,Educação
+,Pag*tiexamesprodutos - Parcela 7/10,10.69,conhecimento,EDUCAÇÃO,Educação
+,Pag*tiexamesprodutos - Parcela 8/10,10.69,conhecimento,EDUCAÇÃO,Educação
+,Palhete Pizzaria Ltda,208.78,prazeres,RESTAURANTE,Lazer
+,Panela Furada,70.51,prazeres,RESTAURANTE,Lazer
+,Pao E Etc 24h,73.86,prazeres,RESTAURANTE: LANCHE,Lazer
+,Parada Gospel De Mar,40.48,prazeres,RESTAURANTE: LANCHE,Lazer
+,Parada Gospel De Mar IFOOD,119.5,prazeres,RESTAURANTE: LANCHE,Lazer
+,Paraiso Tropical,6.99,prazeres,RESTAURANTE: LANCHE,Lazer
+,Paraiso Tropical,7.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Parc103mister Mona(03/03),92.97,prazeres,ANIMAIS,Lazer
+,Parc=103mister Mon01/03,92.97,prazeres,ANIMAIS,Lazer
+,Parc=103mister Mon02/03,92.97,prazeres,ANIMAIS,Lazer
+,Parc=103mister Monaco M,-0.02,prazeres,ANIMAIS,Lazer
+,Passaportes,514.5,metas,VIAGEM,Outros
+,Pastelariado,37.0,conforto,RESTAURANTE: DIA A DIA,Lazer
+,Pastore Niteroi,21.0,custos fixos,SAUDE: EXAMES,Saúde
+,Pastore Niteroi - Parcela 1/12,21.0,custos fixos,SAUDE: EXAMES,Saúde
+,Pastore Niteroi - Parcela 2/12,21.0,custos fixos,SAUDE: EXAMES,Saúde
+,Pastore Niteroi Niteroi Bra,21.0,custos fixos,SAUDE: EXAMES,Saúde
+,Paulo,80.0,conforto,HABITAÇÃO,Moradia
+,Paulorenato,24.0,categorizar,DESCONHECIDO,Outros
+,Paulorenato,8.0,categorizar,DESCONHECIDO,Outros
+,Pb*Bold Snacks - Parcela 10/11,20.7,prazeres,SUPLEMENTAÇÃO,Lazer
+,Pb*Bold Snacks - Parcela 11/11,20.7,prazeres,SUPLEMENTAÇÃO,Lazer
+,Pb*Bold Snacks - Parcela 3/11,20.7,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pb*Bold Snacks - Parcela 4/11,20.7,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pb*Bold Snacks - Parcela 5/11,20.7,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pb*Bold Snacks - Parcela 6/11,20.7,custos fixos,SUPLEMENTAÇÃO,Alimentação
+,Pb*Bold Snacks - Parcela 7/11,20.7,prazeres,SUPLEMENTAÇÃO,Lazer
+,Pb*Bold Snacks - Parcela 8/11,20.7,prazeres,SUPLEMENTAÇÃO,Lazer
+,Pb*Bold Snacks - Parcela 9/11,20.7,prazeres,SUPLEMENTAÇÃO,Lazer
+,Peixaria Menor Preco,28.89,custos fixos,ALIMENTAÇÃO,Alimentação
+,Peixaria Menor Preco,23.4,custos fixos,ALIMENTAÇÃO,Alimentação
+,Perola Icarai,72.03,categorizar,DESCONHECIDO,Outros
+,Perola Icarai,57.26,categorizar,DESCONHECIDO,Outros
+,Perola Icarai,25.88,categorizar,DESCONHECIDO,Outros
+,Pes E Patas,56.86,prazeres,ANIMAIS,Lazer
+,Pes E Patas,5.78,prazeres,ANIMAIS,Lazer
+,Pes E Patas,15.6,prazeres,ANIMAIS,Lazer
+,Pes E Patas,70.63,prazeres,ANIMAIS,Lazer
+,Pes E Patas,37.0,prazeres,ANIMAIS,Lazer
+,Pes E Patas,83.95,prazeres,ANIMAIS,Lazer
+,Petala - Parcela 10/12,251.8,metas,OBRAS,Outros
+,Petala - Parcela 11/12,251.8,metas,OBRAS,Outros
+,Petala - Parcela 12/12,251.8,metas,OBRAS,Outros
+,Pg *Beleza Na Web Ma - Parcela 2/7,52.3,metas,LOJA,Outros
+,Pg *Beleza Na Web Ma - Parcela 3/7,52.3,metas,LOJA,Outros
+,Pg *Beleza Na Web Ma - Parcela 4/7,52.3,metas,LOJA,Outros
+,Pg *Beleza Na Web Ma - Parcela 5/7,52.3,metas,LOJA,Outros
+,Pg *Beleza Na Web Ma - Parcela 6/7,52.3,prazeres,ESTÉTICA,Lazer
+,Pg *Beleza Na Web Ma - Parcela 7/7,52.3,prazeres,ESTÉTICA,Lazer
+,Pg *Juliana Santana - Parcela 1/3,76.59,categorizar,DESCONHECIDO,Outros
+,Pg *Juliana Santana - Parcela 2/3,76.59,metas,LOJA,Outros
+,Pg *Juliana Santana - Parcela 3/3,76.59,categorizar,DESCONHECIDO,Outros
+,Pg *Nuvem Atacadodebri - Parcela 3/3,43.5,metas,LOJA,Outros
+,Pg *Nuvem Lizbijoux - Parcela 2/3,79.44,metas,LOJA,Outros
+,Pg *Nuvem Lizbijoux - Parcela 3/3,79.44,conforto,ROUPAS,Moradia
+,Pg *Nuvem Sapatosebols - Parcela 2/2,89.95,metas,LOJA,Outros
+,Pg *Ton Nanabilit'A,57.0,categorizar,DESCONHECIDO,Outros
+,Pg *Ton Patrick Semi,22.0,categorizar,DESCONHECIDO,Outros
+,Pg *Ton Ton.Com.Br - Parcela 5/12,26.3,metas,LOJA,Outros
+,Pg *Ton Ton.Com.Br - Parcela 6/12,26.3,metas,LOJA,Outros
+,Pg *Ton Ton.Com.Br - Parcela 8/12,26.3,metas,LOJA,Outros
+,Pg *Ton Ton.Com.Br - Parcela 9/12,26.3,metas,LOJA,Outros
+,Pg *Ton Zuzu Fitness - Parcela 1/2,105.0,conforto,ROUPAS,Moradia
+,Pg *Ton Zuzu Fitness - Parcela 2/2,105.0,conforto,ROUPAS,Moradia
+,Pg *auvp Escola,249.75,conhecimento,EDUCAÇÃO,Educação
+,Pg *auvp Escola Goiania Bra,249.75,conhecimento,EDUCAÇÃO,Educação
+,Pg *nuvem Pwrdbyc (02/04),60.43,conforto,ROUPAS,Moradia
+,Pg *nuvem Pwrdbyc (03/04),60.43,conforto,ROUPAS,Moradia
+,Pg *nuvem Pwrdbyc (04/04),60.43,conforto,ROUPAS,Moradia
+,Pg *nuvem Pwrdbyc 01/04,60.43,conforto,ROUPAS,Moradia
+,Pg *ton Doce Loucura,99.5,prazeres,RESTAURANTE,Lazer
+,Pg *you Yourobert (12/12),155.18,conhecimento,EDUCAÇÃO,Educação
+,Pg *you Yourobert 11/12,155.18,conhecimento,EDUCAÇÃO,Educação
+,Pharmactive Farmacia - Parcela 1/3,174.0,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Pharmactive Farmacia - Parcela 3/3,174.0,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Pilares De Marica Su,20.08,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares De Marica Supe,12.06,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares De Marica Supe,25.69,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares De Marica Supe,20.42,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares De Marica Supe,45.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares De Marica Supe,25.01,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares de Marica Supe,23.82,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pilares de Marica Supe,56.33,custos fixos,ALIMENTAÇÃO,Alimentação
+,Pizzaria Do Oliver S,165.77,prazeres,RESTAURANTE,Lazer
+,Pizzaria do Oliver S,85.19,prazeres,RESTAURANTE: LANCHE,Lazer
+,Pl Distribuidora,10.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Planilha (Cross),100.0,conforto,SAUDE,Saúde
+,Popeyes,50.8,prazeres,RESTAURANTE: LANCHE,Lazer
+,Popeyes,97.6,prazeres,RESTAURANTE,Lazer
+,Popeyes,84.7,prazeres,RESTAURANTE: LANCHE,Lazer
+,Portal das Flores,48.0,custos fixos,HABITAÇÃO,Moradia
+,Portal das Flores - Parcela 1/2,110.0,custos fixos,HABITAÇÃO,Moradia
+,Portal das Flores - Parcela 2/2,110.0,custos fixos,HABITAÇÃO,Moradia
+,Pousada Bonita,360.0,conhecimento,EDUCAÇÃO,Educação
+,Pousada Bonita,8.0,prazeres,VIAGEM,Lazer
+,Pp *Gk Semijoia - Parcela 5/6,84.77,metas,LOJA,Outros
+,Pp *Gk Semijoia - Parcela 6/6,84.77,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 10/10,60.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 3/6,113.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 4/6,113.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 5/6,100.98,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 5/6,113.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 6/6,100.98,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 6/6,113.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 7/10,60.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 8/10,60.45,metas,LOJA,Outros
+,Pp *Oh My Gold - Parcela 9/10,60.45,metas,LOJA,Outros
+,Pratos Débora,80.0,custos fixos,HABITAÇÃO,Moradia
+,Produtosuol,33.49,metas,LOJA,Outros
+,Produtosuol,22.73,,,Outros
+,Produtosuol,29.9,metas,LOJA,Outros
+,Progressiva,130.0,conforto,ESTÉTICA,Moradia
+,Ps Pet Shop E Servico,31.8,prazeres,ANIMAIS,Lazer
+,Psp Construcao,22.0,metas,OBRAS,Outros
+,Quero2pay *infoal (02/03),41.64,conhecimento,ELETRÔNICOS,Educação
+,Quero2pay *infoal01/03,41.64,conhecimento,ELETRÔNICOS,Educação
+,Quero2pay *infoal03/03,41.64,conhecimento,ELETRÔNICOS,Educação
+,Quiosque Bay Market C,19.9,prazeres,LAZER,Lazer
+,RAPHAELABORBADE ESFIRRA RUSTICA,147.18,prazeres,RESTAURANTE,Lazer
+,REDE VAREJAO1,212.06,custos fixos,ALIMENTAÇÃO,Alimentação
+,REDE VAREJAO2,217.43,custos fixos,ALIMENTAÇÃO,Alimentação
+,RESTAURANTE EL ASSADOR,64.9,prazeres,RESTAURANTE,Lazer
+,Ra Deposito,8.0,categorizar,DESCONHECIDO,Outros
+,Ra Deposito,14.5,categorizar,DESCONHECIDO,Outros
+,Ra Deposito,21.0,prazeres,DESCONHECIDO,Lazer
+,Ra Deposito,9.0,categorizar,DESCONHECIDO,Outros
+,Ra Deposito,15.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Ração dos cachorros,200.0,prazeres,ANIMAIS,Lazer
+,Ração dos gatos,160.0,prazeres,ANIMAIS,Lazer
+,Real Farma,31.95,prazeres,SAUDE: MANIPULAÇÃO,Saúde
+,Rede Rio Campos Adminis,78.99,custos fixos,TRANSPORTE: COMBUSTÍVEL,Transporte
+,Rede Varejao,48.47,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,179.06,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,111.91,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,72.67,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,125.28,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,142.24,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,160.98,custos fixos,ALIMENTAÇÃO,Alimentação
+,Rede Varejao,149.36,custos fixos,ALIMENTAÇÃO,Alimentação
+,Registrobr 43116147,40.0,custos fixos,FERRAMENTAS,Moradia
+,Renner (02/05),30.58,conforto,ROUPAS,Moradia
+,Renner (03/05),30.58,conforto,ROUPAS,Moradia
+,Renner (04/05),30.58,conforto,ROUPAS,Moradia
+,Renner (05/05),30.58,conforto,ROUPAS,Moradia
+,Renner 01/05,30.58,conforto,ROUPAS,Moradia
+,Responde Ai,16.9,conhecimento,EDUCAÇÃO,Educação
+,Responde Ai - Parcela 3/12,16.9,conhecimento,EDUCAÇÃO,Educação
+,Responde Ai - Parcela 4/12,16.9,conhecimento,EDUCAÇÃO,Educação
+,Responde Ai - Parcela 5/12,16.9,conhecimento,EDUCAÇÃO,Educação
+,Responde Ai Rio De Janeir Bra,16.9,conhecimento,EDUCAÇÃO,Educação
+,Restaurajeans,338.97,conforto,ROUPAS,Moradia
+,Restaurajeans,30.0,conforto,ROUPAS,Moradia
+,Restaurajeans,14.5,conforto,ROUPAS,Moradia
+,Restaurajeans,75.8,conforto,ROUPAS,Moradia
+,Restaurante Do Alexa,145.75,prazeres,RESTAURANTE,Lazer
+,Restaurante Frutos Do,160.67,prazeres,RESTAURANTE,Lazer
+,Revisão da moto,300.0,custos fixos,TRANSPORTE: MANUTENÇÃO,Transporte
+,Riahcuelo 215 Niteroi,39.8,conforto,ROUPAS,Moradia
+,Riopar Participacoes,20.0,categorizar,DESCONHECIDO,Outros
+,Riopar Participacoes,18.65,categorizar,DESCONHECIDO,Outros
+,Rj Niteroi Plaza S01/06,90.95,prazeres,LAZER,Lazer
+,Rj Niteroi Plaza S02/06,90.95,prazeres,LAZER,Lazer
+,Rj Niteroi Plaza Sh Ca,-0.1,prazeres,LAZER,Lazer
+,Rj Niteroi Plaza Sh(03/06),90.95,prazeres,PRESENTES,Lazer
+,Rj Niteroi Plaza Sh(04/06),90.95,prazeres,PRESENTES,Lazer
+,Rj Niteroi Plaza Sh(05/06),90.95,prazeres,PRESENTES,Lazer
+,Rj Niteroi Plaza Sh(06/06),90.95,prazeres,PRESENTES,Lazer
+,Runware.ai,120.04,conforto,FERRAMENTAS,Moradia
+,SEGURO DE VIDA,115.0,conforto,DESPESAS PESSOAIS,Moradia
+,Scribd Inc *656381205,29.52,conforto,FERRAMENTAS,Moradia
+,Scribd Inc *656381205,29.57,conforto,FERRAMENTAS,Moradia
+,Seu Antonio,174.67,prazeres,RESTAURANTE,Lazer
+,Sheilarodriguesda,28.0,categorizar,DESCONHECIDO,Outros
+,Sheilarodriguesda,35.8,categorizar,DESCONHECIDO,Outros
+,Shopee *Ablstorerj,20.0,categorizar,DESCONHECIDO,Outros
+,Shopee *Arc,85.24,categorizar,DESCONHECIDO,Outros
+,Shopee *Azhomepanodepr - Parcela 1/3,77.85,custos fixos,FERRAMENTAS,Moradia
+,Shopee *Azhomepanodepr - Parcela 2/3,77.84,custos fixos,FERRAMENTAS,Moradia
+,Shopee *Azhomepanodepr - Parcela 3/3,77.84,categorizar,DESCONHECIDO,Outros
+,Shopee *Basegeek - Parcela 1/4,78.06,categorizar,DESCONHECIDO,Outros
+,Shopee *Basegeek - Parcela 2/4,78.06,categorizar,DESCONHECIDO,Outros
+,Shopee *Basegeek - Parcela 3/4,78.06,categorizar,DESCONHECIDO,Outros
+,Shopee *Basegeek - Parcela 4/4,78.06,conforto,DESCONHECIDO,Moradia
+,Shopee *Jobeatelie - Parcela 1/2,40.9,conforto,ROUPAS,Moradia
+,Shopee *Jobeatelie - Parcela 1/7,64.43,categorizar,DESCONHECIDO,Outros
+,Shopee *Jobeatelie - Parcela 2/2,40.9,categorizar,DESCONHECIDO,Outros
+,Shopee *Jobeatelie - Parcela 2/7,64.37,categorizar,DESCONHECIDO,Outros
+,Shopee *Jobeatelie - Parcela 3/7,64.37,categorizar,DESCONHECIDO,Outros
+,Shopee *Jobeatelie - Parcela 4/7,64.37,categorizar,DESCONHECIDO,Outros
+,Shopee *Jobeatelie - Parcela 5/7,64.37,conforto,DESCONHECIDO,Moradia
+,Shopee *Jobeatelie - Parcela 6/7,64.37,conforto,DESCONHECIDO,Moradia
+,Shopee *Jobeatelie - Parcela 7/7,64.37,conforto,DESCONHECIDO,Moradia
+,Shopee *Lilicacosmetic,44.9,conforto,ESTÉTICA,Moradia
+,Shopee *Tokdecor - Parcela 1/3,75.02,custos fixos,HABITAÇÃO,Moradia
+,Shopee *Tokdecor - Parcela 2/3,75.01,categorizar,DESCONHECIDO,Outros
+,Shopee *Tokdecor - Parcela 3/3,75.01,conforto,DESCONHECIDO,Moradia
+,Shopee *hmastonofficia,88.99,conforto,DESCONHECIDO,Moradia
+,Shopee *jobeatelie,75.96,categorizar,DESCONHECIDO,Outros
+,Shopee *mh1store,89.9,categorizar,DESCONHECIDO,Outros
+,Shopee*Shopee Lldecora,19.9,custos fixos,HABITAÇÃO,Moradia
+,Soneda Perfumaria,41.98,prazeres,VIAGEM,Lazer
+,Sorveteria Sol Neve,18.59,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sorveteria Sol Neve,5.45,prazeres,RESTAURANTE: LANCHE,Lazer
+,Sorveteria Sol Neve,32.72,prazeres,RESTAURANTE: LANCHE,Lazer
+,Sorveteria Sol Neve,29.36,prazeres,RESTAURANTE: LANCHE,Lazer
+,Sorveteria Sol Neve,18.87,custos fixos,ALIMENTAÇÃO,Alimentação
+,South,139.99,conforto,ROUPAS,Moradia
+,South - Parcela 2/3,49.99,conforto,ROUPAS,Moradia
+,South - Parcela 2/3,56.66,conforto,ROUPAS,Moradia
+,South - Parcela 2/4,127.49,conforto,ROUPAS,Moradia
+,South - Parcela 3/3,49.99,conforto,ROUPAS,Moradia
+,South - Parcela 3/3,56.66,conforto,ROUPAS,Moradia
+,South - Parcela 3/4,127.49,conforto,ROUPAS,Moradia
+,South - Parcela 4/4,127.49,conforto,ROUPAS,Moradia
+,Sprezunic,69.54,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic,12.12,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic,134.01,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic,76.34,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic,239.48,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 74-ct,9.62,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,38.35,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,267.58,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,131.93,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,158.1,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,63.21,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,336.13,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,103.91,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,24.56,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,66.6,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,107.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,219.3,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,84.57,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,68.96,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,42.66,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,38.36,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,147.02,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,21.98,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,28.55,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,258.64,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,268.23,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 745,111.86,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 7451,7.18,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic 7452,128.28,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic1,57.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic2,134.08,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sprezunic3,68.18,custos fixos,ALIMENTAÇÃO,Alimentação
+,Suenlendasilvafau,33.0,categorizar,DESCONHECIDO,Outros
+,Suenlendasilvafau,50.0,categorizar,DESCONHECIDO,Outros
+,Sup Princesa Marica,192.6,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,170.78,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,40.49,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,57.37,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,48.93,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,172.12,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,64.53,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,69.4,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica,160.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica 1,44.65,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica 1,27.93,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica 1,36.95,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica 2,64.74,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica 2,55.89,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica 2,87.68,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica1,44.87,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica2,29.74,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica3,79.74,custos fixos,ALIMENTAÇÃO,Alimentação
+,Sup Princesa Marica4,86.8,custos fixos,ALIMENTAÇÃO,Alimentação
+,Supermarket,90.62,custos fixos,ALIMENTAÇÃO,Alimentação
+,Supermarket,157.72,custos fixos,ALIMENTAÇÃO,Alimentação
+,Supermercado Guanaba,25.53,custos fixos,ALIMENTAÇÃO,Alimentação
+,Supermercado Padrao,26.77,custos fixos,ALIMENTAÇÃO,Alimentação
+,TIO antônio roçar frente do terreno,270.0,conforto,HABITAÇÃO,Moradia
+,TIO antônio roçar frente do terreno,300.0,conforto,HABITAÇÃO,Moradia
+,TOTALPASS,240.0,custos fixos,SAUDE: ASSINATURA,Saúde
+,Tapioca Baiana,21.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Tatamix,70.0,conforto,ROUPAS,Moradia
+,Tatianadasilva,110.0,conforto,ROUPAS,Moradia
+,Tenisrace,18.0,categorizar,DESCONHECIDO,Outros
+,Terapia,350.0,custos fixos,SAUDE: CONSULTAS,Saúde
+,Termius Corporation,85.09,conforto,FERRAMENTAS,Moradia
+,Termius Corporation,88.41,conforto,FERRAMENTAS,Moradia
+,Termius Corporation,85.45,conforto,FERRAMENTAS,Moradia
+,Termius Corporation,90.08,conforto,FERRAMENTAS,Moradia
+,Thamyres,126.0,categorizar,DESCONHECIDO,Outros
+,Tiexamesprodutos  04/12,123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (05/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (06/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (07/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (08/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (09/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (10/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (11/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos (12/12),123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos 01/12,123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos 02/12,123.8,conhecimento,EDUCAÇÃO,Educação
+,Tiexamesprodutos 03/12,123.8,conhecimento,EDUCAÇÃO,Educação
+,Tio antônio roçar frente do terreno,60.0,conforto,HABITAÇÃO,Moradia
+,Tiuze Mini Mercado,13.53,custos fixos,ALIMENTAÇÃO,Alimentação
+,Toka Dos Lanches,12.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Toka Dos Lanches,26.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Toka Dos Lanches,24.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Toka Dos Lanches,32.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Toka Dos Lanches,36.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Toka Dos Lanches,49.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Toka Dos Lanches,69.0,prazeres,RESTAURANTE: LANCHE,Lazer
+,Totalpass,119.9,custos fixos,SAUDE: ASSINATURA,Saúde
+,Totalpass,240.0,custos fixos,SAUDE: ASSINATURA,Saúde
+,Transferência DISTRIBUIDORA F L M J A EIRELI,130.35,categorizar,DESCONHECIDO,Outros
+,Transferência ODAIR,200.0,categorizar,DESCONHECIDO,Outros
+,UBER,200.0,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.4,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,10.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,96.99,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,29.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.25,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,14.58,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.59,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,10.88,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,7.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,2.13,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.25,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.4,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.31,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,9.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,24.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.75,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.36,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,28.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.04,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,7.5,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.46,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,23.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.53,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.86,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,17.99,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,57.66,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,28.14,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,4.8,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,5.57,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.41,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.42,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.48,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.53,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,6.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,16.94,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,12.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,10.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,8.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,8.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber *Uber *Trip,14.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,4.89,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,5.85,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,24.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,20.51,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,6.71,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,9.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,9.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,7.42,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,12.94,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,19.02,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,23.3,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,14.88,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,13.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,8.2,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip,5.25,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip1,18.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip10,11.32,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip11,25.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip12,6.74,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip13,25.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip14,13.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip15,11.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip16,11.53,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip17,39.07,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip18,31.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip19,26.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip2,22.49,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip20,14.5,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip21,10.06,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip22,17.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip23,5.25,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip24,13.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip3,5.86,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip4,9.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip5,12.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip6,11.04,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip7,5.57,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip8,11.06,conforto,TRANSPORTE: UBER,Transporte
+,Uber *uber *trip9,10.9,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *Trip Help.U,5.51,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *Trip Help.U,11.53,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *Trip Help.U,10.94,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *Trip Help.U,6.17,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *Trip Help.U,15.9,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help,5.76,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help,12.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help,4.36,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,8.56,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,21.1,conforto,TRANSPORTE,Transporte
+,Uber Uber *trip Help.u,6.13,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,6.09,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,4.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,10.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,11.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,6.3,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,8.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,21.77,prazeres,VIAGEM,Lazer
+,Uber Uber *trip Help.u,14.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,9.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,16.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,17.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,10.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,28.04,prazeres,VIAGEM,Lazer
+,Uber Uber *trip Help.u,8.94,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,8.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,8.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,6.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,12.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,6.27,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,5.43,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,42.45,conhecimento,EDUCAÇÃO,Educação
+,Uber Uber *trip Help.u,20.94,conforto,TRANSPORTE,Transporte
+,Uber Uber *trip Help.u,28.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,28.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,22.26,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,12.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,5.68,conforto,TRANSPORTE: UBER,Transporte
+,Uber Uber *trip Help.u,13.95,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,8.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,10.97,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,16.06,prazeres,VIAGEM,Lazer
+,Uber* Trip,25.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,15.21,prazeres,VIAGEM,Lazer
+,Uber* Trip,6.32,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,4.23,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,12.05,prazeres,VIAGEM,Lazer
+,Uber* Trip,19.37,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,9.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,8.96,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,8.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,13.94,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.15,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.27,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.47,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,6.14,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,29.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,16.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,21.38,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,30.31,conhecimento,EDUCAÇÃO,Educação
+,Uber* Trip,9.98,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,8.99,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,9.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.83,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,7.73,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.01,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,25.91,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,7.44,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,7.1,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,6.35,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,6.11,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,5.85,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,24.79,conforto,TRANSPORTE,Transporte
+,Uber* Trip,18.4,conforto,TRANSPORTE,Transporte
+,Uber* Trip,7.18,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,11.92,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,10.93,conforto,TRANSPORTE: UBER,Transporte
+,Uber* Trip,12.95,conforto,TRANSPORTE: UBER,Transporte
+,Udemy Subscription,32.0,conhecimento,EDUCAÇÃO,Educação
+,Udemy Subscription,63.24,conhecimento,EDUCAÇÃO,Educação
+,Udemy Subscription,63.39,conhecimento,EDUCAÇÃO,Educação
+,Unha,110.0,conforto,ESTÉTICA,Moradia
+,Unha,100.0,conforto,ESTÉTICA,Moradia
+,Unha,120.0,conforto,ESTÉTICA,Moradia
+,Urbia Gestao De Parque,5.0,prazeres,VIAGEM,Lazer
+,Urbia Gestao De Parque,42.0,prazeres,VIAGEM,Lazer
+,VANESSAANDRADE,43.48,categorizar,DESCONHECIDO,Outros
+,VERONICA ANDRADE,110.0,prazeres,LAZER,Lazer
+,Varejao Hortfruit,119.89,custos fixos,ALIMENTAÇÃO,Alimentação
+,Verdanna Grill,309.32,prazeres,RESTAURANTE,Lazer
+,Vo  Alzira Marica,34.0,prazeres,PRESENTES,Lazer
+,Www.make.com,65.43,conforto,FERRAMENTAS,Moradia
+,Www.make.com,63.54,custos fixos,FERRAMENTAS,Moradia
+,Www.perplexity.ai,18.0,conforto,FERRAMENTAS,Moradia
+,Www/contabo-com,35.37,conforto,FERRAMENTAS,Moradia
+,Www/contabo/com,33.11,conforto,FERRAMENTAS,Moradia
+,Www_contabo_com,85.38,conforto,FERRAMENTAS,Moradia
+,Yamadabazare,28.8,categorizar,DESCONHECIDO,Outros
+,Youtube,18.69,prazeres,LAZER,Lazer
+,Zp*53.383.855 Angelo A,500.0,prazeres,SAUDE: CONSULTAS,Saúde
+,Zp*Isabela de Alcantar,25.0,categorizar,DESCONHECIDO,Outros
+,Zp*isabela De Alcantar,25.0,categorizar,DESCONHECIDO,Outros
+,Água,18.0,custos fixos,ALIMENTAÇÃO,Alimentação
+,Água,39.0,custos fixos,ALIMENTAÇÃO,Alimentação

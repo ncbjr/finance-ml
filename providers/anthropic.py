@@ -14,12 +14,18 @@ def classificar_categoria(descricao: str) -> dict:
             messages=[
                 {
                     "role": "user",
-                    "content": f"Classifique esta despesa em UMA categoria (Alimentação, Transporte, Saúde, Lazer, Educação, Moradia, ou Outros). Responda APENAS com o nome da categoria: {descricao}"
+                    "content": f"Classifique esta despesa em UMA destas 7 categorias: CUSTOS FIXOS, CONFORTO, METAS, PRAZERES, LIBERDADE FINANCEIRA, CONHECIMENTO, ou CATEGORIZAR. Responda APENAS com o nome da categoria em MAIÚSCULAS: {descricao}"
                 }
             ]
         )
         
-        categoria = message.content[0].text.strip()
+        categoria = message.content[0].text.strip().upper()
+        
+        # Validar que está nas 7 categorias corretas
+        categorias_validas = ['CUSTOS FIXOS', 'CONFORTO', 'METAS', 'PRAZERES', 'LIBERDADE FINANCEIRA', 'CONHECIMENTO', 'CATEGORIZAR']
+        if categoria not in categorias_validas:
+            categoria = 'CATEGORIZAR'
+        
         return {
             "categoria": categoria,
             "confianca": 0.9,

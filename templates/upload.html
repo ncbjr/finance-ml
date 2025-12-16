@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload CSV - Sistema de Gestão Financeira</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #667eea;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .upload-area {
+            border: 3px dashed #667eea;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            margin: 20px 0;
+            background: #f8f9ff;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .upload-area:hover {
+            background: #f0f0ff;
+            border-color: #764ba2;
+        }
+        .upload-area.dragover {
+            background: #e8e8ff;
+            border-color: #764ba2;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            width: 100%;
+            margin-top: 15px;
+            transition: all 0.3s;
+        }
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .progress {
+            display: none;
+            margin-top: 20px;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 30px;
+            background: #e0e0e0;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            width: 0%;
+            transition: width 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f8f9ff 0%, #f0f0ff 100%);
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
+            display: none;
+        }
+        .result.success {
+            border-left-color: #4caf50;
+        }
+        .result.error {
+            border-left-color: #d32f2f;
+            background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+        }
+        .link-button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: #4caf50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .link-button:hover {
+            background: #45a049;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="back-link">← Voltar para Dashboard</a>
+    
+    <div class="header">
+        <h1>📤 Upload e Processamento de CSV</h1>
+        <p>Envie sua planilha e o sistema classificará todas as transações</p>
+    </div>
+    
+    <div class="container">
+        <div class="upload-area" id="uploadArea">
+            <p style="font-size: 24px; margin: 0;">📁</p>
+            <p style="font-size: 18px; margin: 10px 0;">Arraste seu arquivo CSV aqui</p>
+            <p style="color: #666;">ou clique para selecionar</p>
+            <input type="file" id="fileInput" accept=".csv" />
+        </div>
+        
+        <div id="fileInfo" style="display: none; margin: 20px 0; padding: 15px; background: #f0f0f0; border-radius: 5px;">
+            <strong>Arquivo selecionado:</strong> <span id="fileName"></span>
+        </div>
+        
+        <button id="processButton" disabled>Processar CSV</button>
+        
+        <div class="progress" id="progress">
+            <p>Processando transações...</p>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill">0%</div>
+            </div>
+        </div>
+        
+        <div class="result" id="result">
+            <h3 id="resultTitle"></h3>
+            <div id="resultMessage"></div>
+        </div>
+    </div>
+
+    <script>
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const fileInfo = document.getElementById('fileInfo');
+        const fileName = document.getElementById('fileName');
+        const processButton = document.getElementById('processButton');
+        const progress = document.getElementById('progress');
+        const progressFill = document.getElementById('progressFill');
+        const result = document.getElementById('result');
+        
+        let selectedFile = null;
+        
+        // Click na área de upload
+        uploadArea.addEventListener('click', () => fileInput.click());
+        
+        // Drag and drop
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+        
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+        
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                handleFile(files[0]);
+            }
+        });
+        
+        // Seleção de arquivo
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFile(e.target.files[0]);
+            }
+        });
+        
+        function handleFile(file) {
+            if (!file.name.endsWith('.csv')) {
+                alert('Por favor, selecione um arquivo CSV');
+                return;
+            }
+            
+            selectedFile = file;
+            fileName.textContent = file.name;
+            fileInfo.style.display = 'block';
+            processButton.disabled = false;
+            result.style.display = 'none';
+        }
+        
+        // Processar
+        processButton.addEventListener('click', async () => {
+            if (!selectedFile) return;
+            
+            const formData = new FormData();
+            formData.append('file', selectedFile);
+            
+            processButton.disabled = true;
+            progress.style.display = 'block';
+            result.style.display = 'none';
+            
+            try {
+                const response = await fetch('/api/upload-csv', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    result.className = 'result success';
+                    result.style.display = 'block';
+                    document.getElementById('resultTitle').textContent = '✅ Processamento Concluído!';
+                    document.getElementById('resultMessage').innerHTML = `
+                        <p><strong>${data.total_rows} transações processadas!</strong></p>
+                        <p>O sistema classificou todas as transações usando ML, LLM e OpenAI.</p>
+                        <a href="/transactions?file_id=${data.file_id}" class="link-button">Ver Transações Processadas</a>
+                        <a href="/api/download-csv/${data.file_id}" class="link-button" style="background: #2196f3; margin-left: 10px;">Download CSV Processado</a>
+                    `;
+                } else {
+                    throw new Error(data.message);
+                }
+            } catch (error) {
+                result.className = 'result error';
+                result.style.display = 'block';
+                document.getElementById('resultTitle').textContent = '❌ Erro';
+                document.getElementById('resultMessage').textContent = error.message;
+            } finally {
+                processButton.disabled = false;
+                progress.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>
+

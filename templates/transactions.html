@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transações Processadas - Sistema de Gestão Financeira</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        h1 {
+            color: #667eea;
+            text-align: center;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        th {
+            background: #667eea;
+            color: white;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+        }
+        tr:hover {
+            background: #f5f5f5;
+        }
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+        .badge-ml {
+            background: #4caf50;
+            color: white;
+        }
+        .badge-llm {
+            background: #ff9800;
+            color: white;
+        }
+        .badge-openai {
+            background: #2196f3;
+            color: white;
+        }
+        .discord {
+            background: #ffebee;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+        }
+        .stats {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .stat-card {
+            flex: 1;
+            min-width: 200px;
+            padding: 20px;
+            background: linear-gradient(135deg, #f8f9ff 0%, #f0f0ff 100%);
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+        }
+        .stat-card h3 {
+            margin: 0 0 10px 0;
+            color: #667eea;
+        }
+        .stat-card p {
+            margin: 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <a href="/" class="back-link">← Voltar para Dashboard</a>
+    <a href="/upload" class="back-link" style="margin-left: 20px;">📤 Novo Upload</a>
+    
+    <div class="header">
+        <h1>📊 Transações Processadas</h1>
+        <p>Visualize todas as classificações realizadas</p>
+    </div>
+    
+    <div class="container">
+        <div id="loading" class="loading">
+            <p>Carregando transações...</p>
+        </div>
+        
+        <div id="content" style="display: none;">
+            <div class="stats" id="stats"></div>
+            
+            <div style="overflow-x: auto;">
+                <table id="transactionsTable">
+                    <thead>
+                        <tr>
+                            <th>Descrição</th>
+                            <th>Valor</th>
+                            <th>🤖 ML (Categoria)</th>
+                            <th>🤖 ML (Subcategoria)</th>
+                            <th>🧠 LLM (Categoria)</th>
+                            <th>🔵 OpenAI</th>
+                        </tr>
+                    </thead>
+                    <tbody id="transactionsBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Pegar file_id da URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const fileId = urlParams.get('file_id');
+        
+        if (!fileId) {
+            document.getElementById('loading').innerHTML = '<p style="color: red;">Erro: file_id não fornecido</p>';
+        } else {
+            loadTransactions(fileId);
+        }
+        
+        async function loadTransactions(fileId) {
+            try {
+                const response = await fetch(`/api/transactions/${fileId}`);
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    displayTransactions(data.transactions, data.metadata);
+                } else {
+                    throw new Error(data.message);
+                }
+            } catch (error) {
+                document.getElementById('loading').innerHTML = `<p style="color: red;">Erro: ${error.message}</p>`;
+            }
+        }
+        
+        function displayTransactions(transactions, metadata) {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+            
+            // Estatísticas
+            const statsHtml = `
+                <div class="stat-card">
+                    <h3>Total de Transações</h3>
+                    <p>${metadata.total_rows}</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Processadas</h3>
+                    <p>${metadata.processed_rows}</p>
+                </div>
+            `;
+            document.getElementById('stats').innerHTML = statsHtml;
+            
+            // Tabela
+            const tbody = document.getElementById('transactionsBody');
+            tbody.innerHTML = '';
+            
+            transactions.forEach((tx, idx) => {
+                const row = document.createElement('tr');
+                
+                // Detectar colunas dinamicamente
+                const descricao = tx['DESCRIÇÃO BRUTA'] || tx['Descrição'] || tx['descricao'] || tx['DESCRICAO'] || '';
+                const valor = tx['VALOR'] || tx['Valor'] || tx['valor'] || 0;
+                const catML = tx['Categoria_ML'] || '';
+                const confML = tx['Confianca_ML'] || '';
+                const subcatML = tx['Subcategoria_ML'] || '';
+                const confSubML = tx['Confianca_Subcategoria_ML'] || '';
+                const catLLM = tx['Categoria_LLM'] || '';
+                const confLLM = tx['Confianca_LLM'] || '';
+                const catOpenAI = tx['Categoria_OpenAI'] || '';
+                const confOpenAI = tx['Confianca_OpenAI'] || '';
+                
+                // Verificar discordância
+                const discord = (catML && catLLM && catML !== catLLM) || 
+                               (catML && catOpenAI && catML !== catOpenAI) ||
+                               (catLLM && catOpenAI && catLLM !== catOpenAI);
+                
+                if (discord) {
+                    row.classList.add('discord');
+                }
+                
+                row.innerHTML = `
+                    <td>${descricao}</td>
+                    <td>R$ ${parseFloat(valor).toFixed(2)}</td>
+                    <td>
+                        ${catML ? `<span class="badge badge-ml">${catML}</span> ${confML ? ((confML * 100).toFixed(0) + '%') : ''}` : '-'}
+                    </td>
+                    <td>
+                        ${subcatML ? `<span class="badge badge-ml">${subcatML}</span> ${confSubML ? ((confSubML * 100).toFixed(0) + '%') : ''}` : '-'}
+                    </td>
+                    <td>
+                        ${catLLM ? `<span class="badge badge-llm">${catLLM}</span> ${confLLM ? ((confLLM * 100).toFixed(0) + '%') : ''}` : '-'}
+                    </td>
+                    <td>
+                        ${catOpenAI ? `<span class="badge badge-openai">${catOpenAI}</span> ${confOpenAI ? ((confOpenAI * 100).toFixed(0) + '%') : ''}` : '-'}
+                    </td>
+                `;
+                
+                tbody.appendChild(row);
+            });
+        }
+    </script>
+</body>
+</html>
+

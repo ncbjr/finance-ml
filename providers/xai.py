@@ -14,7 +14,7 @@ def classificar_categoria(descricao: str) -> dict:
             messages=[
                 {
                     "role": "system",
-                    "content": "Classifique despesas em: Alimentação, Transporte, Saúde, Lazer, Educação, Moradia, ou Outros. Responda APENAS com a categoria."
+                    "content": "Classifique despesas em UMA destas 7 categorias: CUSTOS FIXOS, CONFORTO, METAS, PRAZERES, LIBERDADE FINANCEIRA, CONHECIMENTO, ou CATEGORIZAR. Responda APENAS com o nome da categoria em MAIÚSCULAS."
                 },
                 {
                     "role": "user",
@@ -23,7 +23,13 @@ def classificar_categoria(descricao: str) -> dict:
             ]
         )
         
-        categoria = response.strip()
+        categoria = response.strip().upper()
+        
+        # Validar que está nas 7 categorias corretas
+        categorias_validas = ['CUSTOS FIXOS', 'CONFORTO', 'METAS', 'PRAZERES', 'LIBERDADE FINANCEIRA', 'CONHECIMENTO', 'CATEGORIZAR']
+        if categoria not in categorias_validas:
+            categoria = 'CATEGORIZAR'
+        
         return {
             "categoria": categoria,
             "confianca": 0.9,

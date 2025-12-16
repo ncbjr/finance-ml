@@ -31,62 +31,61 @@ def limpar_valor(valor_str):
     except:
         return 0.0
 
-def mapear_categoria(categoria_original, subcategoria=''):
+def mapear_categoria_por_tags(tags):
     """
-    Mapeia as categorias da sua planilha para as 6 categorias do sistema
+    Mapeia tags para as 7 categorias corretas do sistema
     """
+    if pd.isna(tags) or tags == '':
+        return 'CATEGORIZAR'
+    
+    tags_lower = str(tags).lower().strip()
+    
+    # Mapeamento direto de tags para categorias
+    if 'custos fixos' in tags_lower:
+        return 'CUSTOS FIXOS'
+    elif 'conforto' in tags_lower:
+        return 'CONFORTO'
+    elif 'prazeres' in tags_lower:
+        return 'PRAZERES'
+    elif 'conhecimento' in tags_lower:
+        return 'CONHECIMENTO'
+    elif 'metas' in tags_lower:
+        return 'METAS'
+    elif 'liberdade financeira' in tags_lower:
+        return 'LIBERDADE FINANCEIRA'
+    elif 'categorizar' in tags_lower:
+        return 'CATEGORIZAR'
+    else:
+        return 'CATEGORIZAR'  # Default
+
+def mapear_categoria(categoria_original, subcategoria='', tags=''):
+    """
+    Mapeia as categorias da planilha para as 7 categorias corretas
+    Usa tags como fonte principal de verdade
+    """
+    # Se tem tags, usar tags como fonte principal
+    if tags and str(tags).strip() != '':
+        return mapear_categoria_por_tags(tags)
+    
+    # Fallback: usar categoria_original e subcategoria
     categoria_upper = str(categoria_original).upper()
     sub_upper = str(subcategoria).upper()
     
-    # Mapeamento de categorias
-    if 'ALIMENTAÇÃO' in categoria_upper or 'ALIMENTAÇÃO' in sub_upper:
-        return 'Alimentação'
-    
-    elif any(x in sub_upper for x in ['TRANSPORTE', 'UBER', 'COMBUSTÍVEL', 'MANUTENÇÃO']):
-        return 'Transporte'
-    
-    elif any(x in sub_upper for x in ['SAUDE', 'SAÚDE', 'CONSULTA', 'FARMÁCIA', 'EXAME', 'MANIPULAÇÃO', 'ASSINATURA']):
-        return 'Saúde'
-    
-    elif any(x in sub_upper for x in ['LAZER', 'RESTAURANTE', 'LANCHE']):
-        return 'Lazer'
-    
-    elif any(x in categoria_upper for x in ['CONHECIMENTO', 'EDUCAÇÃO']) or 'EDUCAÇÃO' in sub_upper:
-        return 'Educação'
-    
-    elif any(x in sub_upper for x in ['HABITAÇÃO', 'TELEFONE', 'FERRAMENTAS']):
-        return 'Moradia'
-    
-    elif 'CUSTOS FIXOS' in categoria_upper:
-        # Para custos fixos, ver subcategoria
-        if 'HABITAÇÃO' in sub_upper or 'TELEFONE' in sub_upper:
-            return 'Moradia'
-        elif 'TRANSPORTE' in sub_upper:
-            return 'Transporte'
-        elif 'SAUDE' in sub_upper or 'SAÚDE' in sub_upper:
-            return 'Saúde'
-        else:
-            return 'Alimentação'  # Default para custos fixos
-    
+    # Mapeamento baseado em padrões (fallback)
+    if 'CUSTOS FIXOS' in categoria_upper:
+        return 'CUSTOS FIXOS'
     elif 'CONFORTO' in categoria_upper:
-        # Conforto pode ser várias coisas
-        if 'TRANSPORTE' in sub_upper:
-            return 'Transporte'
-        elif 'RESTAURANTE' in sub_upper:
-            return 'Lazer'
-        else:
-            return 'Moradia'
-    
+        return 'CONFORTO'
     elif 'PRAZERES' in categoria_upper:
-        if 'RESTAURANTE' in sub_upper or 'LANCHE' in sub_upper:
-            return 'Lazer'
-        elif 'SAUDE' in sub_upper or 'SAÚDE' in sub_upper:
-            return 'Saúde'
-        else:
-            return 'Lazer'
-    
-    # Default
-    return 'Outros'
+        return 'PRAZERES'
+    elif 'CONHECIMENTO' in categoria_upper or 'EDUCAÇÃO' in categoria_upper:
+        return 'CONHECIMENTO'
+    elif 'METAS' in categoria_upper:
+        return 'METAS'
+    elif 'LIBERDADE' in categoria_upper:
+        return 'LIBERDADE FINANCEIRA'
+    else:
+        return 'CATEGORIZAR'  # Default
 
 def converter_planilha():
     """
@@ -131,30 +130,34 @@ def converter_planilha():
     print(f"   Linhas validas: {len(df)}")
     
     # Criar DataFrame no novo formato
+    # Ordem correta: data,descricao,valor,tags,subcategoria,categoria
     print("\n3. Convertendo formato...")
-    novo_df = pd.DataFrame()
     
-    # Data - usar coluna MÊS como referência (será aproximado)
-    # Como a planilha original não tem data completa, vamos criar uma
-    novo_df['data'] = pd.to_datetime('2024-01-01')  # Data padrão
+    # Tags (usar a coluna tags original se existir, senão usar CATEGORIA)
+    col_tags = None
+    for col in df.columns:
+        if 'TAG' in col.upper() or 'TAGS' in col.upper():
+            col_tags = col
+            break
     
-    # Descrição (usar nome real da coluna)
-    novo_df['descricao'] = df[col_descricao].str.strip()
+    tags_source = df[col_tags] if col_tags else df['CATEGORIA']
     
-    # Valor
-    novo_df['valor'] = df['VALOR'].apply(limpar_valor)
-    
-    # Categoria (mapear)
-    novo_df['categoria'] = df.apply(
-        lambda row: mapear_categoria(row['CATEGORIA'], row.get('SubCategoria', '')), 
-        axis=1
-    )
-    
-    # Subcategoria (usar a subcategoria original)
-    novo_df['subcategoria'] = df['SubCategoria'].fillna('').str.strip()
-    
-    # Tags (criar baseado na categoria original)
-    novo_df['tags'] = df['CATEGORIA'].fillna('').str.lower().str.strip()
+    # Criar DataFrame na ordem correta: data,descricao,valor,tags,subcategoria,categoria
+    novo_df = pd.DataFrame({
+        'data': pd.to_datetime('2024-01-01'),  # Data padrão
+        'descricao': df[col_descricao].str.strip(),
+        'valor': df['VALOR'].apply(limpar_valor),
+        'tags': tags_source.fillna('').str.lower().str.strip(),
+        'subcategoria': df['SubCategoria'].fillna('').str.strip(),
+        'categoria': df.apply(
+            lambda row: mapear_categoria(
+                row.get('CATEGORIA', ''), 
+                row.get('SubCategoria', ''),
+                row.get(col_tags, '') if col_tags else ''
+            ), 
+            axis=1
+        )
+    })
     
     # Remover duplicatas exatas
     print("\n4. Removendo duplicatas...")

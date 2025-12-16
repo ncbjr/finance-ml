@@ -13,3 +13,5 @@
 - ✅ Adicionada feature de exibição de discordância entre ML e LLM na interface web
 - ✅ Docker configurado completamente
 - ✅ Documentação completa (9 arquivos de docs)
+- ✅ Implementado sistema de upload e processamento de CSV em lote com classificação ML + LLM + OpenAI
+- ✅ Criada interface de visualização de transações processadas com destaque para discordâncias

@@ -13,7 +13,7 @@ def classificar_categoria(descricao: str) -> dict:
             messages=[
                 {
                     "role": "system",
-                    "content": "Você é um assistente financeiro. Classifique despesas em categorias: Alimentação, Transporte, Saúde, Lazer, Educação, Moradia, ou Outros. Responda APENAS com o nome da categoria."
+                    "content": "Você é um assistente financeiro. Classifique despesas em UMA destas 7 categorias: CUSTOS FIXOS, CONFORTO, METAS, PRAZERES, LIBERDADE FINANCEIRA, CONHECIMENTO, ou CATEGORIZAR. Responda APENAS com o nome da categoria em MAIÚSCULAS."
                 },
                 {
                     "role": "user",
@@ -24,7 +24,13 @@ def classificar_categoria(descricao: str) -> dict:
             max_tokens=20
         )
         
-        categoria = completion.choices[0].message.content.strip()
+        categoria = completion.choices[0].message.content.strip().upper()
+        
+        # Validar que está nas 7 categorias corretas
+        categorias_validas = ['CUSTOS FIXOS', 'CONFORTO', 'METAS', 'PRAZERES', 'LIBERDADE FINANCEIRA', 'CONHECIMENTO', 'CATEGORIZAR']
+        if categoria not in categorias_validas:
+            categoria = 'CATEGORIZAR'
+        
         return {
             "categoria": categoria,
             "confianca": 0.9,

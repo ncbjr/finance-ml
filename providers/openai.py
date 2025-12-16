@@ -5,7 +5,7 @@ openai_Cliente = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def classificar_categoria(descricao: str) -> dict:
     """
-    Classifica uma despesa usando OpenAI
+    Classifica uma despesa usando OpenAI (categoria - 7 classes)
     """
     try:
         response = openai_Cliente.chat.completions.create(
@@ -13,7 +13,7 @@ def classificar_categoria(descricao: str) -> dict:
             messages=[
                 {
                     "role": "system",
-                    "content": "Você é um assistente financeiro. Classifique despesas em categorias: Alimentação, Transporte, Saúde, Lazer, Educação, Moradia, ou Outros. Responda APENAS com o nome da categoria, nada mais."
+                    "content": "Você é um assistente financeiro. Classifique despesas em UMA destas 7 categorias: CUSTOS FIXOS, CONFORTO, METAS, PRAZERES, LIBERDADE FINANCEIRA, CONHECIMENTO, ou CATEGORIZAR. Responda APENAS com o nome da categoria em MAIÚSCULAS, nada mais."
                 },
                 {
                     "role": "user",
@@ -21,10 +21,16 @@ def classificar_categoria(descricao: str) -> dict:
                 }
             ],
             temperature=0.3,
-            max_tokens=20
+            max_tokens=30
         )
         
-        categoria = response.choices[0].message.content.strip()
+        categoria = response.choices[0].message.content.strip().upper()
+        
+        # Validar que está nas 7 categorias corretas
+        categorias_validas = ['CUSTOS FIXOS', 'CONFORTO', 'METAS', 'PRAZERES', 'LIBERDADE FINANCEIRA', 'CONHECIMENTO', 'CATEGORIZAR']
+        if categoria not in categorias_validas:
+            categoria = 'CATEGORIZAR'
+        
         return {
             "categoria": categoria,
             "confianca": 0.9,

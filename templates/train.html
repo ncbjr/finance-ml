@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treinar Modelos - Sistema de Gestão Financeira</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 25px 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header h1 {
+            color: #667eea;
+            font-size: 2em;
+            margin: 0;
+        }
+        .back-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 20px;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        .back-link:hover {
+            background: #667eea;
+            color: white;
+        }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .btn-primary:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        .btn-primary:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .btn-secondary {
+            background: #e0e0e0;
+            color: #333;
+        }
+        .btn-secondary:hover {
+            background: #d0d0d0;
+        }
+        .upload-area {
+            border: 2px dashed #667eea;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            margin: 20px 0;
+            transition: all 0.3s ease;
+        }
+        .upload-area:hover {
+            background: #f8f9ff;
+            border-color: #764ba2;
+        }
+        .upload-area.dragover {
+            background: #f0f0ff;
+            border-color: #667eea;
+        }
+        .file-input {
+            display: none;
+        }
+        .file-label {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #667eea;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        .file-label:hover {
+            background: #764ba2;
+        }
+        .file-info {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f8f9ff;
+            border-radius: 8px;
+            display: none;
+        }
+        .file-info.active {
+            display: block;
+        }
+        .terminal {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            height: 400px;
+            overflow-y: auto;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+        .terminal::-webkit-scrollbar {
+            width: 10px;
+        }
+        .terminal::-webkit-scrollbar-track {
+            background: #2d2d2d;
+        }
+        .terminal::-webkit-scrollbar-thumb {
+            background: #555;
+            border-radius: 5px;
+        }
+        .terminal-line {
+            margin: 2px 0;
+            word-wrap: break-word;
+        }
+        .terminal-line.success {
+            color: #4ec9b0;
+        }
+        .terminal-line.error {
+            color: #f48771;
+        }
+        .terminal-line.warning {
+            color: #dcdcaa;
+        }
+        .terminal-line.info {
+            color: #569cd6;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        .status-ready {
+            background: #e0e0e0;
+            color: #333;
+        }
+        .status-running {
+            background: #fff3cd;
+            color: #856404;
+        }
+        .status-completed {
+            background: #d4edda;
+            color: #155724;
+        }
+        .status-error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        .actions {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        .progress-info {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f8f9ff;
+            border-radius: 8px;
+            display: none;
+        }
+        .progress-info.active {
+            display: block;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        .status-running .status-badge {
+            animation: pulse 2s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎯 Treinar Modelos</h1>
+            <a href="/" class="back-link">← Voltar para Dashboard</a>
+        </div>
+
+        <div class="card">
+            <h2>📥 Passo 1: Baixar Planilha Modelo</h2>
+            <p style="margin-bottom: 20px; color: #666;">
+                Baixe a planilha modelo, preencha com seus dados de despesas e faça o upload para treinar os modelos.
+            </p>
+            <button class="btn btn-primary" onclick="downloadTemplate()">
+                📥 Baixar Planilha Modelo
+            </button>
+        </div>
+
+        <div class="card">
+            <h2>📤 Passo 2: Upload de Planilha</h2>
+            <div class="upload-area" id="uploadArea" 
+                 ondrop="handleDrop(event)" 
+                 ondragover="handleDragOver(event)" 
+                 ondragleave="handleDragLeave(event)">
+                <p style="margin-bottom: 20px; color: #666;">
+                    Arraste o arquivo CSV aqui ou clique para selecionar
+                </p>
+                <input type="file" id="fileInput" class="file-input" accept=".csv" onchange="handleFileSelect(event)">
+                <label for="fileInput" class="file-label">Escolher Arquivo CSV</label>
+                <div class="file-info" id="fileInfo">
+                    <strong>Arquivo selecionado:</strong> <span id="fileName"></span>
+                    <br>
+                    <strong>Tamanho:</strong> <span id="fileSize"></span>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="btn btn-primary" id="startBtn" onclick="startTraining()" disabled>
+                    🚀 Iniciar Treinamento
+                </button>
+                <button class="btn btn-secondary" onclick="clearFile()">
+                    🗑️ Limpar
+                </button>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>📊 Progresso do Treinamento</h2>
+            <div style="margin-bottom: 15px;">
+                <strong>Status:</strong> 
+                <span class="status-badge status-ready" id="statusBadge">⏳ Pronto</span>
+            </div>
+            <div class="terminal" id="terminal">
+                <div class="terminal-line">> Aguardando início do treinamento...</div>
+            </div>
+            <div class="progress-info" id="progressInfo">
+                <strong>Session ID:</strong> <span id="sessionId"></span>
+                <br>
+                <strong>Iniciado em:</strong> <span id="startedAt"></span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentSessionId = null;
+        let eventSource = null;
+        let selectedFile = null;
+
+        function downloadTemplate() {
+            window.location.href = '/api/train/download-template';
+        }
+
+        function handleDragOver(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            document.getElementById('uploadArea').classList.add('dragover');
+        }
+
+        function handleDragLeave(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            document.getElementById('uploadArea').classList.remove('dragover');
+        }
+
+        function handleDrop(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            document.getElementById('uploadArea').classList.remove('dragover');
+            
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                handleFile(files[0]);
+            }
+        }
+
+        function handleFileSelect(e) {
+            const files = e.target.files;
+            if (files.length > 0) {
+                handleFile(files[0]);
+            }
+        }
+
+        function handleFile(file) {
+            if (!file.name.endsWith('.csv')) {
+                alert('Por favor, selecione um arquivo CSV');
+                return;
+            }
+
+            if (file.size > 10 * 1024 * 1024) {
+                alert('Arquivo muito grande (máximo 10MB)');
+                return;
+            }
+
+            selectedFile = file;
+            
+            // Mostrar informações do arquivo
+            document.getElementById('fileName').textContent = file.name;
+            document.getElementById('fileSize').textContent = formatFileSize(file.size);
+            document.getElementById('fileInfo').classList.add('active');
+            
+            // Habilitar botão de iniciar
+            document.getElementById('startBtn').disabled = false;
+        }
+
+        function formatFileSize(bytes) {
+            if (bytes < 1024) return bytes + ' B';
+            if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(2) + ' KB';
+            return (bytes / (1024 * 1024)).toFixed(2) + ' MB';
+        }
+
+        function clearFile() {
+            selectedFile = null;
+            document.getElementById('fileInput').value = '';
+            document.getElementById('fileInfo').classList.remove('active');
+            document.getElementById('startBtn').disabled = true;
+        }
+
+        async function startTraining() {
+            if (!selectedFile) {
+                alert('Por favor, selecione um arquivo primeiro');
+                return;
+            }
+
+            // Desabilitar botão
+            document.getElementById('startBtn').disabled = true;
+            
+            // Limpar terminal
+            document.getElementById('terminal').innerHTML = '';
+            
+            // Atualizar status
+            updateStatus('running', '🔄 Treinando...');
+            
+            try {
+                // Upload do arquivo
+                appendTerminal('> Fazendo upload do arquivo...', 'info');
+                
+                const formData = new FormData();
+                formData.append('file', selectedFile);
+                
+                const uploadResponse = await fetch('/api/train/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const uploadData = await uploadResponse.json();
+                
+                if (uploadData.status !== 'success') {
+                    throw new Error(uploadData.message || 'Erro ao fazer upload');
+                }
+                
+                currentSessionId = uploadData.session_id;
+                appendTerminal(`✓ Upload concluído (${uploadData.rows} linhas)`, 'success');
+                appendTerminal(`> Session ID: ${currentSessionId}`, 'info');
+                
+                // Mostrar informações de progresso
+                document.getElementById('sessionId').textContent = currentSessionId;
+                document.getElementById('startedAt').textContent = new Date().toLocaleString('pt-BR');
+                document.getElementById('progressInfo').classList.add('active');
+                
+                // Iniciar treinamento
+                appendTerminal('> Iniciando treinamento...', 'info');
+                
+                const startResponse = await fetch(`/api/train/start/${currentSessionId}`, {
+                    method: 'POST'
+                });
+                
+                const startData = await startResponse.json();
+                
+                if (startData.status !== 'success') {
+                    throw new Error(startData.message || 'Erro ao iniciar treinamento');
+                }
+                
+                appendTerminal('✓ Treinamento iniciado com sucesso!', 'success');
+                appendTerminal('');
+                
+                // Conectar ao stream de progresso
+                connectToProgress();
+                
+            } catch (error) {
+                appendTerminal(`✗ ERRO: ${error.message}`, 'error');
+                updateStatus('error', '❌ Erro');
+                document.getElementById('startBtn').disabled = false;
+            }
+        }
+
+        function connectToProgress() {
+            if (eventSource) {
+                eventSource.close();
+            }
+            
+            eventSource = new EventSource(`/api/train/progress/${currentSessionId}`);
+            
+            eventSource.onmessage = (event) => {
+                try {
+                    const data = JSON.parse(event.data);
+                    
+                    if (data.error) {
+                        appendTerminal(`✗ ERRO: ${data.error}`, 'error');
+                        updateStatus('error', '❌ Erro');
+                        eventSource.close();
+                        return;
+                    }
+                    
+                    if (data.line) {
+                        appendTerminal(data.line);
+                    }
+                    
+                    if (data.status && data.completed) {
+                        if (data.status === 'completed') {
+                            appendTerminal('');
+                            appendTerminal('🎉 TREINAMENTO CONCLUÍDO COM SUCESSO!', 'success');
+                            updateStatus('completed', '✅ Concluído');
+                        } else if (data.status === 'error') {
+                            appendTerminal('');
+                            appendTerminal('✗ TREINAMENTO FALHOU', 'error');
+                            updateStatus('error', '❌ Erro');
+                        }
+                        
+                        eventSource.close();
+                        document.getElementById('startBtn').disabled = false;
+                    }
+                } catch (e) {
+                    console.error('Erro ao processar mensagem SSE:', e);
+                }
+            };
+            
+            eventSource.onerror = (error) => {
+                console.error('Erro na conexão SSE:', error);
+                appendTerminal('⚠ Conexão perdida. Tentando reconectar...', 'warning');
+                // Tentar reconectar após 2 segundos
+                setTimeout(() => {
+                    if (currentSessionId) {
+                        connectToProgress();
+                    }
+                }, 2000);
+            };
+        }
+
+        function appendTerminal(text, type = '') {
+            const terminal = document.getElementById('terminal');
+            const line = document.createElement('div');
+            line.className = `terminal-line ${type}`;
+            line.textContent = text;
+            terminal.appendChild(line);
+            terminal.scrollTop = terminal.scrollHeight;
+        }
+
+        function updateStatus(status, text) {
+            const badge = document.getElementById('statusBadge');
+            badge.className = `status-badge status-${status}`;
+            badge.textContent = text;
+        }
+
+        // Limpar conexão ao sair da página
+        window.addEventListener('beforeunload', () => {
+            if (eventSource) {
+                eventSource.close();
+            }
+        });
+    </script>
+</body>
+</html>
+

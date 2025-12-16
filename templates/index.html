@@ -202,6 +202,11 @@
                 <li><strong>LLMs</strong> <span class="badge badge-llm">LLM</span> - OpenAI, Anthropic, Gemini, Groq (com fallback)</li>
                 <li><strong>Híbrido</strong> <span class="badge badge-hybrid">HYBRID</span> - Combinação inteligente de ambos</li>
             </ul>
+            <p style="margin-top: 15px;">
+                <a href="/upload" style="color: #667eea; font-weight: bold;">📤 Processar CSV em lote</a> | 
+                <a href="/expenses" style="color: #667eea; font-weight: bold;">📊 Ver todas as despesas</a> |
+                <a href="/train" style="color: #667eea; font-weight: bold;">🎯 Treinar Modelos</a>
+            </p>
         </div>
 
         <form id="expenseForm">
@@ -224,6 +229,11 @@
             <div class="form-group">
                 <label for="categoria">Categoria Sugerida:</label>
                 <input type="text" id="categoria" name="categoria" placeholder="A categoria será sugerida automaticamente" readonly>
+            </div>
+            
+            <div class="form-group">
+                <label for="subcategoria">Subcategoria Sugerida:</label>
+                <input type="text" id="subcategoria" name="subcategoria" placeholder="A subcategoria será sugerida automaticamente" readonly>
             </div>
             
             <button type="submit">Adicionar Despesa</button>
@@ -294,25 +304,27 @@
                 
                 if (result.status === 'success') {
                     const suggestionDiv = document.getElementById('suggestion');
-                    const confianca = (result.confianca * 100).toFixed(0);
+                    const confianca_cat = ((result.confianca_categoria || result.confianca || 0) * 100).toFixed(0);
+                    const confianca_sub = result.subcategoria ? ((result.confianca_subcategoria || 0) * 100).toFixed(0) : '0';
                     const provider = result.provider || 'unknown';
                     const detalhes = result.detalhes || {};
                     
                     let html = `
-                        <h4>💡 Sugestão de Categoria</h4>
-                        <p><strong>${result.categoria}</strong> (Confiança: ${confianca}%)</p>
+                        <h4>💡 Sugestões</h4>
+                        <p><strong>Categoria:</strong> ${result.categoria || 'N/A'} (Confiança: ${confianca_cat}%)</p>
+                        ${result.subcategoria ? `<p><strong>Subcategoria:</strong> ${result.subcategoria} (Confiança: ${confianca_sub}%)</p>` : ''}
                         <p style="font-size: 0.9em; color: #666;">Método: ${provider}</p>
                     `;
                     
                     // Se ML e LLM discordaram, mostrar ambas as sugestões
                     if (detalhes.ml_categoria && detalhes.ml_categoria.toLowerCase() !== result.categoria.toLowerCase()) {
-                        const conf_ml = ((detalhes.ml_confianca || 0) * 100).toFixed(0);
+                        const conf_ml = ((detalhes.ml_confianca_categoria || detalhes.ml_confianca || 0) * 100).toFixed(0);
                         html += `
                             <hr style="margin: 10px 0; border: none; border-top: 1px solid #e0e0e0;">
                             <p style="font-size: 0.9em; color: #999;">
-                                <strong>⚠️ Discordância Detectada:</strong><br>
+                                <strong>⚠️ Discordância Detectada (Categoria):</strong><br>
                                 🤖 ML sugeriu: <strong>${detalhes.ml_categoria}</strong> (${conf_ml}%)<br>
-                                🧠 LLM sugeriu: <strong>${result.categoria}</strong> (${confianca}%)
+                                🧠 LLM sugeriu: <strong>${result.categoria}</strong> (${confianca_cat}%)
                             </p>
                         `;
                     } else if (detalhes.llm_categoria && detalhes.llm_categoria.toLowerCase() !== result.categoria.toLowerCase()) {
@@ -320,8 +332,8 @@
                         html += `
                             <hr style="margin: 10px 0; border: none; border-top: 1px solid #e0e0e0;">
                             <p style="font-size: 0.9em; color: #999;">
-                                <strong>⚠️ Discordância Detectada:</strong><br>
-                                🤖 ML sugeriu: <strong>${result.categoria}</strong> (${confianca}%)<br>
+                                <strong>⚠️ Discordância Detectada (Categoria):</strong><br>
+                                🤖 ML sugeriu: <strong>${result.categoria}</strong> (${confianca_cat}%)<br>
                                 🧠 LLM sugeriu: <strong>${detalhes.llm_categoria}</strong> (${conf_llm}%)
                             </p>
                         `;
@@ -329,7 +341,7 @@
                         // Se concordaram, mostrar que ambos sugeriram o mesmo
                         html += `
                             <p style="font-size: 0.9em; color: #4caf50;">
-                                ✅ ML e LLM concordaram!
+                                ✅ ML e LLM concordaram na categoria!
                             </p>
                         `;
                     }
@@ -337,8 +349,9 @@
                     suggestionDiv.innerHTML = html;
                     suggestionDiv.style.display = 'block';
                     
-                    // Preencher campo de categoria
-                    document.getElementById('categoria').value = result.categoria;
+                    // Preencher campos de categoria e subcategoria
+                    document.getElementById('categoria').value = result.categoria || '';
+                    document.getElementById('subcategoria').value = result.subcategoria || '';
                 }
             } catch (error) {
                 console.error('Erro ao buscar sugestão:', error);
@@ -361,8 +374,8 @@
                 descricao: document.getElementById('descricao').value,
                 valor: parseFloat(document.getElementById('valor').value),
                 data: document.getElementById('data').value,
-                categoria: document.getElementById('categoria').value || 'Outros',
-                subcategoria: '',
+                categoria: document.getElementById('categoria').value || 'CATEGORIZAR',
+                subcategoria: document.getElementById('subcategoria').value || '',
                 tags: ''
             };
             
@@ -385,6 +398,7 @@
                         <p><strong>Descrição:</strong> ${formData.descricao}</p>
                         <p><strong>Valor:</strong> R$ ${formData.valor.toFixed(2)}</p>
                         <p><strong>Categoria:</strong> ${formData.categoria}</p>
+                        ${formData.subcategoria ? `<p><strong>Subcategoria:</strong> ${formData.subcategoria}</p>` : ''}
                         <p><strong>Data:</strong> ${formData.data}</p>
                     `;
                     
