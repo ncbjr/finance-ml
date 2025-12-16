@@ -1,0 +1,15 @@
+# Atualizações do Projeto Finance-ML
+
+## 15 de Dezembro de 2025
+
+### Sistema de Gestão Financeira ML + LLM - Implementação Completa
+
+- ✅ Implementados todos os 11 TODOs do plano
+- ✅ Criado sistema completo de classificação de despesas com ML + LLM
+- ✅ Reutilizado 80%+ do código das aulas (esqueleto_treinamento.py, interface_web_completa.py, providers LLM)
+- ✅ Escrito ~360 linhas de código novo (meta cumprida)
+- ✅ Implementado fallback LLM robusto (funciona sem APIs)
+- ✅ Criado conversor para planilha real do usuário (1,629 despesas)
+- ✅ Adicionada feature de exibição de discordância entre ML e LLM na interface web
+- ✅ Docker configurado completamente
+- ✅ Documentação completa (9 arquivos de docs)

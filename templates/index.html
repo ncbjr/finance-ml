@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Gestão Financeira - ML + LLM</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #667eea;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .subtitle {
+            color: #764ba2;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+            font-style: italic;
+        }
+        .form-group {
+            margin-bottom: 25px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #667eea;
+            font-size: 1.1em;
+        }
+        input[type="text"], input[type="number"], input[type="date"], textarea {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+            background-color: #fafafa;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        textarea {
+            min-height: 80px;
+            resize: vertical;
+        }
+        input:focus, textarea:focus {
+            border-color: #667eea;
+            outline: none;
+            background-color: white;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            width: 100%;
+            margin-top: 15px;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        button:active {
+            transform: translateY(0);
+        }
+        .suggestion {
+            margin-top: 10px;
+            padding: 15px;
+            background: linear-gradient(135deg, #f8f9ff 0%, #f0f0ff 100%);
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            display: none;
+            animation: slideIn 0.3s ease;
+        }
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .suggestion h4 {
+            margin-top: 0;
+            color: #667eea;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f8f9ff 0%, #f0f0ff 100%);
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
+            display: none;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        .result h3 {
+            margin-top: 0;
+            color: #667eea;
+            font-size: 1.3em;
+        }
+        .category {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+            text-align: center;
+            margin: 15px 0;
+        }
+        .confidence {
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+        .error {
+            background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+            border-left-color: #d32f2f;
+            color: #c62828;
+        }
+        .loading {
+            text-align: center;
+            color: #667eea;
+            font-size: 1.1em;
+        }
+        .info-box {
+            background: #f0f7ff;
+            border-left: 4px solid #2196f3;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .info-box h4 {
+            margin-top: 0;
+            color: #2196f3;
+        }
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: bold;
+            margin-left: 8px;
+        }
+        .badge-ml {
+            background: #4caf50;
+            color: white;
+        }
+        .badge-llm {
+            background: #ff9800;
+            color: white;
+        }
+        .badge-hybrid {
+            background: #9c27b0;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>💰 Sistema de Gestão Financeira</h1>
+        <p class="subtitle">Classificação Inteligente com Machine Learning e LLMs</p>
+    </div>
+    
+    <div class="container">
+        <div class="info-box">
+            <h4>🤖 Como funciona?</h4>
+            <p>Digite a descrição da sua despesa e o sistema irá sugerir automaticamente a categoria usando:</p>
+            <ul>
+                <li><strong>Machine Learning</strong> <span class="badge badge-ml">ML</span> - Modelo treinado com seu histórico</li>
+                <li><strong>LLMs</strong> <span class="badge badge-llm">LLM</span> - OpenAI, Anthropic, Gemini, Groq (com fallback)</li>
+                <li><strong>Híbrido</strong> <span class="badge badge-hybrid">HYBRID</span> - Combinação inteligente de ambos</li>
+            </ul>
+        </div>
+
+        <form id="expenseForm">
+            <div class="form-group">
+                <label for="descricao">Descrição da Despesa:</label>
+                <textarea id="descricao" name="descricao" required placeholder="Ex: Supermercado Carrefour, Uber para trabalho, Consulta médica..."></textarea>
+                <div id="suggestion" class="suggestion"></div>
+            </div>
+            
+            <div class="form-group">
+                <label for="valor">Valor (R$):</label>
+                <input type="number" id="valor" name="valor" min="0.01" step="0.01" required placeholder="0.00">
+            </div>
+            
+            <div class="form-group">
+                <label for="data">Data:</label>
+                <input type="date" id="data" name="data" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="categoria">Categoria Sugerida:</label>
+                <input type="text" id="categoria" name="categoria" placeholder="A categoria será sugerida automaticamente" readonly>
+            </div>
+            
+            <button type="submit">Adicionar Despesa</button>
+        </form>
+        
+        <div id="result" class="result">
+            <h3>Resultado:</h3>
+            <div id="message"></div>
+        </div>
+    </div>
+
+    <script>
+        // Configurar data atual como padrão
+        document.getElementById('data').valueAsDate = new Date();
+
+        let sugestaoTimeout;
+
+        // Detectar mudanças na descrição para sugerir categoria
+        document.getElementById('descricao').addEventListener('input', function(e) {
+            const descricao = e.target.value;
+            const valor = parseFloat(document.getElementById('valor').value) || 0;
+            const data = document.getElementById('data').value;
+            
+            // Limpar timeout anterior
+            clearTimeout(sugestaoTimeout);
+            
+            // Se descrição tem pelo menos 3 caracteres
+            if (descricao.length >= 3 && valor > 0) {
+                // Aguardar 500ms após parar de digitar
+                sugestaoTimeout = setTimeout(() => {
+                    buscarSugestao(descricao, valor, data);
+                }, 500);
+            } else {
+                document.getElementById('suggestion').style.display = 'none';
+            }
+        });
+
+        // Também atualizar quando valor mudar
+        document.getElementById('valor').addEventListener('input', function() {
+            const descricao = document.getElementById('descricao').value;
+            if (descricao.length >= 3) {
+                const valor = parseFloat(this.value) || 0;
+                const data = document.getElementById('data').value;
+                if (valor > 0) {
+                    clearTimeout(sugestaoTimeout);
+                    sugestaoTimeout = setTimeout(() => {
+                        buscarSugestao(descricao, valor, data);
+                    }, 500);
+                }
+            }
+        });
+
+        async function buscarSugestao(descricao, valor, data) {
+            try {
+                const response = await fetch('/api/classify/hybrid', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        descricao: descricao,
+                        valor: valor,
+                        data: data
+                    })
+                });
+                
+                const result = await response.json();
+                
+                if (result.status === 'success') {
+                    const suggestionDiv = document.getElementById('suggestion');
+                    const confianca = (result.confianca * 100).toFixed(0);
+                    const provider = result.provider || 'unknown';
+                    const detalhes = result.detalhes || {};
+                    
+                    let html = `
+                        <h4>💡 Sugestão de Categoria</h4>
+                        <p><strong>${result.categoria}</strong> (Confiança: ${confianca}%)</p>
+                        <p style="font-size: 0.9em; color: #666;">Método: ${provider}</p>
+                    `;
+                    
+                    // Se ML e LLM discordaram, mostrar ambas as sugestões
+                    if (detalhes.ml_categoria && detalhes.ml_categoria.toLowerCase() !== result.categoria.toLowerCase()) {
+                        const conf_ml = ((detalhes.ml_confianca || 0) * 100).toFixed(0);
+                        html += `
+                            <hr style="margin: 10px 0; border: none; border-top: 1px solid #e0e0e0;">
+                            <p style="font-size: 0.9em; color: #999;">
+                                <strong>⚠️ Discordância Detectada:</strong><br>
+                                🤖 ML sugeriu: <strong>${detalhes.ml_categoria}</strong> (${conf_ml}%)<br>
+                                🧠 LLM sugeriu: <strong>${result.categoria}</strong> (${confianca}%)
+                            </p>
+                        `;
+                    } else if (detalhes.llm_categoria && detalhes.llm_categoria.toLowerCase() !== result.categoria.toLowerCase()) {
+                        const conf_llm = ((detalhes.llm_confianca || 0) * 100).toFixed(0);
+                        html += `
+                            <hr style="margin: 10px 0; border: none; border-top: 1px solid #e0e0e0;">
+                            <p style="font-size: 0.9em; color: #999;">
+                                <strong>⚠️ Discordância Detectada:</strong><br>
+                                🤖 ML sugeriu: <strong>${result.categoria}</strong> (${confianca}%)<br>
+                                🧠 LLM sugeriu: <strong>${detalhes.llm_categoria}</strong> (${conf_llm}%)
+                            </p>
+                        `;
+                    } else if (detalhes.ml_categoria) {
+                        // Se concordaram, mostrar que ambos sugeriram o mesmo
+                        html += `
+                            <p style="font-size: 0.9em; color: #4caf50;">
+                                ✅ ML e LLM concordaram!
+                            </p>
+                        `;
+                    }
+                    
+                    suggestionDiv.innerHTML = html;
+                    suggestionDiv.style.display = 'block';
+                    
+                    // Preencher campo de categoria
+                    document.getElementById('categoria').value = result.categoria;
+                }
+            } catch (error) {
+                console.error('Erro ao buscar sugestão:', error);
+            }
+        }
+
+        document.getElementById('expenseForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const resultDiv = document.getElementById('result');
+            const messageDiv = document.getElementById('message');
+            
+            // Mostrar loading
+            resultDiv.style.display = 'block';
+            resultDiv.className = 'result loading';
+            messageDiv.innerHTML = '⏳ Salvando despesa...';
+            
+            // Coletar dados do formulário
+            const formData = {
+                descricao: document.getElementById('descricao').value,
+                valor: parseFloat(document.getElementById('valor').value),
+                data: document.getElementById('data').value,
+                categoria: document.getElementById('categoria').value || 'Outros',
+                subcategoria: '',
+                tags: ''
+            };
+            
+            try {
+                // Salvar despesa
+                const response = await fetch('/api/expense', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(formData)
+                });
+                
+                const result = await response.json();
+                
+                if (result.status === 'success') {
+                    resultDiv.className = 'result';
+                    messageDiv.innerHTML = `
+                        <div class="category">✅ Despesa Adicionada!</div>
+                        <p><strong>Descrição:</strong> ${formData.descricao}</p>
+                        <p><strong>Valor:</strong> R$ ${formData.valor.toFixed(2)}</p>
+                        <p><strong>Categoria:</strong> ${formData.categoria}</p>
+                        <p><strong>Data:</strong> ${formData.data}</p>
+                    `;
+                    
+                    // Limpar formulário
+                    document.getElementById('expenseForm').reset();
+                    document.getElementById('data').valueAsDate = new Date();
+                    document.getElementById('suggestion').style.display = 'none';
+                } else {
+                    throw new Error(result.message || 'Erro ao salvar despesa');
+                }
+                
+            } catch (error) {
+                resultDiv.className = 'result error';
+                messageDiv.innerHTML = `<strong>Erro:</strong> ${error.message}`;
+            }
+        });
+    </script>
+</body>
+</html>
+

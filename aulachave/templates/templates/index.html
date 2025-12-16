@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão de Preços de Casas - Universidade de Vassouras</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #a49b94 0%, #f5f5f5 50%, #946c6c 100%);
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(131, 51, 52, 0.2);
+        }
+        .logo { 
+            max-width: 500px;
+            height: auto;
+            margin-bottom: 15px;
+            filter: drop-shadow(0 2px 4px rgba(131, 51, 52, 0.3));
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(131, 51, 52, 0.15);
+            border: 2px solid #a49b94;
+        }
+        h1 {
+            color: #833334;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+            text-shadow: 0 2px 4px rgba(131, 51, 52, 0.2);
+        }
+        .subtitle {
+            color: #946c6c;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+            font-style: italic;
+        }
+        .form-group {
+            margin-bottom: 25px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #833334;
+            font-size: 1.1em;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #a49b94;
+            border-radius: 8px;
+            font-size: 16px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+            background-color: #fafafa;
+        }
+        input[type="number"]:focus {
+            border-color: #833334;
+            outline: none;
+            background-color: white;
+            box-shadow: 0 0 0 3px rgba(131, 51, 52, 0.1);
+        }
+        button {
+            background: linear-gradient(135deg, #833334 0%, #946c6c 100%);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            width: 100%;
+            margin-top: 15px;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        button:hover {
+            background: linear-gradient(135deg, #6b2829 0%, #7a5a5a 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(131, 51, 52, 0.3);
+        }
+        button:active {
+            transform: translateY(0);
+        }
+        .result {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f8f6f5 0%, #f0edea 100%);
+            border-radius: 10px;
+            border-left: 5px solid #833334;
+            display: none;
+            box-shadow: 0 4px 15px rgba(131, 51, 52, 0.1);
+        }
+        .result h3 {
+            margin-top: 0;
+            color: #833334;
+            font-size: 1.3em;
+        }
+        .price {
+            font-size: 28px;
+            font-weight: bold;
+            color: #833334;
+            text-align: center;
+            margin-top: 10px;
+            text-shadow: 0 2px 4px rgba(131, 51, 52, 0.2);
+        }
+        .error {
+            background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+            border-left-color: #d32f2f;
+            color: #c62828;
+        }
+        .loading {
+            text-align: center;
+            color: #946c6c;
+            font-size: 1.1em;
+        }
+        .university-info {
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(131, 51, 52, 0.05);
+            border-radius: 8px;
+            color: #833334;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="{{ url_for('static', filename='Logo_Universidade.png') }}" alt="Logo Universidade de Vassouras" class="logo">
+        <h1>🏠 Previsão de Preços de Casas</h1>
+        <p class="subtitle">Sistema de Inteligência Artificial para Avaliação Imobiliária</p>
+    </div>
+    
+    <div class="container">
+        <form id="predictionForm">
+            <div class="form-group">
+                <label for="area">Área Total (m²):</label>
+                <input type="number" id="area" name="area" min="1" max="1000" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="bedrooms">Número de Quartos:</label>
+                <input type="number" id="bedrooms" name="bedrooms" min="1" max="10" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="bathrooms">Número de Banheiros:</label>
+                <input type="number" id="bathrooms" name="bathrooms" min="1" max="10" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="age">Idade da Casa (anos):</label>
+                <input type="number" id="age" name="age" min="0" max="100" required>
+            </div>
+            
+            <button type="submit">Calcular Preço Estimado</button>
+        </form>
+        
+        <div id="result" class="result">
+            <h3>Resultado da Previsão:</h3>
+            <div id="price" class="price"></div>
+        </div>
+        
+        <div class="university-info">
+            <p><strong>Universidade de Vassouras</strong></p>
+            <p>Curso de Engenharia de Software - Inteligência Artificial e Machine Learning</p>
+            <p>Simulado para Prova Prática - Sistema de Previsão de Preços Imobiliários</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('predictionForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const resultDiv = document.getElementById('result');
+            const priceDiv = document.getElementById('price');
+            
+            // Mostrar loading
+            resultDiv.style.display = 'block';
+            resultDiv.className = 'result loading';
+            priceDiv.innerHTML = 'Calculando...';
+            
+            // Coletar dados do formulário
+            const formData = new FormData(this);
+            const data = {
+                area: parseFloat(formData.get('area')),
+                bedrooms: parseInt(formData.get('bedrooms')),
+                bathrooms: parseInt(formData.get('bathrooms')),
+                age: parseInt(formData.get('age'))
+            };
+            
+            try {
+                // Fazer requisição para a API
+                const response = await fetch('/api/prever', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(data)
+                });
+                
+                const result = await response.json();
+                
+                if (result.status === 'success') {
+                    resultDiv.className = 'result';
+                    priceDiv.innerHTML = `R$ ${result.preco_previsto.toLocaleString('pt-BR', {minimumFractionDigits: 2})}`;
+                } else {
+                    throw new Error(result.message || 'Erro na previsão');
+                }
+                
+            } catch (error) {
+                resultDiv.className = 'result error';
+                priceDiv.innerHTML = `Erro: ${error.message}`;
+            }
+        });
+    </script>
+</body>
+</html>

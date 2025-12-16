@@ -1,0 +1,180 @@
+================================================================================
+NOVA FEATURE: Exibir Discordancia entre ML e LLM
+================================================================================
+
+Data: 15 de Dezembro de 2025
+Status: IMPLEMENTADO
+
+================================================================================
+MUDANCA REALIZADA
+================================================================================
+
+Arquivo: templates/index.html (linhas 295-335)
+
+ANTES:
+  - Mostrava apenas a categoria escolhida (ML ou LLM)
+  - Nao mostrava o que o outro metodo sugeriu
+  - Usuario nao sabia quando havia discordancia
+
+DEPOIS:
+  - Mostra a categoria escolhida (com maior confianca)
+  - SE ML e LLM discordaram:
+    * Exibe ALERTA de discordancia
+    * Mostra o que ML sugeriu (categoria + confianca)
+    * Mostra o que LLM sugeriu (categoria + confianca)
+  - SE concordaram:
+    * Mostra mensagem de consenso "ML e LLM concordaram!"
+
+================================================================================
+EXEMPLOS DE EXIBICAO
+================================================================================
+
+Cenario 1: ML e LLM CONCORDAM
+┌────────────────────────────────────┐
+│ Sugestao de Categoria              │
+│ Alimentacao (Confianca: 95%)       │
+│ Metodo: hybrid (fallback + ml)     │
+│                                     │
+│ ✅ ML e LLM concordaram!            │
+└────────────────────────────────────┘
+
+Cenario 2: ML e LLM DISCORDAM (ML venceu)
+┌────────────────────────────────────┐
+│ Sugestao de Categoria              │
+│ Transporte (Confianca: 88%)        │
+│ Metodo: ml (discordancia com llm)  │
+│ ─────────────────────────────────  │
+│ ⚠️ Discordancia Detectada:         │
+│ 🤖 ML sugeriu: Transporte (88%)    │
+│ 🧠 LLM sugeriu: Alimentacao (75%)  │
+└────────────────────────────────────┘
+
+Cenario 3: ML e LLM DISCORDAM (LLM venceu)
+┌────────────────────────────────────┐
+│ Sugestao de Categoria              │
+│ Saude (Confianca: 92%)             │
+│ Metodo: openai (discordancia ML)   │
+│ ─────────────────────────────────  │
+│ ⚠️ Discordancia Detectada:         │
+│ 🤖 ML sugeriu: Lazer (65%)         │
+│ 🧠 LLM sugeriu: Saude (92%)        │
+└────────────────────────────────────┘
+
+================================================================================
+LOGICA DE DECISAO
+================================================================================
+
+1. Sistema chama /api/classify/hybrid
+   ↓
+2. Backend classifica com ML (se disponivel)
+   ↓
+3. Backend classifica com LLM
+   ↓
+4. Backend compara resultados:
+   
+   SE ml_categoria == llm_categoria:
+     - Aumenta confianca (consenso)
+     - Retorna: categoria + "ML e LLM concordaram"
+   
+   SE ml_categoria != llm_categoria:
+     - Escolhe o de MAIOR confianca
+     - Retorna: categoria vencedora + detalhes do perdedor
+   
+   ↓
+5. Frontend exibe:
+   - Categoria escolhida (destaque)
+   - Se discordaram: Alerta + ambas as sugestoes
+   - Se concordaram: Mensagem de consenso
+
+================================================================================
+CAMPOS RETORNADOS PELA API
+================================================================================
+
+Response do /api/classify/hybrid:
+
+{
+  "status": "success",
+  "categoria": "Transporte",           // Categoria escolhida
+  "confianca": 0.88,                    // Confianca da escolhida
+  "metodo": "hybrid",
+  "provider": "ml (discordancia LLM)",  // Quem venceu
+  "detalhes": {
+    "categoria": "Transporte",          // Mesma coisa
+    "confianca": 0.88,
+    "provider": "ml (discordancia)",
+    "llm_categoria": "Alimentacao",     // O que LLM sugeriu
+    "llm_confianca": 0.75,
+    "ml_categoria": "Transporte",       // (opcional, se discordou)
+    "ml_confianca": 0.88
+  }
+}
+
+================================================================================
+BENEFICIOS
+================================================================================
+
+1. TRANSPARENCIA
+   Usuario ve TODAS as sugestoes, nao apenas a escolhida
+
+2. APRENDIZADO
+   Usuario pode perceber padroes:
+   - ML sempre erra X
+   - LLM sempre acerta Y
+   - Pode ajustar categorias no CSV
+
+3. CONFIANCA
+   Quando ambos concordam, usuario fica mais seguro
+   Quando discordam, usuario pode decidir manualmente
+
+4. DEBUG
+   Ajuda a identificar problemas:
+   - ML mal treinado
+   - LLM com prompts ruins
+   - Categorias ambiguas
+
+================================================================================
+PROXIMOS PASSOS
+================================================================================
+
+Para testar a feature:
+
+1. Reiniciar app (para carregar modelo ML)
+   docker restart finance-ml-app
+
+2. Acessar interface
+   http://localhost:5000
+
+3. Testar despesas que podem gerar discordancia:
+   - "Uber Eats comida" (Transporte ou Alimentacao?)
+   - "Academia fitness" (Saude ou Lazer?)
+   - "Netflix" (Lazer ou Educacao?)
+
+4. Observar o alerta de discordancia aparecer!
+
+================================================================================
+CODIGO JAVASCRIPT ADICIONADO
+================================================================================
+
+Linhas ~295-335 em templates/index.html:
+
+// Se ML e LLM discordaram, mostrar AMBAS as sugestoes
+if (detalhes.ml_categoria && 
+    detalhes.ml_categoria !== result.categoria) {
+    
+    // Mostrar alerta com AMBAS as sugestoes:
+    // - O que ML sugeriu
+    // - O que LLM sugeriu
+    // - Qual foi escolhido (maior confianca)
+}
+
+================================================================================
+FIM DA FEATURE
+================================================================================
+
+Status: IMPLEMENTADO e PRONTO PARA USAR
+
+Para ativar: Reiniciar o app Flask
+  docker restart finance-ml-app
+
+Entao testar no navegador!
+

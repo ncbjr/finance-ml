@@ -1,0 +1,29 @@
+
+services:
+  finance-ml:
+    build: .
+    container_name: finance-ml-app
+    ports:
+      - "5000:5000"
+    volumes:
+      # Volume para persistir dados e modelos
+      - ./data:/app/data
+      # Volume para desenvolvimento (opcional - comentar em produção)
+      - .:/app
+    environment:
+      - FLASK_ENV=${FLASK_ENV:-development}
+      - FLASK_DEBUG=${FLASK_DEBUG:-True}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY:-}
+      - GROQ_API_KEY=${GROQ_API_KEY:-}
+      - XAI_API_KEY=${XAI_API_KEY:-}
+    env_file:
+      - .env
+    restart: unless-stopped
+    networks:
+      - finance-network
+
+networks:
+  finance-network:
+    driver: bridge
