@@ -1,0 +1,19 @@
+# Combined requirements from aulachave and aulasseguintes
+# Machine Learning and Web Framework
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+flask
+
+# LLM Providers
+python-dotenv
+openai
+anthropic
+google-generativeai
+xai-sdk
+groq
+ollama
+
