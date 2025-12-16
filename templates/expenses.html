@@ -478,7 +478,6 @@
                             <th class="sortable" data-sort="valor" onclick="sortTable('valor')">Valor</th>
                             <th>Categoria</th>
                             <th>Subcategoria</th>
-                            <th>Tags</th>
                             <th>Ações</th>
                         </tr>
                     </thead>
@@ -655,15 +654,16 @@
                 const row = document.createElement('tr');
                 const dataFormatada = formatDate(expense.data);
                 const valorFormatado = formatCurrency(expense.valor);
-                const categoriaClass = getCategoriaClass(expense.categoria);
+                // Usar tags como categoria (em caixa alta)
+                const categoriaTag = expense.tags ? expense.tags.trim().toUpperCase() : 'N/A';
+                const categoriaClass = getCategoriaClass(categoriaTag);
 
                 row.innerHTML = `
                     <td>${dataFormatada}</td>
                     <td>${escapeHtml(expense.descricao)}</td>
                     <td><strong>${valorFormatado}</strong></td>
-                    <td><span class="badge ${categoriaClass}">${escapeHtml(expense.categoria || 'N/A')}</span></td>
+                    <td><span class="badge ${categoriaClass}">${escapeHtml(categoriaTag)}</span></td>
                     <td><span class="badge badge-subcategoria">${escapeHtml(expense.subcategoria || 'N/A')}</span></td>
-                    <td>${formatTags(expense.tags)}</td>
                     <td>
                         <div class="action-buttons">
                             <button class="btn-icon btn-edit" onclick="editExpense(${index})" title="Editar">✏️</button>
